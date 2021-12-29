@@ -1,0 +1,29 @@
+{
+  "name": "vech-gridsome-front",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-drupal": "^0.4.1",
+    "@headlessui/vue": "^1.4.2",
+    "@tailwindcss/forms": "^0.4.0",
+    "@tailwindcss/line-clamp": "^0.3.0",
+    "algoliasearch": "^4.11.0",
+    "autoprefixer": "^9",
+    "gridsome": "^0.7.0",
+    "gridsome-plugin-algolia": "^2.1.4",
+    "gridsome-plugin-flexsearch": "^2.0.2",
+    "gridsome-plugin-tailwindcss": "^4.1.1",
+    "html-to-text": "^8.1.0",
+    "instantsearch.css": "^7.4.5",
+    "luxon": "^2.2.0",
+    "postcss": "^7",
+    "postcss-import": "^14.0.2",
+    "postcss-preset-env": "^7.0.1",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
+    "vue-instantsearch": "^4.3.0"
+  }
+}
