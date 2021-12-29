@@ -52,9 +52,10 @@
 <script>
 const navigation = [
   { name: "About 緣起", href: "/about/" },
-  { name: "Events 活動", href: "/events/" },
+  { name: "Browse 瀏覽", href: "/events/" },
+  { name: "Search 搜尋", href: "/search/" },
   { name: "Digest 週報", href: "/weekly-digest/" },
-  { name: "Submit 登記活動", href: "#" },
+  { name: "Submit 登記活動", href: "/submit/" },
 ];
 
 export default {
