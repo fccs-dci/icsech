@@ -74,45 +74,6 @@ module.exports = {
       },
     },
     {
-      use: "gridsome-plugin-flexsearch",
-      options: {
-        autoSetup: false,
-        searchFields: [
-          "title",
-          "field_description",
-          "field_speakers",
-          "field_organizers",
-        ],
-        collections: [
-          {
-            typeName: "DrupalNodeEvent",
-            indexName: "DrupalNodeEvent",
-            fields: [
-              "id",
-              "title",
-              "field_description",
-              "field_speakers",
-              "field_organizers",
-              "field_event_mode",
-              "field_event_category",
-              "field_registration",
-              "field_starting_time",
-            ],
-            flexsearch: {
-              encode: false,
-              tokenize: function(str) {
-                const cjkItems = str.replace(/[\x00-\x7F]/g, "").split("");
-                const asciiItems = str
-                  .replace(/[^\x00-\x7F]/g, "")
-                  .split(/\W+/);
-                return cjkItems.concat(asciiItems);
-              },
-            },
-          },
-        ],
-      },
-    },
-    {
       use: `gridsome-plugin-algolia`,
       options: {
         appId: process.env.ALGOLIA_APP_ID,
