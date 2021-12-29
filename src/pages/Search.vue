@@ -5,6 +5,7 @@
         :search-client="searchClient"
         index-name="dev_DRUPALEVENTS"
         class="text-xs"
+        :stalled-search-delay="2000"
       >
         <ais-search-box />
         <div class="grid grid-cols-1">
@@ -50,33 +51,6 @@ export default {
         "COIVUY7A28",
         "d35f214bf1152c30583045b4f4955e2c"
       ),
-      timeItems: [
-        {
-          label: "Next 7 days",
-          start: this.$DateTime.now().toMillis(),
-          end: this.$DateTime
-            .now()
-            .plus({ days: 7 })
-            .toMillis(),
-        },
-        {
-          label: "Next 30 days",
-          start: this.$DateTime.now().toMillis(),
-          end: this.$DateTime
-            .now()
-            .plus({ days: 30 })
-            .toMillis(),
-        },
-        {
-          label: "All future events",
-          start: this.$DateTime.now().toMillis(),
-          end: this.$DateTime
-            .now()
-            .plus({ years: 30 })
-            .toMillis(),
-        },
-        { label: "All past events", end: this.$DateTime.now().toMillis() },
-      ],
     };
   },
   methods: {
