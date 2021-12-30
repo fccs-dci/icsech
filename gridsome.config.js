@@ -69,7 +69,7 @@ module.exports = {
       use: "@gridsome/source-drupal",
       options: {
         typeName: "drupal",
-        baseUrl: "http://3.227.105.202",
+        baseUrl: process.env.DRUPAL_BASEURL,
         exclude: [...defaultExcludes],
       },
     },
