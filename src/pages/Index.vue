@@ -57,24 +57,23 @@
 <script>
 const supportLinks = [
   {
-    name: "Find Events",
-    href: "#",
+    name: "Browse Events",
+    href: "/events",
+    description: "Browse future events.",
+    action: "Browse",
+  },
+  {
+    name: "Search Events",
+    href: "/search",
     description:
-      "Searching and filtering events with speakers, organizers, and time.",
-    action: "Search events",
+      "Search past and future events with speakers, organizers, and description.",
+    action: "Search",
   },
   {
     name: "Weekly Digest",
-    href: "#",
+    href: "/weekly-digest",
     description: "Keeping update with the weekly digest listing events.",
     action: "Subscribe",
-  },
-  {
-    name: "Submit Events",
-    href: "#",
-    description:
-      "Want more people to know about your events? Please submit your events to the database.",
-    action: "Submit events",
   },
 ];
 
