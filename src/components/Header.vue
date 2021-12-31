@@ -24,26 +24,26 @@
             />
           </a>
           <div class="hidden ml-10 space-x-8 lg:block">
-            <a
+            <g-link
               v-for="link in navigation"
               :key="link.name"
-              :href="link.href"
+              :to="link.href"
               class="text-base font-medium text-red-800 hover:text-primary"
             >
               {{ link.name }}
-            </a>
+            </g-link>
           </div>
         </div>
       </div>
       <div class="py-4 flex flex-wrap justify-center space-x-6 lg:hidden">
-        <a
+        <g-link
           v-for="link in navigation"
           :key="link.name"
-          :href="link.href"
+          :to="link.href"
           class="text-base font-medium text-red-800 hover:text-primary"
         >
           {{ link.name }}
-        </a>
+        </g-link>
       </div>
     </nav>
   </header>
