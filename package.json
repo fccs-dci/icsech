@@ -7,6 +7,7 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
+    "@gridsome/plugin-google-analytics": "^0.1.2",
     "@gridsome/source-drupal": "^0.4.1",
     "@headlessui/vue": "^1.4.2",
     "@tailwindcss/forms": "^0.4.0",

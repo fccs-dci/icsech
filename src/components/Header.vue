@@ -15,14 +15,14 @@
         "
       >
         <div class="flex items-center">
-          <a href="/">
+          <g-link to="/">
             <span class="sr-only">Event Database</span>
             <g-image
               class="h-20 w-auto"
               src="~/assets/FC-PrimaryLogo-Red-2x.png"
               alt="Fairbank Center logo"
             />
-          </a>
+          </g-link>
           <div class="hidden ml-10 space-x-8 lg:block">
             <g-link
               v-for="link in navigation"

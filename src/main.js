@@ -12,11 +12,4 @@ export default function(Vue, { router, head, isClient }) {
   Vue.prototype.$DateTime = DateTime;
   // Use InstantSearch
   Vue.use(InstantSearch);
-  // // Filter to strip HTML
-  // Vue.filter("stripHTML", function(value) {
-  //   const div = document.createElement("div");
-  //   div.innerHTML = value;
-  //   const text = div.textContent || div.innerText || "";
-  //   return text;
-  // });
 }
