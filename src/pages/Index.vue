@@ -27,7 +27,7 @@
         class="-mt-32 max-w-7xl mx-auto relative z-10 pb-32 px-4 sm:px-6 lg:px-8"
         aria-labelledby="contact-heading"
       >
-        <h2 class="sr-only" id="contact-heading">Contact us</h2>
+        <h2 class="sr-only" id="contact-heading">Different features</h2>
         <div
           class="grid grid-cols-1 gap-y-20 lg:grid-cols-3 lg:gap-y-0 lg:gap-x-8"
         >
@@ -59,7 +59,7 @@ const supportLinks = [
   {
     name: "Browse Events",
     href: "/events",
-    description: "Browse future events.",
+    description: "Browse forthcoming Chinese studies events.",
     action: "Browse",
   },
   {

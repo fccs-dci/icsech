@@ -17,7 +17,7 @@
       </div>
       <div v-if="description">
         <p class="line-clamp-5 text-sm text-gray-900 mt-4">
-          {{ description.value }}
+          {{ description.value | stripHTML }}
         </p>
       </div>
       <div class="flex justify-end mt-4">
@@ -37,6 +37,5 @@
 <script>
 export default {
   props: ["id", "title", "starting_time", "description"],
-  computed: {},
 };
 </script>
