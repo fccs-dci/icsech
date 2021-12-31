@@ -3,7 +3,7 @@
     <div class="block py-4 px-8 bg-white shadow-lg rounded-lg my-10">
       <div class="justify-start border-b border-red-800 w-full">
         <h3 class="text-primary font-semibold">
-          {{ title }}
+          {{ title.toUpperCase() }}
         </h3>
       </div>
       <div>
@@ -37,5 +37,10 @@
 <script>
 export default {
   props: ["id", "title", "starting_time", "description"],
+  filters: {
+    stripHTML: function(string) {
+      return string.replace(/<\/?[^>]+>/gi, "");
+    },
+  },
 };
 </script>
