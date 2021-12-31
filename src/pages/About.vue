@@ -12,7 +12,7 @@
             >
             <span
               class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl"
-              >International Chinese Studies Event Clearing-house</span
+              >International Chinese Studies Events Clearing-house</span
             >
           </h1>
         </div>
@@ -21,7 +21,7 @@
             In spring 2020, as a result of the Covid-19 pandemic, China Studies
             around the world moved online. One unanticipated consequence of this
             unfortunate situation is that it is now possible to attend events
-            regardless of one's location. The China Studies Virtual Events
+            regardless of one's location. The International Chinese Studies Events
             Clearing-house has been created to share information about upcoming
             online events with the broader China studies community. The
             Clearing-house was created and is maintained by the Fairbank Center
