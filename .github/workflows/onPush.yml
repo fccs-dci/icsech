@@ -3,7 +3,7 @@ name: Build & Deploy on Push
 on:
   push:
     branches:
-      - master
+      - main
 
 env:
   ALGOLIA_APP_ID: ${{secrets.ALGOLIA_APP_ID}}
