@@ -51,7 +51,7 @@ const collections = [
 
 module.exports = {
   siteName: "International Chinese Studies Event Database",
-  siteUrl: "https://fccs-dci.github.io/icsech",
+  pathPrefix: "/icsech",
   plugins: [
     {
       use: "gridsome-plugin-tailwindcss",
