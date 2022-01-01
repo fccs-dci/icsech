@@ -15,7 +15,6 @@
               >International Chinese Studies Events Clearing-house</span
             >
           </h1>
-        </div>
         <div class="mt-6 prose prose-indigo prose-lg text-gray-500 mx-auto">
           <p>
             In spring 2020, as a result of the Covid-19 pandemic, China Studies
@@ -53,6 +52,7 @@
           </p>
         </div>
       </div>
+    </div>
     </div>
   </layout>
 </template>

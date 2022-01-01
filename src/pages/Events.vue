@@ -2,7 +2,7 @@
   <Layout>
     <!-- Rendering cards with the data -->
     <div
-      class="grid grid-cols-1 gap-4 justify-middle sm:grid-cols-2 lg:grid-cols-3"
+      class="grid grid-cols-1 gap-4 justify-middle sm:grid-cols-2 lg:grid-cols-3 mx-auto"
     >
       <div
         class="container col-auto"
