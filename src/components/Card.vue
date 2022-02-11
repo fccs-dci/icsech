@@ -7,6 +7,11 @@
         </h3>
       </div>
       <div>
+        <p class="text-gray-800 text-sm">
+          {{ speakers.value.toUpperCase() | stripHTML }}
+        </p>
+      </div>
+      <div>
         <p class="text-gray-500 text-sm">
           {{
             this.$DateTime
@@ -36,7 +41,7 @@
 
 <script>
 export default {
-  props: ["id", "title", "starting_time", "description"],
+  props: ["id", "title", "starting_time", "speakers", "description"],
   filters: {
     stripHTML: function(string) {
       return string.replace(/<\/?[^>]+>/gi, "");

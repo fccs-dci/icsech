@@ -12,11 +12,11 @@
           <h1
             class="text-2xl font-extrabold tracking-tight text-white md:text-3xl lg:text-4xl"
           >
-            International Chinese Studies Events Clearing-house
+            International China Studies Events Clearing-house
           </h1>
           <p class="mt-6 max-w-3xl text-xl text-gray-300">
             The Fairbank Center for Chinese Studies at Harvard University
-            provides the International Chinese Studies Event Clearing-house as a
+            provides the International China Studies Event Clearing-house as a
             service to the Chinese Studies community world-wide.
           </p>
         </div>

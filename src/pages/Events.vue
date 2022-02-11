@@ -12,6 +12,7 @@
         <Card
           :id="event.node.id"
           :title="event.node.title"
+          :speakers="event.node.field_speakers"
           :starting_time="event.node.field_starting_time"
           :description="event.node.field_description"
           :mode="event.node.field_mode"

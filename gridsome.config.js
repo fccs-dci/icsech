@@ -50,8 +50,8 @@ const collections = [
 ];
 
 module.exports = {
-  siteName: "International Chinese Studies Events Clearing-house",
-  siteUrl: "https://fccs-dci.github.io/",
+  siteName: "International China Studies Events Clearing-house",
+  siteUrl: "http://clearinghouse.fairbank.fas.harvard.edu/",
   pathPrefix: "/icsech",
   plugins: [
     {
