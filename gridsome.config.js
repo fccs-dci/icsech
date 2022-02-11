@@ -52,7 +52,7 @@ const collections = [
 module.exports = {
   siteName: "International China Studies Events Clearing-house",
   siteUrl: "http://clearinghouse.fairbank.fas.harvard.edu/",
-  pathPrefix: "/icsech",
+  // pathPrefix: "/icsech",
   plugins: [
     {
       use: "gridsome-plugin-tailwindcss",
