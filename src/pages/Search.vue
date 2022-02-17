@@ -8,10 +8,10 @@
         :stalled-search-delay="2000"
       >
         <ais-search-box />
-        <ais-powered-by class="justify-end" />
+        <ais-powered-by class="justify-center" />
         <div class="grid grid-cols-1">
           <div>
-            <ais-hits>
+            <ais-hits :escapeHTML="true">
               <template v-slot:item="{ item }">
                 <g-link
                   :to="{ path: '/event/' + item.objectID }"
@@ -23,10 +23,10 @@
                     </div>
                     <div class="grid-cols-2">
                       <p class="text-gray-500" text-sm>
-                        {{ item.organizers.value }}
+                        {{ item.organizers.value | stripHTML }}
                       </p>
                       <p>
-                        {{ item.speakers.value }}
+                        {{ item.speakers.value | stripHTML }}
                       </p>
                     </div>
                   </div></g-link
@@ -53,6 +53,11 @@ export default {
         "d35f214bf1152c30583045b4f4955e2c"
       ),
     };
+  },
+  filters: {
+    stripHTML: function(string) {
+      return string.replace(/<\/?[^>]+>/gi, "");
+    },
   },
   methods: {
     getStaticValues: (items) => {
