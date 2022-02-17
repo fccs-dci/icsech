@@ -8,7 +8,7 @@
         :stalled-search-delay="2000"
       >
         <ais-search-box />
-        <ais-powered-by class="justify-center" />
+        <ais-powered-by />
         <div class="grid grid-cols-1">
           <div>
             <ais-hits>
