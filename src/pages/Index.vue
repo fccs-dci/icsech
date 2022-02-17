@@ -79,9 +79,6 @@ const supportLinks = [
 ];
 
 export default {
-  metaInfo: {
-    title: "Home",
-  },
   data() {
     return {
       supportLinks,

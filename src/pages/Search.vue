@@ -8,7 +8,17 @@
         :stalled-search-delay="2000"
       >
         <ais-search-box />
-        <ais-powered-by />
+        <div class="ais-PoweredBy justify-end">
+          <span class="ais-PoweredBy-text">Search by</span>
+          <a
+            href="https://algolia.com"
+            class="ais-PoweredBy-link"
+            target="_blank"
+            aria-label="Algolia"
+          >
+            <g-image width="70" src="~/assets/logo-algolia.svg" />
+          </a>
+        </div>
         <div class="grid grid-cols-1">
           <div>
             <ais-hits>
