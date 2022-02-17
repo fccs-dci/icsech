@@ -11,7 +11,7 @@
         <ais-powered-by class="justify-center" />
         <div class="grid grid-cols-1">
           <div>
-            <ais-hits :escapeHTML="true">
+            <ais-hits>
               <template v-slot:item="{ item }">
                 <g-link
                   :to="{ path: '/event/' + item.objectID }"
