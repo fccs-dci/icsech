@@ -6,7 +6,7 @@
           {{ title.toUpperCase() }}
         </h3>
       </div>
-      <div>
+      <div v-if="speakers">
         <p class="text-gray-800 text-sm">
           {{ speakers.value.toUpperCase() | stripHTML }}
         </p>

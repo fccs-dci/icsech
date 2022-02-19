@@ -148,7 +148,7 @@
           </div>
 
           <!-- Website -->
-          <div
+          <div v-if="field_event_website"
             class="bg-white border-b px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4
             sm:px-6"
           >
