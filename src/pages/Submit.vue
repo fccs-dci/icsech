@@ -16,11 +16,11 @@
           <p class="mt-8 text-xl text-gray-500 leading-8">
             If you would like to receive credentials to add your events to the
             catalog, please send an email using your university or other
-            professional email to fairbankcenter@fas.harvard.edu.
+            professional email to fairbankcenter@g.harvard.edu.
           </p>
           <br />
           <p>
-            假如閣下希望把貴機構舉辦的活動加入本目錄，請以大學或機構電郵帳號聯絡fairbankcenter@fas.harvard.edu。
+            假如閣下希望把貴機構舉辦的活動加入本目錄，請以大學或機構電郵帳號聯絡fairbankcenter@g.harvard.edu。
           </p>
         </div>
       </div>
