@@ -44,7 +44,7 @@ export default {
   props: ["id", "title", "starting_time", "speakers", "description"],
   filters: {
     stripHTML: function(string) {
-      return string.replace(/<\/?[^>]+>/gi, "");
+      return string.replace(/<\/?[^>]+>/gi, "").replace(/&nbsp;/gi, "");
     },
   },
 };
