@@ -138,7 +138,7 @@
                     Registration is required. 活動需要登記。
                   </p>
                   <p v-else>Registration is not required. 無需登記。</p>
-                  <p v-if="$page.drupalNodeEvent.field_record">
+                  <p v-if="$page.drupalNodeEvent.field_event_record">
                     The event is recorded. 活動過程將會錄影。
                   </p>
                   <p v-else>The event is not recorded. 活動過程不會錄影。</p>
