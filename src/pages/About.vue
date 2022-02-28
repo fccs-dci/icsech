@@ -21,7 +21,6 @@
             The International China Studies Events Clearing-house has been created to share information about upcoming online events with the broader China studies community.
             The Clearing-house is maintained by the Fairbank Center for Chinese Studies at Harvard University.   It was built by Kwok-Leong Tang, Digital China Fellow at the Fairbank Center.  
             We rely on our colleagues around the world to include their upcoming events; the catalog is not intended to be comprehensive. The Fairbank Center provides this clearing-house as a service to the field. We do not take responsibility for any of the events listed here, and unfortunately cannot respond to queries. Please contact the organizer of the specific event directly. We hope you find this catalog helpful.
-            specific event directly. We hope you find this catalog helpful.
           </p>
         </div>
                   <div class="text-lg max-w-prose mx-auto py-8">
