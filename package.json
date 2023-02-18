@@ -25,6 +25,7 @@
     "postcss-import": "^14.0.2",
     "postcss-preset-env": "^7.0.1",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat",
-    "vue-instantsearch": "^4.3.0"
+    "vue-instantsearch": "^4.3.0",
+    "browserslist": "^4.21.5"
   }
 }
