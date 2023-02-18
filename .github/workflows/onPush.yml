@@ -20,11 +20,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v1
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16.x' # or any other version of Node.js that you want to use
+
       - name: Installing packages
         run: npm install --legacy-peer-deps
-
-      # - name: Update browserlist
-      #   run: npx browserslist@latest --update-db
 
       - name: Build Gridsome site
         run: npm run build
