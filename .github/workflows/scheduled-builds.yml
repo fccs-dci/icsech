@@ -27,7 +27,7 @@ jobs:
       #   run: npx browserslist@latest --update-db
 
       - name: Build Gridsome site
-        run: yarn build
+        run: npm build
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.7
