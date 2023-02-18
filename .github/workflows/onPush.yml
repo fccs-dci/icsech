@@ -23,6 +23,9 @@ jobs:
       - name: Installing packages
         run: npm install --legacy-peer-deps
 
+      - name: Update browserlist
+        run: npx browserslist@latest --update-db
+
       - name: Build Gridsome site
         run: yarn build
 
