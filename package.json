@@ -1,31 +1,28 @@
 {
-  "name": "vech-gridsome-front",
+  "name": "icsech",
   "private": true,
   "scripts": {
-    "build": "gridsome build",
-    "develop": "gridsome develop",
-    "explore": "gridsome explore"
+    "dev": "next dev",
+    "build": "tsx src/lib/algolia-index.ts && next build",
+    "start": "next start"
   },
   "dependencies": {
-    "@gridsome/plugin-google-analytics": "^0.1.2",
-    "@gridsome/source-drupal": "^0.4.1",
-    "@headlessui/vue": "^1.4.2",
-    "@tailwindcss/forms": "^0.4.0",
-    "@tailwindcss/line-clamp": "^0.3.0",
-    "algoliasearch": "^4.11.0",
-    "autoprefixer": "^9",
-    "gridsome": "^0.7.0",
-    "gridsome-plugin-algolia": "^2.1.4",
-    "gridsome-plugin-flexsearch": "^2.0.2",
-    "gridsome-plugin-tailwindcss": "^4.1.1",
-    "html-to-text": "^8.1.0",
-    "instantsearch.css": "^7.4.5",
-    "luxon": "^2.2.0",
-    "postcss": "^7",
-    "postcss-import": "^14.0.2",
-    "postcss-preset-env": "^7.0.1",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
-    "vue-instantsearch": "^4.3.0",
-    "browserslist": "^4.21.5"
+    "@next/third-parties": "^15.1.0",
+    "algoliasearch": "^5.20.0",
+    "luxon": "^3.5.0",
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-instantsearch": "^7.13.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.0",
+    "@types/luxon": "^3.4.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "tailwindcss": "^4.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
   }
 }
