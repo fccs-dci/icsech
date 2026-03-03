@@ -1,0 +1,140 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","715a4a66-1ed4-4c0d-97cd-9349a229eea7",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","715a4a66-1ed4-4c0d-97cd-9349a229eea7","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","715a4a66-1ed4-4c0d-97cd-9349a229eea7","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:T622,<p><strong>Townsend Middleton</strong><br />
+Associate Professor Anthropology<br />
+UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL</p>
+
+<p><strong>Ka Ming Wu</strong><br />
+Associate Professor Cultural and Religious Studies<br />
+CHINESE UNIVERSITY OF HONG KONG</p>
+
+<p><strong>Ritajyoti Bandyopadhyay</strong><br />
+Assistant Professor<br />
+Humanities and Social Sciences<br />
+INDIAN INSTITUTE OF SCIENCE EDUCATION AND RESEARCH</p>
+
+<p><strong>Yimin Zhao</strong><br />
+Assistant Professor<br />
+Urban Planning and Management<br />
+RENMIN UNIVERSITY OF CHINA</p>
+
+<p><strong>Sunalini Kumar</strong><br />
+Associate Professor School of Global Affairs<br />
+AMBEDKAR UNIVERSITY</p>
+
+<p><strong>Amy Zhang</strong><br />
+Assistant Professor, Anthropology<br />
+NEW YORK UNIVERSITY</p>
+
+<p><strong>Suraj Gogoi</strong><br />
+Assistant Professor<br />
+School of Liberal Arts and Sciences<br />
+RV UNIVERSITY</p>
+
+<p><strong>Andrew Grant</strong><br />
+Visiting Scholar<br />
+International Studies Program<br />
+BOSTON COLLEGE</p>
+
+<p><strong>Discussants</strong></p>
+
+<p><strong>Sarandha Jain</strong><br />
+Postdoctoral Fellow<br />
+INDIA CHINA INSTITUTE</p>
+
+<p><strong>Antina von Schnitzler</strong><br />
+Associate Professor of International Affairs<br />
+THE NEW SCHOOL</p>
+
+<p><strong>Emma Park</strong><br />
+Assistant Professor of History<br />
+THE NEW SCHOOL FOR SOCIAL RESEARCH</p>
+
+<p><strong>Alexandra Delano Alonso</strong><br />
+Associate Professor of Global Studies<br />
+THE NEW SCHOOL</p>
+
+<p>&nbsp;</p>
+14:T5eb,<p><strong>Townsend Middleton</strong><br />
+Associate Professor Anthropology<br />
+UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL</p>
+
+<p><strong>Ka Ming Wu</strong><br />
+Associate Professor Cultural and Religious Studies<br />
+CHINESE UNIVERSITY OF HONG KONG</p>
+
+<p><strong>Ritajyoti Bandyopadhyay</strong><br />
+Assistant Professor<br />
+Humanities and Social Sciences<br />
+INDIAN INSTITUTE OF SCIENCE EDUCATION AND RESEARCH</p>
+
+<p><strong>Yimin Zhao</strong><br />
+Assistant Professor<br />
+Urban Planning and Management<br />
+RENMIN UNIVERSITY OF CHINA</p>
+
+<p><strong>Sunalini Kumar</strong><br />
+Associate Professor School of Global Affairs<br />
+AMBEDKAR UNIVERSITY</p>
+
+<p><strong>Amy Zhang</strong><br />
+Assistant Professor, Anthropology<br />
+NEW YORK UNIVERSITY</p>
+
+<p><strong>Suraj Gogoi</strong><br />
+Assistant Professor<br />
+School of Liberal Arts and Sciences<br />
+RV UNIVERSITY</p>
+
+<p><strong>Andrew Grant</strong><br />
+Visiting Scholar<br />
+International Studies Program<br />
+BOSTON COLLEGE</p>
+
+<p><strong>Discussants</strong></p>
+
+<p><strong>Sarandha Jain</strong><br />
+Postdoctoral Fellow<br />
+INDIA CHINA INSTITUTE</p>
+
+<p><strong>Antina von Schnitzler</strong><br />
+Associate Professor of International Affairs<br />
+THE NEW SCHOOL</p>
+
+<p><strong>Emma Park</strong><br />
+Assistant Professor of History<br />
+THE NEW SCHOOL FOR SOCIAL RESEARCH</p>
+
+<p><strong>Alexandra Delano Alonso</strong><br />
+Associate Professor of Global Studies<br />
+THE NEW SCHOOL</p>
+
+<p>&nbsp;</p>
+15:Tb3f,<p>India ChIna Institute will host a series of online seminars from February 27-March 10, titled "Flows, Infrastructure and Citizenship in India and China." The seminars are being organized by Dr. Sarandha Jain, the 2022-3 post-doctoral fellow at ICI. The four dialogues will explore how flows, infrastructures, and citizenship encounter each other, and what their co-arrangements mean for the evolving nature of the state. How do flows of people, objects, and natural substances facilitate and/or obstruct the constructions of infrastructure, and vice versa? How do these flows relate similarly to constructions of citizenship? The dialogues will position a scholar of India in conversation with a scholar of China to discuss common themes in their work. The opening dialogue will lay the groundwork for the series’ broader intellectual aims by connecting the three conceptual and empirical frameworks. The three subsequent dialogues, while still focusing on the triadic relationship between the frameworks, will emphasize each of the elements by engaging scholars of India and China who specialize in flows (for the 2nd dialogue), infrastructure (for the 3rd), and citizenship (for the 4th).</p>
+
+<p>Speakers will include Professors&nbsp;<a href="https://townsendmiddleton.org/" rel="nofollow">Townsend Middleton</a>, of the Department of Anthropology at University of North Carolina,&nbsp;<a href="https://www2.crs.cuhk.edu.hk/faculty-staff/teaching-faculty/wu-ka-ming" rel="nofollow">Ka-Ming Wu</a>, of the Cultural and Religious Studies Department at the Chinese University of Hong Kong,&nbsp;<a href="https://web.iisermohali.ac.in/dept/hss/dr-ritajyoti-bandyopadhyay/" rel="nofollow">Ritajyoti Bandyopadhyay</a>, of the School of Humanities and Social Sciences at the Indian Institutes of Science Education and Research,&nbsp;<a href="http://en.spap.ruc.edu.cn/staff/faculty1/b1002e2d6ad146668877cb8f170e87a0.htm" rel="nofollow">Yimin Zhao</a>, of the School of Urban Planning and Management at Renmin University of China,&nbsp;<a href="https://aud.ac.in/faculty/dr-sunalini-kumar" rel="nofollow">Sunalini Kumar</a>, of School of Global Affairs at Ambedkar University,&nbsp;<a href="https://as.nyu.edu/faculty/amy-zhang.html" rel="nofollow">Amy Zhang</a>, of the Department of Anthropology at New York University,&nbsp;<a href="https://rvu.edu.in/team/dr-suraj-gogoi/" rel="nofollow">Suraj Gogoi</a>, of the School of Liberal Arts and Sciences at RV University, and&nbsp;<a href="https://www.bc.edu/bc-web/schools/mcas/sites/isp/people/faculty-profiles/andrew-grant.html" rel="nofollow">Andrew Grant</a>, of the International Studies Program at Boston College.</p>
+
+<p>For more details about the series visit&nbsp;<a href="https://www.indiachinainstitute.org/event/online-flows-infrastructure-citizenship-in-india-and-china/" rel="nofollow">ICI Events page</a>.</p>
+16:Tb3a,<p>India ChIna Institute will host a series of online seminars from February 27-March 10, titled "Flows, Infrastructure and Citizenship in India and China." The seminars are being organized by Dr. Sarandha Jain, the 2022-3 post-doctoral fellow at ICI. The four dialogues will explore how flows, infrastructures, and citizenship encounter each other, and what their co-arrangements mean for the evolving nature of the state. How do flows of people, objects, and natural substances facilitate and/or obstruct the constructions of infrastructure, and vice versa? How do these flows relate similarly to constructions of citizenship? The dialogues will position a scholar of India in conversation with a scholar of China to discuss common themes in their work. The opening dialogue will lay the groundwork for the series’ broader intellectual aims by connecting the three conceptual and empirical frameworks. The three subsequent dialogues, while still focusing on the triadic relationship between the frameworks, will emphasize each of the elements by engaging scholars of India and China who specialize in flows (for the 2nd dialogue), infrastructure (for the 3rd), and citizenship (for the 4th).</p>
+
+<p>Speakers will include Professors&nbsp;<a href="https://townsendmiddleton.org/" rel="nofollow">Townsend Middleton</a>, of the Department of Anthropology at University of North Carolina,&nbsp;<a href="https://www2.crs.cuhk.edu.hk/faculty-staff/teaching-faculty/wu-ka-ming" rel="nofollow">Ka-Ming Wu</a>, of the Cultural and Religious Studies Department at the Chinese University of Hong Kong,&nbsp;<a href="https://web.iisermohali.ac.in/dept/hss/dr-ritajyoti-bandyopadhyay/" rel="nofollow">Ritajyoti Bandyopadhyay</a>, of the School of Humanities and Social Sciences at the Indian Institutes of Science Education and Research,&nbsp;<a href="http://en.spap.ruc.edu.cn/staff/faculty1/b1002e2d6ad146668877cb8f170e87a0.htm" rel="nofollow">Yimin Zhao</a>, of the School of Urban Planning and Management at Renmin University of China,&nbsp;<a href="https://aud.ac.in/faculty/dr-sunalini-kumar" rel="nofollow">Sunalini Kumar</a>, of School of Global Affairs at Ambedkar University,&nbsp;<a href="https://as.nyu.edu/faculty/amy-zhang.html" rel="nofollow">Amy Zhang</a>, of the Department of Anthropology at New York University,&nbsp;<a href="https://rvu.edu.in/team/dr-suraj-gogoi/" rel="nofollow">Suraj Gogoi</a>, of the School of Liberal Arts and Sciences at RV University, and&nbsp;<a href="https://www.bc.edu/bc-web/schools/mcas/sites/isp/people/faculty-profiles/andrew-grant.html" rel="nofollow">Andrew Grant</a>, of the International Studies Program at Boston College.</p>
+
+<p>For more details about the series visit&nbsp;<a href="https://www.indiachinainstitute.org/event/online-flows-infrastructure-citizenship-in-india-and-china/" rel="nofollow">ICI Events page</a>.</p>
+6:["$","$L12",null,{"event":{"id":"715a4a66-1ed4-4c0d-97cd-9349a229eea7","title":"ONLINE | Flows, Infrastructure, Citizenship in India and China - Event Series","field_starting_time":"2023-02-27T14:30:00+00:00","field_speakers":{"value":"$13","format":"event_entering","processed":"$14"},"field_organizers":{"value":"<p>India China Institute at The New School</p>\r\n","format":"event_entering","processed":"<p>India China Institute at The New School</p>\n"},"field_event_mode":"Online","field_event_category":"Talk","field_event_language":"English","field_event_venue":null,"field_event_record":true,"field_registration":true,"field_time_zone":"America/New_York","field_event_website":{"uri":"https://www.indiachinainstitute.org/event/online-flows-infrastructure-citizenship-in-india-and-china/","title":"","options":[]},"field_description":{"value":"$15","format":"event_entering","processed":"$16"}}}]

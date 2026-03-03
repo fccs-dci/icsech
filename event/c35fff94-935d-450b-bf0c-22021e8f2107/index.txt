@@ -1,0 +1,106 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","c35fff94-935d-450b-bf0c-22021e8f2107",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","c35fff94-935d-450b-bf0c-22021e8f2107","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","c35fff94-935d-450b-bf0c-22021e8f2107","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:T13ff,<p>
+<style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
+</style>
+</p>
+
+<ul>
+	<li style="margin-bottom: 11px;">Bill Lavely&nbsp;</li>
+	<li style="margin-bottom: 11px;">James Lin</li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Hsin-huang Michael Hsiao</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Sheng-mei Ma</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Ming-yeh Rawnsley</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Ann Heylen</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Naiyi Hsiao</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Jeffery Hou</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Ming-sho Ho</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Richard Boyechko</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Chih-Jou Jay Chen</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Michelle Fei-Yu Hsieh</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Jieh-Min Wu</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Fu-Chang Wang</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Ekhong Ljavakaw Sia</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Lung-Chih Chang</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Wen-Chin Wu</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Evelyn Shih</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Hsin-Chin Hsieh</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Ting-Fai Yu</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Yen-Pin Su</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Derek Sheridan</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Yu-Yueh Tsai</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Yi-Cheng Hsieh</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Frank Muayrd</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Isabelle Cheng</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Adam K. Dedman</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Howard Chiang</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Hsunhui Tseng</span></span></span></li>
+</ul>
+14:T13db,<p>
+<style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
+</style>
+</p>
+
+<ul>
+	<li style="margin-bottom: 11px;">Bill Lavely&nbsp;</li>
+	<li style="margin-bottom: 11px;">James Lin</li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Hsin-huang Michael Hsiao</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Sheng-mei Ma</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Ming-yeh Rawnsley</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Ann Heylen</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Naiyi Hsiao</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Jeffery Hou</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Ming-sho Ho</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Richard Boyechko</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Chih-Jou Jay Chen</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Michelle Fei-Yu Hsieh</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Jieh-Min Wu</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Fu-Chang Wang</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Ekhong Ljavakaw Sia</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Lung-Chih Chang</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Wen-Chin Wu</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Evelyn Shih</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Hsin-Chin Hsieh</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Ting-Fai Yu</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Yen-Pin Su</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Derek Sheridan</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Yu-Yueh Tsai</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Yi-Cheng Hsieh</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Frank Muayrd</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Isabelle Cheng</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Adam K. Dedman</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Howard Chiang</span></span></span></li>
+	<li style="margin-bottom: 11px;"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Hsunhui Tseng</span></span></span></li>
+</ul>
+15:T5ce,<p>The University of Washington Taiwan Studies Program will host the 4th World Congress of Taiwan Studies from June 27 to 29, 2022.</p>
+
+<p>All three days of the conference will be livestreamed on our&nbsp;<a href="https://www.facebook.com/UWTaiwanStudies/">Facebook</a>&nbsp;and&nbsp;<a href="https://www.youtube.com/c/UniversityofWashingtonTaiwanStudiesProgram">YouTube</a>&nbsp;pages. To join us online,&nbsp;<a href="https://wcts.sinica.edu.tw/wctsIV/zOnlineAudienceRegistration.html">please register at the WCTS website</a>. Registration to view the livestream is free and open to all.&nbsp;<a href="https://wcts.sinica.edu.tw/wctsIV/zCongressProgram.html">The conference program</a>&nbsp;and additional information are also on the WCTS website.</p>
+
+<p>The WCTS brings together the world’s leading Taiwan Studies scholars to share their research. The 4th World Congress general theme is “Taiwan in the Making,” exploring the processes, forces, and dynamics that made and continue to make Taiwan.&nbsp; The quadrennial conference is jointly organized by Academia Sinica and the Taiwan Studies Program, and will be the first time WCTS is held in North America.</p>
+
+<p><em>The 4th World Congress of Taiwan Studies is sponsored by the University of Washington Taiwan Studies Program, Academia Sinica, The Chiang Ching-kuo Foundation for International Scholarly Exchange, the ROC (Taiwan) Ministry of Foreign Affairs, and the ROC (Taiwan) Ministry of Education.</em></p>
+16:T5c7,<p>The University of Washington Taiwan Studies Program will host the 4th World Congress of Taiwan Studies from June 27 to 29, 2022.</p>
+
+<p>All three days of the conference will be livestreamed on our&nbsp;<a href="https://www.facebook.com/UWTaiwanStudies/">Facebook</a>&nbsp;and&nbsp;<a href="https://www.youtube.com/c/UniversityofWashingtonTaiwanStudiesProgram">YouTube</a>&nbsp;pages. To join us online,&nbsp;<a href="https://wcts.sinica.edu.tw/wctsIV/zOnlineAudienceRegistration.html">please register at the WCTS website</a>. Registration to view the livestream is free and open to all.&nbsp;<a href="https://wcts.sinica.edu.tw/wctsIV/zCongressProgram.html">The conference program</a>&nbsp;and additional information are also on the WCTS website.</p>
+
+<p>The WCTS brings together the world’s leading Taiwan Studies scholars to share their research. The 4th World Congress general theme is “Taiwan in the Making,” exploring the processes, forces, and dynamics that made and continue to make Taiwan.&nbsp; The quadrennial conference is jointly organized by Academia Sinica and the Taiwan Studies Program, and will be the first time WCTS is held in North America.</p>
+
+<p><em>The 4th World Congress of Taiwan Studies is sponsored by the University of Washington Taiwan Studies Program, Academia Sinica, The Chiang Ching-kuo Foundation for International Scholarly Exchange, the ROC (Taiwan) Ministry of Foreign Affairs, and the ROC (Taiwan) Ministry of Education.</em></p>
+6:["$","$L12",null,{"event":{"id":"c35fff94-935d-450b-bf0c-22021e8f2107","title":"4th World Congress of Taiwan Studies","field_starting_time":"2022-06-27T15:00:00+00:00","field_speakers":{"value":"$13","format":"event_entering","processed":"$14"},"field_organizers":{"value":"<p>UW Taiwan Studies Program</p>\r\n\r\n<p>Academia Sinica</p>\r\n\r\n<p>&nbsp;</p>\r\n","format":"event_entering","processed":"<p>UW Taiwan Studies Program</p>\n\n<p>Academia Sinica</p>\n\n<p>&nbsp;</p>\n"},"field_event_mode":"Hybrid","field_event_category":"Conference","field_event_language":"English","field_event_venue":"University of Washington","field_event_record":false,"field_registration":true,"field_time_zone":"America/Los_Angeles","field_event_website":{"uri":"https://wcts.sinica.edu.tw/wctsIV/zWelcome.html","title":"","options":[]},"field_description":{"value":"$15","format":"event_entering","processed":"$16"}}}]

@@ -1,0 +1,97 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","dd01914b-274d-4ca1-bc67-e3ed52a6b532",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","dd01914b-274d-4ca1-bc67-e3ed52a6b532","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","dd01914b-274d-4ca1-bc67-e3ed52a6b532","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:T99a,<p>The&nbsp;Miller Center’s&nbsp;2023&nbsp;William and Carol&nbsp;Stevenson Conference examines U.S.–China relations and the role technology plays in this dynamic relationship. Do our technology regulations and security efforts limit our ability to protect our democracy?</p>
+
+<p>Panels feature scholars and practitioners with experience in government, the private sector, journalism, and academia, allowing for wide-ranging dialogue on complex issues.&nbsp;</p>
+
+<h3><em>The&nbsp;<a href="https://millercenter.org/taxonomy/term/556">William and Carol Stevenson Conference</a>&nbsp;is a biennial conference that focuses on issues of national and international importance.</em></h3>
+
+<h3><em>The Miller Center is deeply grateful to the Stevenson family for its support of our work.</em></h3>
+
+<h3><em>Audience members are encouraged to participate in these open, seminar-style discussions.</em></h3>
+
+<p>&nbsp;</p>
+
+<h3>9:00 a.m.–10:00 a.m. ET</h3>
+
+<h3><strong>Apps, platforms, and surveillance</strong>&nbsp;</h3>
+
+<p>How might apps and other technology platforms play a role in Chinese government data-gathering efforts? What are potential policy responses to the increasingly complex data flows between the United States and China? This panel addresses the long-term stability of U.S. technology infrastructure and related concerns for U.S. national security.&nbsp;</p>
+
+<p>Josh Chin, Kara Frederick, Shanthi Kalathil, Aynne Kokas (moderator)</p>
+
+<p>&nbsp;</p>
+
+<h3>10:15 a.m.–11:15 a.m. ET</h3>
+
+<h3><strong>China’s global business and financial infrastructure&nbsp;</strong></h3>
+
+<p>What role do China’s global investments and financial technologies play in the U.S.–China technology competition? How is the financial sector shaping U.S–China tech competition? How might policymakers respond to this challenging landscape while also supporting growth?</p>
+
+<p>Anna Ashton, Martin Chorzempa, Sebastian Mallaby, Syaru Shirley Lin (moderator)</p>
+
+<p>&nbsp;</p>
+
+<h3>11:30 a.m.–12:30 p.m. ET</h3>
+
+<h3><strong>Climate, tech infrastructure, and political influence</strong></h3>
+
+<p>As countries around the world pursue decarbonization and other goals to protect the environment, the U.S. and China might be cooperative or competitive players. What effects are new climate technologies having on global political systems?</p>
+
+<p>Angel Hsu, Joanna Lewis, Scott Moore, Michael Lenox (moderator)</p>
+14:T93e,<p>The Miller Center’s 2023 William and Carol Stevenson Conference examines U.S.–China relations and the role technology plays in this dynamic relationship. Do our technology regulations and security efforts limit our ability to protect our democracy?</p>
+
+<p>Panels feature scholars and practitioners with experience in government, the private sector, journalism, and academia, allowing for wide-ranging dialogue on complex issues. </p>
+
+<h3><em>The <a href="https://millercenter.org/taxonomy/term/556">William and Carol Stevenson Conference</a> is a biennial conference that focuses on issues of national and international importance.</em></h3>
+
+<h3><em>The Miller Center is deeply grateful to the Stevenson family for its support of our work.</em></h3>
+
+<h3><em>Audience members are encouraged to participate in these open, seminar-style discussions.</em></h3>
+
+<p> </p>
+
+<h3>9:00 a.m.–10:00 a.m. ET</h3>
+
+<h3><strong>Apps, platforms, and surveillance</strong> </h3>
+
+<p>How might apps and other technology platforms play a role in Chinese government data-gathering efforts? What are potential policy responses to the increasingly complex data flows between the United States and China? This panel addresses the long-term stability of U.S. technology infrastructure and related concerns for U.S. national security. </p>
+
+<p>Josh Chin, Kara Frederick, Shanthi Kalathil, Aynne Kokas (moderator)</p>
+
+<p> </p>
+
+<h3>10:15 a.m.–11:15 a.m. ET</h3>
+
+<h3><strong>China’s global business and financial infrastructure </strong></h3>
+
+<p>What role do China’s global investments and financial technologies play in the U.S.–China technology competition? How is the financial sector shaping U.S–China tech competition? How might policymakers respond to this challenging landscape while also supporting growth?</p>
+
+<p>Anna Ashton, Martin Chorzempa, Sebastian Mallaby, Syaru Shirley Lin (moderator)</p>
+
+<p> </p>
+
+<h3>11:30 a.m.–12:30 p.m. ET</h3>
+
+<h3><strong>Climate, tech infrastructure, and political influence</strong></h3>
+
+<p>As countries around the world pursue decarbonization and other goals to protect the environment, the U.S. and China might be cooperative or competitive players. What effects are new climate technologies having on global political systems?</p>
+
+<p>Angel Hsu, Joanna Lewis, Scott Moore, Michael Lenox (moderator)</p>6:["$","$L12",null,{"event":{"id":"dd01914b-274d-4ca1-bc67-e3ed52a6b532","title":"U.S.–China tech competition: Has democracy met its match?","field_starting_time":"2023-04-21T13:00:00+00:00","field_speakers":{"value":"<p>Multiple speakers and discusstants</p>\r\n","format":"basic_html","processed":"<p>Multiple speakers and discusstants</p>"},"field_organizers":{"value":"<p>The University of Virginia’s Miller Center of Public Affairs</p>\r\n","format":"basic_html","processed":"<p>The University of Virginia’s Miller Center of Public Affairs</p>"},"field_event_mode":"Hybrid","field_event_category":"Conference","field_event_language":"English","field_event_venue":"The Miller Center 2201 Old Ivy Rd Charlottesville, VA & ONLINE","field_event_record":false,"field_registration":true,"field_time_zone":"America/New_York","field_event_website":{"uri":"https://millercenter.org/news-events/events/us-china-tech-competition-has-democracy-met-its-match","title":"","options":[]},"field_description":{"value":"$13","format":"basic_html","processed":"$14"}}}]

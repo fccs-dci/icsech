@@ -1,0 +1,74 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","de9350b9-684a-4268-a741-31b282e464e5",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","de9350b9-684a-4268-a741-31b282e464e5","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","de9350b9-684a-4268-a741-31b282e464e5","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:Ta7a,<p><meta charset="UTF-8" /></p>
+
+<p>“China needs Christianity, while Europe and America need Buddhism.” This powerful utterance comes from Taixu, a Buddhist monk active in early twentieth-century China. Taixu gave this title to one of his most informative speeches about Christianity, delivered in 1938 at a Christian university in Chengdu. What were Taixu’s reasons for making this claim? Through which channels did he receive information regarding Christianity? How did his views on Christianity evolve over time? The present webinar will provide elements to answer these questions and elaborate on Taixu’s views within the broader context of Christianity’s reception in China and East Asia at the time.</p>
+
+<p>Master Taixu 太虛大師 (1890–1947) was one of the leading figures engaged in reforming Chinese Buddhism. He aimed to establish a “modern Buddhism” for a “modern China” that would focus on the present life and make a visible contribution to society’s welfare. While engaged in implementing this plan, he maintained close contact with Christian missionaries in China and even embarked on a yearlong journey to the West aimed at exploring Christian countries. Hence, his views on Christianity rely on a wide range of sources that provide intriguing insights. After a brief presentation by Peter Boros, Fulbright Visiting Student Researcher at UHM, the three participants will discuss several facets of Christianity’s reception in East Asia and Buddhist responses to it.</p>
+
+<p><strong>Speaker:</strong></p>
+
+<p><meta charset="UTF-8" /></p>
+
+<p>Peter Boros is a PhD candidate in Sinology at Eötvös Loránd University in Budapest, Hungary. Peter is a Fulbright Visiting Student Researcher affiliated with the Department of Religions and Ancient Civilizations at UH Mānoa. His research focuses on Buddhist–Christian dialogue in early twentieth-century China, particularly Buddhist Master Taixu’s understanding of Christianity. His recent publications include articles on Taixu’s efforts in reforming education and meditation as a basis for dialogue in the writings of Thomas Merton and Thích Nhất Hạnh.</p>
+
+<p><strong>Discussants:</strong></p>
+
+<p><meta charset="UTF-8" /></p>
+
+<p>Michel Mohr (Moderator/Discussant), Professor, Department of Religions and Ancient Civilizations, UHM<br />
+Benoît Vermander, Professor of Philosophy at Fudan University, Shanghai</p>
+
+<p><strong>Co-Sponsors:</strong></p>
+
+<p><meta charset="UTF-8" /></p>
+
+<p>Department of Religions and Ancient Civilizations, UHM<br />
+Eötvös Loránd University, Chinese Department<br />
+Khyentse Foundation<br />
+Fulbright Hungary</p>
+14:Ta5f,<p><meta charset="UTF-8" /></p>
+
+<p>“China needs Christianity, while Europe and America need Buddhism.” This powerful utterance comes from Taixu, a Buddhist monk active in early twentieth-century China. Taixu gave this title to one of his most informative speeches about Christianity, delivered in 1938 at a Christian university in Chengdu. What were Taixu’s reasons for making this claim? Through which channels did he receive information regarding Christianity? How did his views on Christianity evolve over time? The present webinar will provide elements to answer these questions and elaborate on Taixu’s views within the broader context of Christianity’s reception in China and East Asia at the time.</p>
+
+<p>Master Taixu 太虛大師 (1890–1947) was one of the leading figures engaged in reforming Chinese Buddhism. He aimed to establish a “modern Buddhism” for a “modern China” that would focus on the present life and make a visible contribution to society’s welfare. While engaged in implementing this plan, he maintained close contact with Christian missionaries in China and even embarked on a yearlong journey to the West aimed at exploring Christian countries. Hence, his views on Christianity rely on a wide range of sources that provide intriguing insights. After a brief presentation by Peter Boros, Fulbright Visiting Student Researcher at UHM, the three participants will discuss several facets of Christianity’s reception in East Asia and Buddhist responses to it.</p>
+
+<p><strong>Speaker:</strong></p>
+
+<p><meta charset="UTF-8" /></p>
+
+<p>Peter Boros is a PhD candidate in Sinology at Eötvös Loránd University in Budapest, Hungary. Peter is a Fulbright Visiting Student Researcher affiliated with the Department of Religions and Ancient Civilizations at UH Mānoa. His research focuses on Buddhist–Christian dialogue in early twentieth-century China, particularly Buddhist Master Taixu’s understanding of Christianity. His recent publications include articles on Taixu’s efforts in reforming education and meditation as a basis for dialogue in the writings of Thomas Merton and Thích Nhất Hạnh.</p>
+
+<p><strong>Discussants:</strong></p>
+
+<p><meta charset="UTF-8" /></p>
+
+<p>Michel Mohr (Moderator/Discussant), Professor, Department of Religions and Ancient Civilizations, UHM<br />
+Benoît Vermander, Professor of Philosophy at Fudan University, Shanghai</p>
+
+<p><strong>Co-Sponsors:</strong></p>
+
+<p><meta charset="UTF-8" /></p>
+
+<p>Department of Religions and Ancient Civilizations, UHM<br />
+Eötvös Loránd University, Chinese Department<br />
+Khyentse Foundation<br />
+Fulbright Hungary</p>
+6:["$","$L12",null,{"event":{"id":"de9350b9-684a-4268-a741-31b282e464e5","title":"Taixu’s Perception of Christianity: Insights from an Early Twentieth-century Chinese Buddhist Teacher","field_starting_time":"2024-12-12T01:00:00+00:00","field_speakers":{"value":"<p>Peter Boros</p>\r\n","format":"event_entering","processed":"<p>Peter Boros</p>\n"},"field_organizers":{"value":"<p>Center for Chinese Studies at University of Hawaiʻi at Mānoa</p>\r\n","format":"event_entering","processed":"<p>Center for Chinese Studies at University of Hawaiʻi at Mānoa</p>\n"},"field_event_mode":"Online","field_event_category":"Talk","field_event_language":"English","field_event_venue":"Online via Zoom","field_event_record":true,"field_registration":true,"field_time_zone":"Pacific/Honolulu","field_event_website":{"uri":"https://go.hawaii.edu/bXS","title":"","options":[]},"field_description":{"value":"$13","format":"event_entering","processed":"$14"}}}]

@@ -1,0 +1,92 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","1c008461-23b6-4ac3-8a85-71cfbe959c43",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","1c008461-23b6-4ac3-8a85-71cfbe959c43","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","1c008461-23b6-4ac3-8a85-71cfbe959c43","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:T6d6,<p><strong>After the U.S. Midterms and the 20th Party Congress: What Will 2023 Hold for U.S.-China Relations?</strong></p>
+
+<ul>
+	<li>Keynote Dialogue (9:00am)</li>
+</ul>
+
+<p>JING Quan, <em>Minister,&nbsp;Embassy of the People’s Republic of China in the United States</em><br />
+Susan THORNTON,&nbsp;<em>Senior Fellow, Paul Tsai China Center, Yale Law School</em><br />
+Moderator: Gordon HOULDEN,&nbsp;<em>Director Emeritus, China Institute, University of Alberta</em></p>
+
+<ul>
+	<li>Panel I: U.S.-China Strategic Rivalry in the Biden Era (10:00am)</li>
+</ul>
+
+<p>Moderator: Gordon HOULDEN,&nbsp;<em>Director Emeritus, China Institute, University of Alberta</em><br />
+Michael SWAINE,&nbsp;<em>Director, East Asia Program, Quincy Institute for Responsible Statecraft</em><br />
+DA Wei,&nbsp;<em>Director, Center for International Security and Strategy, Tsinghua University</em><br />
+Dennis WILDER<em>,&nbsp;Senior Fellow, Initiative for U.S.-China Dialogue on Global Issues, Georgetown University</em><br />
+HUANG Jing<em>,&nbsp;University Professor and Director, Institute of the US and Pacific Studies, Shanghai International Studies University</em></p>
+
+<ul>
+	<li>Panel II: U.S.-China Trade and Technology Decoupling (11:35am)</li>
+</ul>
+
+<p>Moderator: LIU Yawei<em>,&nbsp;Senior Advisor, The Carter Center</em><br />
+Paul TRIOLO,&nbsp;<em>Senior Vice President for China and Technology Policy Lead, Albright Stonebridge Group</em><br />
+HUANG Yukon,&nbsp;<em>Senior Fellow, Carnegie Endowment for International Peace</em><br />
+William REINSCH,&nbsp;<em>Senior Advisor, Center for Strategic &amp; International Studies</em><br />
+Denis SIMON,&nbsp;<em>Professor, Fuqua School of Business, Duke University</em></p>
+14:T6b9,<p><strong>After the U.S. Midterms and the 20th Party Congress: What Will 2023 Hold for U.S.-China Relations?</strong></p>
+
+<ul>
+	<li>Keynote Dialogue (9:00am)</li>
+</ul>
+
+<p>JING Quan, <em>Minister,&nbsp;Embassy of the People’s Republic of China in the United States</em><br />
+Susan THORNTON,&nbsp;<em>Senior Fellow, Paul Tsai China Center, Yale Law School</em><br />
+Moderator: Gordon HOULDEN,&nbsp;<em>Director Emeritus, China Institute, University of Alberta</em></p>
+
+<ul>
+	<li>Panel I: U.S.-China Strategic Rivalry in the Biden Era (10:00am)</li>
+</ul>
+
+<p>Moderator: Gordon HOULDEN,&nbsp;<em>Director Emeritus, China Institute, University of Alberta</em><br />
+Michael SWAINE,&nbsp;<em>Director, East Asia Program, Quincy Institute for Responsible Statecraft</em><br />
+DA Wei,&nbsp;<em>Director, Center for International Security and Strategy, Tsinghua University</em><br />
+Dennis WILDER<em>,&nbsp;Senior Fellow, Initiative for U.S.-China Dialogue on Global Issues, Georgetown University</em><br />
+HUANG Jing<em>,&nbsp;University Professor and Director, Institute of the US and Pacific Studies, Shanghai International Studies University</em></p>
+
+<ul>
+	<li>Panel II: U.S.-China Trade and Technology Decoupling (11:35am)</li>
+</ul>
+
+<p>Moderator: LIU Yawei<em>,&nbsp;Senior Advisor, The Carter Center</em><br />
+Paul TRIOLO,&nbsp;<em>Senior Vice President for China and Technology Policy Lead, Albright Stonebridge Group</em><br />
+HUANG Yukon,&nbsp;<em>Senior Fellow, Carnegie Endowment for International Peace</em><br />
+William REINSCH,&nbsp;<em>Senior Advisor, Center for Strategic &amp; International Studies</em><br />
+Denis SIMON,&nbsp;<em>Professor, Fuqua School of Business, Duke University</em></p>
+15:Tad6,<p>The U.S.-China relationship continues to limp from pillar to post, even as the midpoint of the Biden administration’s term in office is fast approaching. The hoped-for détente between the two sides has been slow to arrive. President Biden has spent the better part of the past two years ‘investing, aligning and competing’ at home and abroad, attempting to shape the strategic environment around China. Pursuing avenues of cooperation with Beijing has been an afterthought, at best. For President Xi Jinping, his second term in office has encountered controversy from a foreign relations standpoint. The U.S.-China trade war kicked into full gear a few months after his 19th Party Congress investiture. Coping with the impacts of the Covid-19 pandemic and the effects of Washington’s technology embargoes, rather than a second round of win-win ‘reform and opening up’ exchanges with the United States, have been the defining features of his second term. Russia’s attack on Ukraine, furthermore, has added grist to the democracies v. autocracies framing of great power relations by the Biden administration.</p>
+
+<p>As President Xi begins his third term in office, what are the Chinese leadership’s priorities vis-à-vis the United States and the Biden administration likely to be? Is there any merit to the claim that there is an implicit 2027 timeline to bring Taiwan to heel? Will the two sides restore high-level mil-mil communications and maritime CBMs that have been suspended by Speaker Pelosi’s visit? What does the composition of the new Politburo and Politburo Standing Committee signify to overseas observers from a political and policy standpoint? What is President Biden and President Xi expected to discuss when they (likely) gather for their first in-person meeting on the sidelines of the G20 Leaders Summit in Bali later this November.</p>
+
+<p>In its first 20 months in office, the Biden administration has barely been interested in breaking bread with China on trade and economic matters. Will this pattern change following the midterm elections, given that China was not among the top 5 political topics leading into the midterms? Can a Phase Two trade and investment deal be consummated by the two sides that could place a floor under the rash of technology embargoes and supply chain decoupling initiatives introduced by Washington? How will the supply chain resilience-related initiatives alter the future structure of advanced manufacturing industries in the U.S. and the Asia-Pacific region? Will 2023 throw up fresh perspectives in this regard?</p>
+
+<p>To listen to these and other answers to pressing U.S.-China questions discussed by experts in the field, tune in to the ICAS Annual Conference on November 2, 2022!</p>
+16:Tacf,<p>The U.S.-China relationship continues to limp from pillar to post, even as the midpoint of the Biden administration’s term in office is fast approaching. The hoped-for détente between the two sides has been slow to arrive. President Biden has spent the better part of the past two years ‘investing, aligning and competing’ at home and abroad, attempting to shape the strategic environment around China. Pursuing avenues of cooperation with Beijing has been an afterthought, at best. For President Xi Jinping, his second term in office has encountered controversy from a foreign relations standpoint. The U.S.-China trade war kicked into full gear a few months after his 19th Party Congress investiture. Coping with the impacts of the Covid-19 pandemic and the effects of Washington’s technology embargoes, rather than a second round of win-win ‘reform and opening up’ exchanges with the United States, have been the defining features of his second term. Russia’s attack on Ukraine, furthermore, has added grist to the democracies v. autocracies framing of great power relations by the Biden administration.</p>
+
+<p>As President Xi begins his third term in office, what are the Chinese leadership’s priorities vis-à-vis the United States and the Biden administration likely to be? Is there any merit to the claim that there is an implicit 2027 timeline to bring Taiwan to heel? Will the two sides restore high-level mil-mil communications and maritime CBMs that have been suspended by Speaker Pelosi’s visit? What does the composition of the new Politburo and Politburo Standing Committee signify to overseas observers from a political and policy standpoint? What is President Biden and President Xi expected to discuss when they (likely) gather for their first in-person meeting on the sidelines of the G20 Leaders Summit in Bali later this November.</p>
+
+<p>In its first 20 months in office, the Biden administration has barely been interested in breaking bread with China on trade and economic matters. Will this pattern change following the midterm elections, given that China was not among the top 5 political topics leading into the midterms? Can a Phase Two trade and investment deal be consummated by the two sides that could place a floor under the rash of technology embargoes and supply chain decoupling initiatives introduced by Washington? How will the supply chain resilience-related initiatives alter the future structure of advanced manufacturing industries in the U.S. and the Asia-Pacific region? Will 2023 throw up fresh perspectives in this regard?</p>
+
+<p>To listen to these and other answers to pressing U.S.-China questions discussed by experts in the field, tune in to the ICAS Annual Conference on November 2, 2022!</p>
+6:["$","$L12",null,{"event":{"id":"1c008461-23b6-4ac3-8a85-71cfbe959c43","title":"ICAS 2022 Annual Conference","field_starting_time":"2022-11-02T13:00:00+00:00","field_speakers":{"value":"$13","format":"event_entering","processed":"$14"},"field_organizers":{"value":"<p>Organized By</p>\r\n\r\n<ul>\r\n\t<li>Institute for China-America Studies</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>In Collaboration With</p>\r\n\r\n<ul>\r\n\t<li>National Institute for South China Sea Studies</li>\r\n\t<li>The Carter Center</li>\r\n\t<li>China Institute, University of Alberta</li>\r\n</ul>\r\n","format":"event_entering","processed":"<p>Organized By</p>\n\n<ul>\n\t<li>Institute for China-America Studies</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>In Collaboration With</p>\n\n<ul>\n\t<li>National Institute for South China Sea Studies</li>\n\t<li>The Carter Center</li>\n\t<li>China Institute, University of Alberta</li>\n</ul>\n"},"field_event_mode":"Online","field_event_category":"Conference","field_event_language":"English","field_event_venue":"Hybrid (Washington, DC & Virtual)","field_event_record":true,"field_registration":true,"field_time_zone":"America/New_York","field_event_website":{"uri":"https://chinaus-icas.org/event/icas-2022-annual-conference/","title":"","options":[]},"field_description":{"value":"$15","format":"event_entering","processed":"$16"}}}]

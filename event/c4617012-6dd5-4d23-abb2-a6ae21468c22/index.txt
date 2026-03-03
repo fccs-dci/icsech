@@ -1,0 +1,82 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","c4617012-6dd5-4d23-abb2-a6ae21468c22",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","c4617012-6dd5-4d23-abb2-a6ae21468c22","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","c4617012-6dd5-4d23-abb2-a6ae21468c22","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:T4a1,<ul>
+	<li>
+	<p><a href="https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&amp;personid=30514" id="yui_3_17_2_1_1654023775641_312" target="_blank">Professor José E. Alvarez</a>, Faculty Director at the U.S.-Asia Law Institute, Professor at NYU School of Law</p>
+	</li>
+	<li>
+	<p><a href="https://mei.nus.edu.sg/members/bilahari-kausikan/" target="_blank">Ambassador Bilahari Kausikan</a>, Chairman of the Middle East Institute</p>
+	</li>
+	<li>
+	<p><a href="https://usnwc.edu/Faculty-and-Departments/Directory/Peter-Alan-Dutton" target="_blank">Professor Peter Dutton</a>, Interim Dean Center for Naval Warfare Studies, Naval War College</p>
+	</li>
+	<li>
+	<p><a href="https://ifi.u-tokyo.ac.jp/en/people/fujiwara-kiichi/" target="_blank">Professor Kiichi Fujiwura</a>, International Politics department; Director of Institute for Future Initiatives, University of Tokyo</p>
+	</li>
+	<li id="yui_3_17_2_1_1654023775641_301">
+	<p id="yui_3_17_2_1_1654023775641_300"><a href="https://law.yale.edu/susan-thornton" target="_blank">Ms Susan Thornton</a>, Senior Fellow and Visiting Lecturer, Yale Law School Paul Tsai China Center</p>
+	</li>
+</ul>
+14:T490,<ul>
+	<li>
+	<p><a href="https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&amp;personid=30514" id="yui_3_17_2_1_1654023775641_312" target="_blank">Professor José E. Alvarez</a>, Faculty Director at the U.S.-Asia Law Institute, Professor at NYU School of Law</p>
+	</li>
+	<li>
+	<p><a href="https://mei.nus.edu.sg/members/bilahari-kausikan/" target="_blank">Ambassador Bilahari Kausikan</a>, Chairman of the Middle East Institute</p>
+	</li>
+	<li>
+	<p><a href="https://usnwc.edu/Faculty-and-Departments/Directory/Peter-Alan-Dutton" target="_blank">Professor Peter Dutton</a>, Interim Dean Center for Naval Warfare Studies, Naval War College</p>
+	</li>
+	<li>
+	<p><a href="https://ifi.u-tokyo.ac.jp/en/people/fujiwara-kiichi/" target="_blank">Professor Kiichi Fujiwura</a>, International Politics department; Director of Institute for Future Initiatives, University of Tokyo</p>
+	</li>
+	<li id="yui_3_17_2_1_1654023775641_301">
+	<p id="yui_3_17_2_1_1654023775641_300"><a href="https://law.yale.edu/susan-thornton" target="_blank">Ms Susan Thornton</a>, Senior Fellow and Visiting Lecturer, Yale Law School Paul Tsai China Center</p>
+	</li>
+</ul>
+15:T9ab,<p class="MsoNormal" style="margin: 0px;"><b style="font-size: large;"><a data-saferedirecturl="https://www.google.com/url?q=https://usali.org/events/the-asean-china-usa-triangle-navigating-in-a-post-ukraine/russia-world&amp;source=gmail&amp;ust=1654188751647000&amp;usg=AOvVaw3bdRYb5usv4AhpeP2zKABJ" href="https://usali.org/events/the-asean-china-usa-triangle-navigating-in-a-post-ukraine/russia-world" style="color: rgb(17, 85, 204);" target="_blank">The ASEAN, China, USA Triangle: Navigating in a Post-Ukraine/Russia World</a></b></p>
+
+<div>
+<p><strong id="yui_3_17_2_1_1654023775641_294">Joint Virtual Symposium 2022<br />
+US-Asia Law Institute, NYU and Centre for International Law, NUS</strong></p>
+
+<p id="m_-3188632652316909131gmail-m_-7018828591816989465gmail-m_4413474567410056522gmail-m_-1593660898322595914gmail-yui_3_17_2_1_1654093770802_259"><strong>SESSION 2: Geo-Political Challenges Facing ASEAN</strong></p>
+
+<p id="m_-3188632652316909131gmail-m_-7018828591816989465gmail-m_4413474567410056522gmail-m_-1593660898322595914gmail-yui_3_17_2_1_1654093770802_259"><a data-saferedirecturl="https://www.google.com/url?q=https://nyu.zoom.us/webinar/register/WN_6JbgMXQPQ9WZYyita5UYbg&amp;source=gmail&amp;ust=1654188751648000&amp;usg=AOvVaw1kqFZ1Cbb0ed2pJJJyzsQr" href="https://nyu.zoom.us/webinar/register/WN_6JbgMXQPQ9WZYyita5UYbg" target="_blank">Register for this event</a></p>
+
+<p id="m_-3188632652316909131gmail-m_-7018828591816989465gmail-m_4413474567410056522gmail-m_-1593660898322595914gmail-yui_3_17_2_1_1654093770802_259">Thursday, June 16 2022, 9:00 AM - 10:30 AM ET</p>
+
+<p id="m_-3188632652316909131gmail-m_-7018828591816989465gmail-m_4413474567410056522gmail-m_-1593660898322595914gmail-yui_3_17_2_1_1654093770802_259">Throughout its history, ASEAN has been diplomatically adept in refusing to take sides on a wide range of geo-political issues that divide the US and its allies in the Global North (like Japan) and China and its allies (including many in the Global South).&nbsp; Since February 2022, as demonstrated by votes at the UN General Assembly and virtually daily announcements from governments in response to Ukraine’s pleas for assistance, the Russia-Ukraine conflict has put pressure on states to align with one side or the other in what could become new global blocs reminiscent of the Cold War.&nbsp; How does the new world disorder affect ASEAN’s diplomatic stance and its security goals and strategies?</p>
+</div>
+16:T99d,<p class="MsoNormal" style="margin: 0px;"><b style="font-size: large;"><a data-saferedirecturl="https://www.google.com/url?q=https://usali.org/events/the-asean-china-usa-triangle-navigating-in-a-post-ukraine/russia-world&amp;source=gmail&amp;ust=1654188751647000&amp;usg=AOvVaw3bdRYb5usv4AhpeP2zKABJ" href="https://usali.org/events/the-asean-china-usa-triangle-navigating-in-a-post-ukraine/russia-world" style="color: rgb(17, 85, 204);" target="_blank">The ASEAN, China, USA Triangle: Navigating in a Post-Ukraine/Russia World</a></b></p>
+
+<div>
+<p><strong id="yui_3_17_2_1_1654023775641_294">Joint Virtual Symposium 2022<br />
+US-Asia Law Institute, NYU and Centre for International Law, NUS</strong></p>
+
+<p id="m_-3188632652316909131gmail-m_-7018828591816989465gmail-m_4413474567410056522gmail-m_-1593660898322595914gmail-yui_3_17_2_1_1654093770802_259"><strong>SESSION 2: Geo-Political Challenges Facing ASEAN</strong></p>
+
+<p id="m_-3188632652316909131gmail-m_-7018828591816989465gmail-m_4413474567410056522gmail-m_-1593660898322595914gmail-yui_3_17_2_1_1654093770802_259"><a data-saferedirecturl="https://www.google.com/url?q=https://nyu.zoom.us/webinar/register/WN_6JbgMXQPQ9WZYyita5UYbg&amp;source=gmail&amp;ust=1654188751648000&amp;usg=AOvVaw1kqFZ1Cbb0ed2pJJJyzsQr" href="https://nyu.zoom.us/webinar/register/WN_6JbgMXQPQ9WZYyita5UYbg" target="_blank">Register for this event</a></p>
+
+<p id="m_-3188632652316909131gmail-m_-7018828591816989465gmail-m_4413474567410056522gmail-m_-1593660898322595914gmail-yui_3_17_2_1_1654093770802_259">Thursday, June 16 2022, 9:00 AM - 10:30 AM ET</p>
+
+<p id="m_-3188632652316909131gmail-m_-7018828591816989465gmail-m_4413474567410056522gmail-m_-1593660898322595914gmail-yui_3_17_2_1_1654093770802_259">Throughout its history, ASEAN has been diplomatically adept in refusing to take sides on a wide range of geo-political issues that divide the US and its allies in the Global North (like Japan) and China and its allies (including many in the Global South).&nbsp; Since February 2022, as demonstrated by votes at the UN General Assembly and virtually daily announcements from governments in response to Ukraine’s pleas for assistance, the Russia-Ukraine conflict has put pressure on states to align with one side or the other in what could become new global blocs reminiscent of the Cold War.&nbsp; How does the new world disorder affect ASEAN’s diplomatic stance and its security goals and strategies?</p>
+</div>
+6:["$","$L12",null,{"event":{"id":"c4617012-6dd5-4d23-abb2-a6ae21468c22","title":"The ASEAN, China, USA Triangle: Navigating in a Post-Ukraine/Russia World: Geo-Political Challenges Facing ASEAN","field_starting_time":"2022-06-16T13:00:00+00:00","field_speakers":{"value":"$13","format":"event_entering","processed":"$14"},"field_organizers":{"value":"<ul>\r\n\t<li>U.S.-Asia Law Institute at NYU School of Law</li>\r\n\t<li>Centre for International Law at National University of Singapore</li>\r\n</ul>\r\n","format":"event_entering","processed":"<ul>\n\t<li>U.S.-Asia Law Institute at NYU School of Law</li>\n\t<li>Centre for International Law at National University of Singapore</li>\n</ul>\n"},"field_event_mode":"Online","field_event_category":"Talk","field_event_language":"English","field_event_venue":null,"field_event_record":true,"field_registration":true,"field_time_zone":"America/New_York","field_event_website":{"uri":"https://usali.org/events/the-asean-china-usa-triangle-navigating-in-a-post-ukraine/russia-world","title":"","options":[]},"field_description":{"value":"$15","format":"event_entering","processed":"$16"}}}]

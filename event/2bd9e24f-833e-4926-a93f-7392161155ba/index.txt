@@ -1,0 +1,66 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","2bd9e24f-833e-4926-a93f-7392161155ba",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","2bd9e24f-833e-4926-a93f-7392161155ba","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","2bd9e24f-833e-4926-a93f-7392161155ba","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:T751,<p>Inaugurated in November 2020,&nbsp;<strong>The Symposium on Global Maritime Cooperation and Ocean Governance (SGMCOG)</strong>&nbsp;aims to offer a unique platform for thought-provoking dialogues among the thinkers of various backgrounds from all over the world and promote academic research and exchange on maritime cooperation and ocean governance.</p>
+
+<p><strong>The SGMCOG 2022</strong>&nbsp;will continue to focus on the topics concern the global ocean governance from the perspective of multilateralism and explore maritime cooperation in and beyond the South China Sea region. It will be conducted in hybrid format with both virtual and physical attendance. There will be a meeting venue in Sanya, Hainan, China for participants and observers in China.&nbsp;</p>
+
+<p>View the Agenda in EDT (GMT-4):&nbsp;https://chinaus-icas.org/event/the-symposium-on-global-maritime-cooperation-and-ocean-governance-2022/</p>
+
+<p><strong>Opening Ceremony &amp; Keynote Speeches</strong></p>
+
+<p><strong>Session 1 –&nbsp;<em>Multilateralism and Global Ocean Governance</em></strong></p>
+
+<p><strong>Session 2 –&nbsp;<em>Cooperation between South China Sea Littoral States and Mutual Trust Building in Maritime Security</em></strong></p>
+
+<p><strong>Session 3 –&nbsp;<em>Climate Change and Maritime Cooperation</em></strong></p>
+
+<p><strong>Session 4 –&nbsp;<em>The 20th Anniversary of DOC and Regional Order in the South China Sea</em></strong></p>
+
+<p><strong>Session 5 –&nbsp;<em>Ocean Governance and Practices in Polar Regions</em></strong></p>
+
+<p><strong>Session 6 –&nbsp;<em>The 40th Anniversary of UNCLOS and Maritime Cooperation in Enclosed or Semi-enclosed Seas</em></strong></p>
+
+<p><strong>Session 7 –&nbsp;<em>Blue Partnership and Sustainable Marine Development:</em></strong>&nbsp;</p>
+
+<p><strong>Closing Ceremony</strong></p>
+14:T73a,<p>Inaugurated in November 2020,&nbsp;<strong>The Symposium on Global Maritime Cooperation and Ocean Governance (SGMCOG)</strong>&nbsp;aims to offer a unique platform for thought-provoking dialogues among the thinkers of various backgrounds from all over the world and promote academic research and exchange on maritime cooperation and ocean governance.</p>
+
+<p><strong>The SGMCOG 2022</strong>&nbsp;will continue to focus on the topics concern the global ocean governance from the perspective of multilateralism and explore maritime cooperation in and beyond the South China Sea region. It will be conducted in hybrid format with both virtual and physical attendance. There will be a meeting venue in Sanya, Hainan, China for participants and observers in China.&nbsp;</p>
+
+<p>View the Agenda in EDT (GMT-4):&nbsp;https://chinaus-icas.org/event/the-symposium-on-global-maritime-cooperation-and-ocean-governance-2022/</p>
+
+<p><strong>Opening Ceremony &amp; Keynote Speeches</strong></p>
+
+<p><strong>Session 1 –&nbsp;<em>Multilateralism and Global Ocean Governance</em></strong></p>
+
+<p><strong>Session 2 –&nbsp;<em>Cooperation between South China Sea Littoral States and Mutual Trust Building in Maritime Security</em></strong></p>
+
+<p><strong>Session 3 –&nbsp;<em>Climate Change and Maritime Cooperation</em></strong></p>
+
+<p><strong>Session 4 –&nbsp;<em>The 20th Anniversary of DOC and Regional Order in the South China Sea</em></strong></p>
+
+<p><strong>Session 5 –&nbsp;<em>Ocean Governance and Practices in Polar Regions</em></strong></p>
+
+<p><strong>Session 6 –&nbsp;<em>The 40th Anniversary of UNCLOS and Maritime Cooperation in Enclosed or Semi-enclosed Seas</em></strong></p>
+
+<p><strong>Session 7 –&nbsp;<em>Blue Partnership and Sustainable Marine Development:</em></strong>&nbsp;</p>
+
+<p><strong>Closing Ceremony</strong></p>
+6:["$","$L12",null,{"event":{"id":"2bd9e24f-833e-4926-a93f-7392161155ba","title":"The Symposium on Global Maritime Cooperation and Ocean Governance 2022","field_starting_time":"2022-12-03T14:00:00+00:00","field_speakers":{"value":"<p>Across seven sessions and a series of opening ceremony keynote speeches, nearly 50 experts and specialists in the field of global maritime cooperation and global governance will be sharing their insight.&nbsp;</p>\r\n\r\n<p>View the Full Speaker List:&nbsp;http://www.csarc.org.cn/the-symposium-on-global-maritime-cooperation-and-ocean-governance-2022/</p>\r\n","format":"event_entering","processed":"<p>Across seven sessions and a series of opening ceremony keynote speeches, nearly 50 experts and specialists in the field of global maritime cooperation and global governance will be sharing their insight.&nbsp;</p>\n\n<p>View the Full Speaker List:&nbsp;http://www.csarc.org.cn/the-symposium-on-global-maritime-cooperation-and-ocean-governance-2022/</p>\n"},"field_organizers":{"value":"<p>Organized by the China-Southeast Asia Research Center on the South China Sea (CSARC), National Institute for South China Sea Studies (NISCS) and the China Oceanic Development Foundation; Co-sponsored by the Hainan Huayang Research Center for Maritime Cooperation and Ocean Governance, Center for International Security and Strategy (Tsinghua University), Xiamen University South China Sea Institute, China Institute (University of Alberta) and the Institute for China-America Studies</p>\r\n","format":"event_entering","processed":"<p>Organized by the China-Southeast Asia Research Center on the South China Sea (CSARC), National Institute for South China Sea Studies (NISCS) and the China Oceanic Development Foundation; Co-sponsored by the Hainan Huayang Research Center for Maritime Cooperation and Ocean Governance, Center for International Security and Strategy (Tsinghua University), Xiamen University South China Sea Institute, China Institute (University of Alberta) and the Institute for China-America Studies</p>\n"},"field_event_mode":"Hybrid","field_event_category":"Conference","field_event_language":"English; Chinese (Mandarin); English-Chinese & Chinese-English simultaneous interpretation will be provided.","field_event_venue":"Sanya, China (Hybrid)","field_event_record":true,"field_registration":true,"field_time_zone":"Asia/Shanghai","field_event_website":{"uri":"https://chinaus-icas.org/event/the-symposium-on-global-maritime-cooperation-and-ocean-governance-2022/","title":"","options":[]},"field_description":{"value":"$13","format":"event_entering","processed":"$14"}}}]

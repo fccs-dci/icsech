@@ -1,0 +1,158 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","35dac0d2-5e41-4207-86ad-76b086e1348f",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","35dac0d2-5e41-4207-86ad-76b086e1348f","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","35dac0d2-5e41-4207-86ad-76b086e1348f","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:T1b92,<h3><span style="font-size:13.5pt"><span style="font-family:Calibri,sans-serif"><span style="font-weight:bold"><strong><u><span style="font-size:14.0pt">18 October</span></u></strong></span></span></span></h3>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Visit to the Hong Kong University Library: 11am-12pm</strong></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Location:&nbsp;</strong><span style="font-family:&quot;Times New Roman&quot;,serif">Hong Kong University Library 2/F Entrance</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Introduction to the Hong Kong Chinese Merchants Collection (in-person attendees only)<br />
+(Catalogue: <a href="https://archivesspace.lib.hku.hk/repositories/2/resources/17" style="color:blue; text-decoration:underline" target="_blank">https://archivesspace.lib.hku.hk/repositories/2/resources/17</a> ;<br />
+Digitised Items:&nbsp;<a href="https://digitalrepository.lib.hku.hk/hkcmc" style="color:blue; text-decoration:underline" target="_blank">https://digitalrepository.lib.hku.hk/hkcmc</a>)</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Panel 1: 2pm-4pm:</strong></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Chair:&nbsp;</strong><span style="font-family:&quot;Times New Roman&quot;,serif">Ghassan Moazzin (The University of Hong Kong)</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Location:&nbsp;</strong><span style="font-family:&quot;Times New Roman&quot;,serif">May Hall</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Speakers:&nbsp;</strong><br />
+<span style="font-family:&quot;Times New Roman&quot;,serif">Thomas Larkin (University of Bristol/Lingnan University) -&nbsp;<s>Augustine</s>&nbsp;Heard &amp; Co: The Anatomy of a Bankruptcy in Nineteenth-Century China</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Nathanael Lai (University of Cambridge) - In Support of the&nbsp;<em>Zhongzhen</em>: Loans, Textbooks, and the Cold War in 1950s Southeast Asia and Hong Kong</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Jackie Wang (University of Chinese Academy of Sciences) - Engendered Entrepreneur: Women and the Politics of Business in Modern China</span></span></span></p>
+
+<p><span style="font-size:13.5pt"><span style="font-family:Calibri,sans-serif"><span style="font-weight:bold"><strong><u><span style="font-size:14.0pt">19 October</span></u></strong></span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Location:&nbsp;</strong><span style="font-family:&quot;Times New Roman&quot;,serif">May Hall</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Panel 2: 10am-12pm</strong></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Chair:&nbsp;</strong><span style="font-family:&quot;Times New Roman&quot;,serif">Li Ji (The University of Hong Kong)</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Speakers:&nbsp;</strong><br />
+<span style="font-family:&quot;Times New Roman&quot;,serif">Matthew Lowenstein (Stanford University) - “Popular Sources” (</span><span lang="ZH-CN" style="font-family:&quot;新細明體&quot;,serif">民间资料</span><span style="font-family:&quot;Times New Roman&quot;,serif">): opportunities, challenges, and methodologies</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Bill Kelson (University of Georgia) - A Proto-Developmental State? Revisiting the Mines of the Late-Qing Self-Strengthening Movement</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Adam Frost (Copenhagen Business School) - Selective Deinstitutionalization: The Dialectics of Institutional Transformation in Maoist China</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Lunch: 12pm-2pm (all registered participants)</strong></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Panel 3: 2pm-3pm</strong></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Chair:&nbsp;</strong><span style="font-family:&quot;Times New Roman&quot;,serif">Li Yiwen (City University of Hong Kong)</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Speakers:&nbsp;</strong><br />
+<span style="font-family:&quot;Times New Roman&quot;,serif">Puk Wing Kin (Chinese University of Hong Kong) - Licking blood at the blade?: Dispute over lead and zinc mining contracts between the Hunan Mining Bureau and the Carlowitz &amp; Co. (1914-1920)</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Billy So (The University of Hong Kong) and Sufumi So (The University of Hong Kong) - The Corporate Governance of the Shanghai Commercial Press in Historical and Comparative Perspective</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Roundtable: New Directions in Chinese Business History : 3pm-4pm</strong></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Moderator:&nbsp;</strong><span style="font-family:&quot;Times New Roman&quot;,serif">John Wong (The University of Hong Kong)</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Tea Break: 4pm-4:30pm</strong></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Keynote Lecture: 4.30pm-6pm</strong></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Speaker:&nbsp;</strong><br />
+<span style="font-family:&quot;Times New Roman&quot;,serif">Elisabeth Köll (University of Notre Dame) - A History of Pawnbroking in China across the 20th Century: Examples of Opportunities for and Challenges in Business History Research</span></span></span></p>
+14:T1b57,<h3><span style="font-size:13.5pt"><span style="font-family:Calibri,sans-serif"><span style="font-weight:bold"><strong><u><span style="font-size:14.0pt">18 October</span></u></strong></span></span></span></h3>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Visit to the Hong Kong University Library: 11am-12pm</strong></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Location:&nbsp;</strong><span style="font-family:&quot;Times New Roman&quot;,serif">Hong Kong University Library 2/F Entrance</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Introduction to the Hong Kong Chinese Merchants Collection (in-person attendees only)<br />
+(Catalogue: <a href="https://archivesspace.lib.hku.hk/repositories/2/resources/17" style="color:blue; text-decoration:underline" target="_blank">https://archivesspace.lib.hku.hk/repositories/2/resources/17</a> ;<br />
+Digitised Items:&nbsp;<a href="https://digitalrepository.lib.hku.hk/hkcmc" style="color:blue; text-decoration:underline" target="_blank">https://digitalrepository.lib.hku.hk/hkcmc</a>)</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Panel 1: 2pm-4pm:</strong></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Chair:&nbsp;</strong><span style="font-family:&quot;Times New Roman&quot;,serif">Ghassan Moazzin (The University of Hong Kong)</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Location:&nbsp;</strong><span style="font-family:&quot;Times New Roman&quot;,serif">May Hall</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Speakers:&nbsp;</strong><br />
+<span style="font-family:&quot;Times New Roman&quot;,serif">Thomas Larkin (University of Bristol/Lingnan University) -&nbsp;<s>Augustine</s>&nbsp;Heard &amp; Co: The Anatomy of a Bankruptcy in Nineteenth-Century China</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Nathanael Lai (University of Cambridge) - In Support of the&nbsp;<em>Zhongzhen</em>: Loans, Textbooks, and the Cold War in 1950s Southeast Asia and Hong Kong</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Jackie Wang (University of Chinese Academy of Sciences) - Engendered Entrepreneur: Women and the Politics of Business in Modern China</span></span></span></p>
+
+<p><span style="font-size:13.5pt"><span style="font-family:Calibri,sans-serif"><span style="font-weight:bold"><strong><u><span style="font-size:14.0pt">19 October</span></u></strong></span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Location:&nbsp;</strong><span style="font-family:&quot;Times New Roman&quot;,serif">May Hall</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Panel 2: 10am-12pm</strong></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Chair:&nbsp;</strong><span style="font-family:&quot;Times New Roman&quot;,serif">Li Ji (The University of Hong Kong)</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Speakers:&nbsp;</strong><br />
+<span style="font-family:&quot;Times New Roman&quot;,serif">Matthew Lowenstein (Stanford University) - “Popular Sources” (</span><span lang="ZH-CN" style="font-family:&quot;新細明體&quot;,serif">民间资料</span><span style="font-family:&quot;Times New Roman&quot;,serif">): opportunities, challenges, and methodologies</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Bill Kelson (University of Georgia) - A Proto-Developmental State? Revisiting the Mines of the Late-Qing Self-Strengthening Movement</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Adam Frost (Copenhagen Business School) - Selective Deinstitutionalization: The Dialectics of Institutional Transformation in Maoist China</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Lunch: 12pm-2pm (all registered participants)</strong></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Panel 3: 2pm-3pm</strong></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Chair:&nbsp;</strong><span style="font-family:&quot;Times New Roman&quot;,serif">Li Yiwen (City University of Hong Kong)</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Speakers:&nbsp;</strong><br />
+<span style="font-family:&quot;Times New Roman&quot;,serif">Puk Wing Kin (Chinese University of Hong Kong) - Licking blood at the blade?: Dispute over lead and zinc mining contracts between the Hunan Mining Bureau and the Carlowitz &amp; Co. (1914-1920)</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Billy So (The University of Hong Kong) and Sufumi So (The University of Hong Kong) - The Corporate Governance of the Shanghai Commercial Press in Historical and Comparative Perspective</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Roundtable: New Directions in Chinese Business History : 3pm-4pm</strong></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Moderator:&nbsp;</strong><span style="font-family:&quot;Times New Roman&quot;,serif">John Wong (The University of Hong Kong)</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Tea Break: 4pm-4:30pm</strong></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Keynote Lecture: 4.30pm-6pm</strong></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Speaker:&nbsp;</strong><br />
+<span style="font-family:&quot;Times New Roman&quot;,serif">Elisabeth Köll (University of Notre Dame) - A History of Pawnbroking in China across the 20th Century: Examples of Opportunities for and Challenges in Business History Research</span></span></span></p>
+15:T6b2,<p><span lang="EN-US" style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">The Chinese Business History research cluster at the Hong Kong Institute for the Humanities and Social Sciences is pleased to invite you to the following workshop. The workshop will be held in hybrid mode, so you are welcome to join us in person or via Zoom. </span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>Date and Time: October 18-19, 2023 (Wed-Thu)</strong><br />
+<b><strong>Register now:</strong></b> <a href="https://forms.gle/MxNSQa6J9yegQqCd6" style="color:blue; text-decoration:underline" target="_blank">https://forms.gle/MxNSQa6J9yegQqCd6</a></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">If you have any questions about this workshop, please contact Dr. John D. Wong (<a href="mailto:jdwong@hku.hk" style="color:blue; text-decoration:underline" target="_blank">jdwong@hku.hk</a>) or Dr. Ghassan Moazzin (<a href="mailto:gmoazzin@hku.hk" style="color:blue; text-decoration:underline" target="_blank">gmoazzin@hku.hk</a>).</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Drs. John D. Wong and Ghassan Moazzin</span><br />
+<span style="font-family:&quot;Times New Roman&quot;,serif">Hong Kong Institute for the Humanities and Social Sciences and The Faculty of Arts</span><br />
+<span style="font-family:&quot;Times New Roman&quot;,serif">The University of Hong Kong</span></span></span></p>
+16:T6a8,<p><span lang="EN-US" style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">The Chinese Business History research cluster at the Hong Kong Institute for the Humanities and Social Sciences is pleased to invite you to the following workshop. The workshop will be held in hybrid mode, so you are welcome to join us in person or via Zoom. </span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>Date and Time: October 18-19, 2023 (Wed-Thu)</strong><br />
+<b><strong>Register now:</strong></b> <a href="https://forms.gle/MxNSQa6J9yegQqCd6" style="color:blue; text-decoration:underline" target="_blank">https://forms.gle/MxNSQa6J9yegQqCd6</a></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">If you have any questions about this workshop, please contact Dr. John D. Wong (<a href="mailto:jdwong@hku.hk" style="color:blue; text-decoration:underline" target="_blank">jdwong@hku.hk</a>) or Dr. Ghassan Moazzin (<a href="mailto:gmoazzin@hku.hk" style="color:blue; text-decoration:underline" target="_blank">gmoazzin@hku.hk</a>).</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Drs. John D. Wong and Ghassan Moazzin</span><br />
+<span style="font-family:&quot;Times New Roman&quot;,serif">Hong Kong Institute for the Humanities and Social Sciences and The Faculty of Arts</span><br />
+<span style="font-family:&quot;Times New Roman&quot;,serif">The University of Hong Kong</span></span></span></p>
+6:["$","$L12",null,{"event":{"id":"35dac0d2-5e41-4207-86ad-76b086e1348f","title":"“Innovating Chinese Business History” Workshop (Oct 18-19)","field_starting_time":"2023-10-18T03:00:00+00:00","field_speakers":{"value":"$13","format":"event_entering","processed":"$14"},"field_organizers":{"value":"<p><span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\">Hong Kong Institute for the Humanities and Social Sciences, The University of Hong Kong</span></span><br />\r\n<span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><strong><span lang=\"EN-US\" style=\"font-weight:normal\">S</span></strong><strong><span lang=\"EN-US\" style=\"font-weight:normal\">upported by the Louis Cha Fund of the Faculty of Arts, The University of Hong Kong</span></strong></span></span></p>\r\n","format":"event_entering","processed":"<p><span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\">Hong Kong Institute for the Humanities and Social Sciences, The University of Hong Kong</span></span><br />\n<span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><strong><span lang=\"EN-US\" style=\"font-weight:normal\">S</span></strong><strong><span lang=\"EN-US\" style=\"font-weight:normal\">upported by the Louis Cha Fund of the Faculty of Arts, The University of Hong Kong</span></strong></span></span></p>\n"},"field_event_mode":"Hybrid","field_event_category":"Workshop","field_event_language":"English","field_event_venue":"May Hall, The University of Hong Kong","field_event_record":false,"field_registration":true,"field_time_zone":"Asia/Hong_Kong","field_event_website":{"uri":"https://www.hkihss.hku.hk/en/events/innovating-chinese-business-history/","title":"","options":[]},"field_description":{"value":"$15","format":"event_entering","processed":"$16"}}}]

@@ -1,0 +1,166 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","e5964855-f1f6-4bcd-9051-e8cfb85fb715",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","e5964855-f1f6-4bcd-9051-e8cfb85fb715","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","e5964855-f1f6-4bcd-9051-e8cfb85fb715","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:Tf51,<p><span><span><span><span><strong>Speaker:</strong></span></span></span></span></p>
+
+<p><span><span><span><span>Dr. Liang Wang</span></span></span></span></p>
+
+<p><span><span><span><span>Leader of the Tandem Language Exchange programme and the <a href="https://blogs.qub.ac.uk/mandarinchinese/chinese/ccp/"><span><span>Chinese </span></span></a></span></span></span></span></p>
+
+<p><span><span><span><span><a href="https://blogs.qub.ac.uk/mandarinchinese/chinese/ccp/"><span><span>Culture Programme</span></span></a> at Queen’s University Belfast</span></span></span></span></p>
+
+<p><span><span><span><span>Language support officer of Queen’s University Belfast</span></span></span></span></p>
+
+<p><span><span><span><span>Wejdan Alawad </span></span></span></span></p>
+
+<p><span><span><span><span>Events manager of the Eutopia Arthouse Film Festival</span></span></span></span></p>
+
+<p><span><span><span><span>Lecturer in Imam Mohammad Ibn Saud Islamic University</span></span></span></span></p>
+
+<p><span><span><span><span>PhD candidate in Translation Studies at Queen's University Belfast</span></span></span></span></p>
+
+<p><span><span><span><span><strong>Film Director's Statement and Q&amp;A</strong></span></span></span></span></p>
+
+<p><span><span><span><span>Film director: Chunjing Wang, Mei Duan, Boyan Guo, Kunyu Cai, MengyuanSu, Yijing Wang</span></span></span></span></p>
+
+<p><span><span><span><span><strong>Host:</strong></span></span></span></span></p>
+
+<p><span><span><span><span>Tianpeng Yao</span></span></span></span></p>
+
+<p><span><span><span><span>Founder of the Eutopia Arthouse Film Festival</span></span></span></span></p>
+
+<p><span><span><span><span>PhD Candidate in Film Studies at Queen's University Belfast</span></span></span></span></p>
+
+<p><span><span><span><span><strong>Panelists:&nbsp;</strong></span></span></span></span></p>
+
+<p><span><span><span><span>Siyang Gu</span></span></span></span></p>
+
+<p><span><span><span><span>Marketing manager&amp;<a href="https://www.careersinfilm.com/festival-programmer/"><span><span>programmer</span></span></a> of the Eutopia Arthouse Film Festival</span></span></span></span></p>
+
+<p><span><span><span><span>PhD candidate in History at Queen's University Belfast</span></span></span></span></p>
+
+<p><span><span><span><span>Lauren McShane</span></span></span></span></p>
+
+<p><span><span><span><span><a href="https://www.careersinfilm.com/festival-programmer/"><span><span>Programmer</span></span></a> of the Eutopia Arthouse Film Festival</span></span></span></span></p>
+
+<p><span><span><span><span>PhD candidate in French Studies at Queen's University Belfast</span></span></span></span></p>
+
+<p><span><span><span><span>Course representative for Modern Languages postgraduate research </span></span></span></span></p>
+
+<p><span><span><span><span>students at Queen’s</span></span></span></span></p>
+
+<p><span><span><span><span>Xiaoxiang Ma</span></span></span></span></p>
+
+<p><span><span><span><span>Technical director of the Eutopia Arthouse Film Festival</span></span></span></span></p>
+
+<p><span><span><span><span>PhD student in Film Studies at Queen's University Belfast</span></span></span></span></p>
+
+<p><span><span><span><span>Yang Ni</span></span></span></span></p>
+
+<p><span><span><span><span>Media producer of the Eutopia Arthouse Film Festival</span></span></span></span></p>
+
+<p><span><span><span><span>PhD student in History at Queen's University Belfast</span></span></span></span></p>
+
+<p><span><span><span><span>Xun Hu</span></span></span></span></p>
+
+<p><span><span><span><span><a href="https://www.careersinfilm.com/festival-programmer/"><span><span>Programmer</span></span></a> of the Eutopia Arthouse Film Festival</span></span></span></span></p>
+
+<p><span><span><span><span>Postgraduate student at University College London</span></span></span></span></p>
+14:Tf0b,<p><span><span><span><span><strong>Speaker:</strong></span></span></span></span></p>
+
+<p><span><span><span><span>Dr. Liang Wang</span></span></span></span></p>
+
+<p><span><span><span><span>Leader of the Tandem Language Exchange programme and the <a href="https://blogs.qub.ac.uk/mandarinchinese/chinese/ccp/"><span><span>Chinese </span></span></a></span></span></span></span></p>
+
+<p><span><span><span><span><a href="https://blogs.qub.ac.uk/mandarinchinese/chinese/ccp/"><span><span>Culture Programme</span></span></a> at Queen’s University Belfast</span></span></span></span></p>
+
+<p><span><span><span><span>Language support officer of Queen’s University Belfast</span></span></span></span></p>
+
+<p><span><span><span><span>Wejdan Alawad </span></span></span></span></p>
+
+<p><span><span><span><span>Events manager of the Eutopia Arthouse Film Festival</span></span></span></span></p>
+
+<p><span><span><span><span>Lecturer in Imam Mohammad Ibn Saud Islamic University</span></span></span></span></p>
+
+<p><span><span><span><span>PhD candidate in Translation Studies at Queen's University Belfast</span></span></span></span></p>
+
+<p><span><span><span><span><strong>Film Director's Statement and Q&amp;A</strong></span></span></span></span></p>
+
+<p><span><span><span><span>Film director: Chunjing Wang, Mei Duan, Boyan Guo, Kunyu Cai, MengyuanSu, Yijing Wang</span></span></span></span></p>
+
+<p><span><span><span><span><strong>Host:</strong></span></span></span></span></p>
+
+<p><span><span><span><span>Tianpeng Yao</span></span></span></span></p>
+
+<p><span><span><span><span>Founder of the Eutopia Arthouse Film Festival</span></span></span></span></p>
+
+<p><span><span><span><span>PhD Candidate in Film Studies at Queen's University Belfast</span></span></span></span></p>
+
+<p><span><span><span><span><strong>Panelists: </strong></span></span></span></span></p>
+
+<p><span><span><span><span>Siyang Gu</span></span></span></span></p>
+
+<p><span><span><span><span>Marketing manager&amp;<a href="https://www.careersinfilm.com/festival-programmer/"><span><span>programmer</span></span></a> of the Eutopia Arthouse Film Festival</span></span></span></span></p>
+
+<p><span><span><span><span>PhD candidate in History at Queen's University Belfast</span></span></span></span></p>
+
+<p><span><span><span><span>Lauren McShane</span></span></span></span></p>
+
+<p><span><span><span><span><a href="https://www.careersinfilm.com/festival-programmer/"><span><span>Programmer</span></span></a> of the Eutopia Arthouse Film Festival</span></span></span></span></p>
+
+<p><span><span><span><span>PhD candidate in French Studies at Queen's University Belfast</span></span></span></span></p>
+
+<p><span><span><span><span>Course representative for Modern Languages postgraduate research </span></span></span></span></p>
+
+<p><span><span><span><span>students at Queen’s</span></span></span></span></p>
+
+<p><span><span><span><span>Xiaoxiang Ma</span></span></span></span></p>
+
+<p><span><span><span><span>Technical director of the Eutopia Arthouse Film Festival</span></span></span></span></p>
+
+<p><span><span><span><span>PhD student in Film Studies at Queen's University Belfast</span></span></span></span></p>
+
+<p><span><span><span><span>Yang Ni</span></span></span></span></p>
+
+<p><span><span><span><span>Media producer of the Eutopia Arthouse Film Festival</span></span></span></span></p>
+
+<p><span><span><span><span>PhD student in History at Queen's University Belfast</span></span></span></span></p>
+
+<p><span><span><span><span>Xun Hu</span></span></span></span></p>
+
+<p><span><span><span><span><a href="https://www.careersinfilm.com/festival-programmer/"><span><span>Programmer</span></span></a> of the Eutopia Arthouse Film Festival</span></span></span></span></p>
+
+<p><span><span><span><span>Postgraduate student at University College London</span></span></span></span></p>15:T570,<p><span><span>The Eutopia Arthouse Film Festival (EAFF) is a non-profit international film exhibition focused on fostering artistic exchange and development among new filmmakers. Organized by Queen’s University Belfast and funded by the Queen’s Annual Fund, EAFF serves as a platform for emerging talents to showcase their work.</span></span></p>
+
+<p><span><span>This year, EAFF introduces the 'Cultural Bridge' special section, aiming to enhance cultural exchange between East Asia and Western Countries. This section features films that depict the cultural, artistic, and societal aspects of East Asia, fostering dialogue, exchange, and integration between Eastern and Western artistic cultures.</span></span></p>
+
+<p><span><span>Six films reflecting East Asian culture have been selected for screening at the festival: <em>The Death of Emilia, Echo from Deep Valley, Kunqu opera ‘Peony Pavilion’, Rest in Peace, A Fantastic Yang Opera, </em>and<em> Wanning Mountain and Water</em>. These films delve into the cultural richness of East Asia, exploring its intangible heritage, social customs, human geography, and more.</span></span></p>
+
+<p><span><span>Additionally, Dr. Liang Wang from Queen’s language centre will join the round-table discussion on East Asian film and culture topic with the EAFF team members and the film directors.</span></span></p>
+
+<p>&nbsp;</p>
+16:T562,<p><span><span>The Eutopia Arthouse Film Festival (EAFF) is a non-profit international film exhibition focused on fostering artistic exchange and development among new filmmakers. Organized by Queen’s University Belfast and funded by the Queen’s Annual Fund, EAFF serves as a platform for emerging talents to showcase their work.</span></span></p>
+
+<p><span><span>This year, EAFF introduces the 'Cultural Bridge' special section, aiming to enhance cultural exchange between East Asia and Western Countries. This section features films that depict the cultural, artistic, and societal aspects of East Asia, fostering dialogue, exchange, and integration between Eastern and Western artistic cultures.</span></span></p>
+
+<p><span><span>Six films reflecting East Asian culture have been selected for screening at the festival: <em>The Death of Emilia, Echo from Deep Valley, Kunqu opera ‘Peony Pavilion’, Rest in Peace, A Fantastic Yang Opera, </em>and<em> Wanning Mountain and Water</em>. These films delve into the cultural richness of East Asia, exploring its intangible heritage, social customs, human geography, and more.</span></span></p>
+
+<p><span><span>Additionally, Dr. Liang Wang from Queen’s language centre will join the round-table discussion on East Asian film and culture topic with the EAFF team members and the film directors.</span></span></p>
+
+<p> </p>6:["$","$L12",null,{"event":{"id":"e5964855-f1f6-4bcd-9051-e8cfb85fb715","title":"Eutopia Arthouse Film Festival Cultural Bridge Special Section Screening","field_starting_time":"2024-05-01T15:30:00+00:00","field_speakers":{"value":"$13","format":"basic_html","processed":"$14"},"field_organizers":{"value":"<p><span><span>School of Arts, English and Languages, Queen's University Belfast</span></span></p>\r\n\r\n<p><span><span>Language Centre, Queen's University Belfast</span></span></p>\r\n","format":"basic_html","processed":"<p><span><span>School of Arts, English and Languages, Queen's University Belfast</span></span></p>\n\n<p><span><span>Language Centre, Queen's University Belfast</span></span></p>"},"field_event_mode":"Hybrid","field_event_category":"Other","field_event_language":null,"field_event_venue":null,"field_event_record":true,"field_registration":true,"field_time_zone":"Europe/London","field_event_website":{"uri":"https://blogs.qub.ac.uk/eutopiafilmfest/events/eaff-cultural-bridge-special-section-screening/","title":"","options":[]},"field_description":{"value":"$15","format":"basic_html","processed":"$16"}}}]

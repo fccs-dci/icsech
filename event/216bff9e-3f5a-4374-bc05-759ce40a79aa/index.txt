@@ -1,0 +1,94 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","216bff9e-3f5a-4374-bc05-759ce40a79aa",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","216bff9e-3f5a-4374-bc05-759ce40a79aa","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","216bff9e-3f5a-4374-bc05-759ce40a79aa","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:T1504,<h3>Exhibition Dates</h3>
+
+<p>3 April–16 June 2023</p>
+
+<h3>Opening Hours</h3>
+
+<p><strong>Weekdays 9 am–5 pm</strong></p>
+
+<p>The renowned queer Taiwanese writer Qiu Miaojin took her own life in Paris, leaving behind what many consider her masterpiece: the epistolary novel&nbsp;<em>Last Words from Montmartre</em>, in which she chronicles the breakdown of her three-year relationship with her girlfriend Xu; her musings on love and art; detailed descriptions of everyday life; and discussions of her relationships with other women. The novel takes place over three months (between April and June) in 1995. It was completed just before Qiu’s death. Qiu was 26.</p>
+
+<p>In 2019, also at the age of 26, Sydney-based artist Meng-Yu Yan travelled to France for a three-month residency, between April and June, at the Cité Internationale des Arts. Here Yan filmed&nbsp;<em>Double Witness</em>, a series of 20 video letters that follow the artist as they retrace Qiu Miaojin’s final days in Paris. Mirroring Qiu in age, ethnicity, sexuality, time, place, and gender identity—and even as their own relationship of three years broke down—Yan began to experience a blurring of boundaries between their own life and that of Qiu. The artist’s own feelings of heartbreak, guilt, betrayal, passion, and love began to mirror those expressed in the novel. The artist became Qiu’s double.</p>
+
+<p><em>Double Witness</em>&nbsp;is as much an act of haunting as it is an attempt to re-animate Qiu Miaojin’s last months in Paris. An intensive endurance performance, the series of videos positions the artist as medium in both the psychic and artistic senses as they engage in a kind of literary séance by reading&nbsp;<em>Last Words from Montmartre</em>&nbsp;and retracing Qiu’s steps on the dates outlined in the book dates which now coincide with the timing of this exhibit here at the CIW Gallery.</p>
+
+<p>Using temporal connections to engage with the lost history of queer kin,&nbsp;<em>Double Witness</em>&nbsp;is part of the artist’s research into “Queer Spectrality”: a term used to describe the ways queerness has been disavowed and rendered spectral throughout history and across cultures.</p>
+
+<p>Curated by Ari Heinrich and Lindsay Kelley.</p>
+
+<h3>About the Artist</h3>
+
+<p><strong>Meng-Yu Yan 颜梦钰</strong> is a photomedia-based, cross-disciplinary artist who blends digital photographic methods with analogue manipulation, sculpture, time-based mediums, and installation. Infused with Daoist philosophy and a love for darkness, the artist enjoys playing “photographic games” with their audience; amalgamating shadows, mirrors, light, glass, and water to conjure visual dreamscapes.</p>
+
+<p>Characterised by spontaneity and experimentation Yan’s practice conveys strong conceptual engagement with self-reflection and alienation. As a first-generation Australian-Chinese queer non-binary artist, Yan’s work consistently confronts the intersections between race, culture, spirituality, sexuality, and gender identity. Marked by fragmentation, multiplicity, and the unconscious, their self-portraiture is reminiscent of Surrealist photographers such as Claude Cahun and Duane Michals. Using photography as a medium to channel otherworldly and paranormal phenomena, they are fascinated by spirit photography, divination, performative haunting, and astrological practices.</p>
+
+<p>Yan’s first solo exhibition ‘occulere – vision &amp; concealment’ debuted at Dominik Mersch Gallery in 2017. In 2019 Meng was awarded the Ross Steele Scholarship to fund their residency at the Cité Internationale des Arts in Paris, France. Yan completed their Master of Fine Arts (Research) funded by the Australian Government RTP Scholarship at UNSW Art &amp; Design in 2020. Their research explored queer spectrality and cultural haunting through experimental photography.</p>
+
+<p>Yan is currently a finalist in the&nbsp;<a href="https://www.portrait.gov.au/exhibitions/national-photographic-portrait-prize-2023">National Photographic Portrait Prize</a>&nbsp;for 2023. Their exhibit&nbsp;<a href="https://dominikmerschgallery.com/exhibition/meng-yu-yan/"><em>Heaven; just another ruin</em></a>&nbsp;will be online at Dominik Mersch Gallery from 19 April–3 June 2023.</p>
+
+<h3>About the Curators</h3>
+
+<p><strong>Ari Larissa Heinrich</strong>&nbsp;is Professor of Chinese Literature and Media at the Australian National University. He writes about contemporary visual cultures from China, Taiwan, and Hong Kong, with a focus on experimental works that employ biological materials like body parts, pathological specimens, and organic chemicals.&nbsp;<a href="http://www.ariheinrich.com/">www.ariheinrich.com</a></p>
+
+<p><strong>Lindsay Kelley</strong>&nbsp;is a Senior Lecturer in the School of Art &amp; Design, College of the Arts &amp; Social Sciences, Australian National University. The recipient of an Australian Research Council Discovery Early Career Researcher Award (2019-2022), she has exhibited and performed internationally, and her published work can be found in journals including&nbsp;<em>parallax</em>,&nbsp;<em>Transgender Studies Quarterly</em>,&nbsp;<em>Angelaki</em>, and&nbsp;<em>Environmental Humanities</em>.</p>
+
+<h3>Public Programs</h3>
+
+<p>To be confirmed</p>
+14:T14df,<h3>Exhibition Dates</h3>
+
+<p>3 April–16 June 2023</p>
+
+<h3>Opening Hours</h3>
+
+<p><strong>Weekdays 9 am–5 pm</strong></p>
+
+<p>The renowned queer Taiwanese writer Qiu Miaojin took her own life in Paris, leaving behind what many consider her masterpiece: the epistolary novel&nbsp;<em>Last Words from Montmartre</em>, in which she chronicles the breakdown of her three-year relationship with her girlfriend Xu; her musings on love and art; detailed descriptions of everyday life; and discussions of her relationships with other women. The novel takes place over three months (between April and June) in 1995. It was completed just before Qiu’s death. Qiu was 26.</p>
+
+<p>In 2019, also at the age of 26, Sydney-based artist Meng-Yu Yan travelled to France for a three-month residency, between April and June, at the Cité Internationale des Arts. Here Yan filmed&nbsp;<em>Double Witness</em>, a series of 20 video letters that follow the artist as they retrace Qiu Miaojin’s final days in Paris. Mirroring Qiu in age, ethnicity, sexuality, time, place, and gender identity—and even as their own relationship of three years broke down—Yan began to experience a blurring of boundaries between their own life and that of Qiu. The artist’s own feelings of heartbreak, guilt, betrayal, passion, and love began to mirror those expressed in the novel. The artist became Qiu’s double.</p>
+
+<p><em>Double Witness</em>&nbsp;is as much an act of haunting as it is an attempt to re-animate Qiu Miaojin’s last months in Paris. An intensive endurance performance, the series of videos positions the artist as medium in both the psychic and artistic senses as they engage in a kind of literary séance by reading&nbsp;<em>Last Words from Montmartre</em>&nbsp;and retracing Qiu’s steps on the dates outlined in the book dates which now coincide with the timing of this exhibit here at the CIW Gallery.</p>
+
+<p>Using temporal connections to engage with the lost history of queer kin,&nbsp;<em>Double Witness</em>&nbsp;is part of the artist’s research into “Queer Spectrality”: a term used to describe the ways queerness has been disavowed and rendered spectral throughout history and across cultures.</p>
+
+<p>Curated by Ari Heinrich and Lindsay Kelley.</p>
+
+<h3>About the Artist</h3>
+
+<p><strong>Meng-Yu Yan 颜梦钰</strong> is a photomedia-based, cross-disciplinary artist who blends digital photographic methods with analogue manipulation, sculpture, time-based mediums, and installation. Infused with Daoist philosophy and a love for darkness, the artist enjoys playing “photographic games” with their audience; amalgamating shadows, mirrors, light, glass, and water to conjure visual dreamscapes.</p>
+
+<p>Characterised by spontaneity and experimentation Yan’s practice conveys strong conceptual engagement with self-reflection and alienation. As a first-generation Australian-Chinese queer non-binary artist, Yan’s work consistently confronts the intersections between race, culture, spirituality, sexuality, and gender identity. Marked by fragmentation, multiplicity, and the unconscious, their self-portraiture is reminiscent of Surrealist photographers such as Claude Cahun and Duane Michals. Using photography as a medium to channel otherworldly and paranormal phenomena, they are fascinated by spirit photography, divination, performative haunting, and astrological practices.</p>
+
+<p>Yan’s first solo exhibition ‘occulere – vision &amp; concealment’ debuted at Dominik Mersch Gallery in 2017. In 2019 Meng was awarded the Ross Steele Scholarship to fund their residency at the Cité Internationale des Arts in Paris, France. Yan completed their Master of Fine Arts (Research) funded by the Australian Government RTP Scholarship at UNSW Art &amp; Design in 2020. Their research explored queer spectrality and cultural haunting through experimental photography.</p>
+
+<p>Yan is currently a finalist in the&nbsp;<a href="https://www.portrait.gov.au/exhibitions/national-photographic-portrait-prize-2023">National Photographic Portrait Prize</a>&nbsp;for 2023. Their exhibit&nbsp;<a href="https://dominikmerschgallery.com/exhibition/meng-yu-yan/"><em>Heaven; just another ruin</em></a>&nbsp;will be online at Dominik Mersch Gallery from 19 April–3 June 2023.</p>
+
+<h3>About the Curators</h3>
+
+<p><strong>Ari Larissa Heinrich</strong>&nbsp;is Professor of Chinese Literature and Media at the Australian National University. He writes about contemporary visual cultures from China, Taiwan, and Hong Kong, with a focus on experimental works that employ biological materials like body parts, pathological specimens, and organic chemicals.&nbsp;<a href="http://www.ariheinrich.com/">www.ariheinrich.com</a></p>
+
+<p><strong>Lindsay Kelley</strong>&nbsp;is a Senior Lecturer in the School of Art &amp; Design, College of the Arts &amp; Social Sciences, Australian National University. The recipient of an Australian Research Council Discovery Early Career Researcher Award (2019-2022), she has exhibited and performed internationally, and her published work can be found in journals including&nbsp;<em>parallax</em>,&nbsp;<em>Transgender Studies Quarterly</em>,&nbsp;<em>Angelaki</em>, and&nbsp;<em>Environmental Humanities</em>.</p>
+
+<h3>Public Programs</h3>
+
+<p>To be confirmed</p>
+6:["$","$L12",null,{"event":{"id":"216bff9e-3f5a-4374-bc05-759ce40a79aa","title":"Double Witness","field_starting_time":"2023-04-02T23:00:00+00:00","field_speakers":{"value":"<p><strong>Meng-Yu Yan 颜梦钰</strong></p>\r\n","format":"event_entering","processed":"<p><strong>Meng-Yu Yan 颜梦钰</strong></p>\n"},"field_organizers":{"value":"<p>Australian Centre on China in the World</p>\r\n","format":"event_entering","processed":"<p>Australian Centre on China in the World</p>\n"},"field_event_mode":"In-person","field_event_category":"Exhibition","field_event_language":null,"field_event_venue":"Gallery, China in the World Building (188), Fellows Lane, ANU","field_event_record":false,"field_registration":false,"field_time_zone":"Australia/Sydney","field_event_website":{"uri":"https://ciw.anu.edu.au/events/double-witness","title":"","options":[]},"field_description":{"value":"$13","format":"event_entering","processed":"$14"}}}]

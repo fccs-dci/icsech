@@ -1,0 +1,46 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","7fa0b0fd-d2d2-435b-903e-0dbfeae3168d",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","7fa0b0fd-d2d2-435b-903e-0dbfeae3168d","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","7fa0b0fd-d2d2-435b-903e-0dbfeae3168d","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:T716,<p><meta charset="UTF-8" /></p>
+
+<p>In the new era, graduate education at Peking University aims to cultivate talent with a solid and broad foundation in their discipline, comprehensive knowledge of related fields, and the ability to conduct independent scientific research, ultimately producing innovative contributions. To achieve this, Peking University has consistently prioritized student development, emphasizing quality and fostering high-quality growth. The Graduate School of Peking University has established a comprehensive management system that covers the entire educational process, maintaining stable admissions, supporting high-level graduate courses, optimizing training programs, and enhancing management. It has also strengthened professional degree education, ensured the quality of degree conferral, and advanced faculty development. Additionally, reforms in the graduate scholarship system, interdisciplinary training, and the “Peking University Global&nbsp;Vision Exchange Program” have further promoted the internationalization of graduate education.</p>
+
+<p><strong>Speaker:</strong><br />
+Currently serving as the Deputy Director of the Graduate Admissions Office, Meng Li previously held the position of Deputy Director of the Graduate Academic Affairs Office. He holds both a bachelor’s and a master’s degrees in literature from Peking University, and his doctoral research centers on communication studies, the internationalization of graduate education, and international graduate admissions.</p>
+
+<p><strong>Moderator:</strong><br />
+Dr. Ivy MU, Director of International Partnerships, UHM.</p>
+
+<p><strong>Discussants:</strong><br />
+Baoyan Cheng, Professor, Dept of Educational Foundations, UHM;<br />
+Dr. Le LIN, Associate Professor, Sociology Dept., UHM</p>
+14:T709,<p><meta charset="UTF-8" /></p>
+
+<p>In the new era, graduate education at Peking University aims to cultivate talent with a solid and broad foundation in their discipline, comprehensive knowledge of related fields, and the ability to conduct independent scientific research, ultimately producing innovative contributions. To achieve this, Peking University has consistently prioritized student development, emphasizing quality and fostering high-quality growth. The Graduate School of Peking University has established a comprehensive management system that covers the entire educational process, maintaining stable admissions, supporting high-level graduate courses, optimizing training programs, and enhancing management. It has also strengthened professional degree education, ensured the quality of degree conferral, and advanced faculty development. Additionally, reforms in the graduate scholarship system, interdisciplinary training, and the “Peking University Global&nbsp;Vision Exchange Program” have further promoted the internationalization of graduate education.</p>
+
+<p><strong>Speaker:</strong><br />
+Currently serving as the Deputy Director of the Graduate Admissions Office, Meng Li previously held the position of Deputy Director of the Graduate Academic Affairs Office. He holds both a bachelor’s and a master’s degrees in literature from Peking University, and his doctoral research centers on communication studies, the internationalization of graduate education, and international graduate admissions.</p>
+
+<p><strong>Moderator:</strong><br />
+Dr. Ivy MU, Director of International Partnerships, UHM.</p>
+
+<p><strong>Discussants:</strong><br />
+Baoyan Cheng, Professor, Dept of Educational Foundations, UHM;<br />
+Dr. Le LIN, Associate Professor, Sociology Dept., UHM</p>
+6:["$","$L12",null,{"event":{"id":"7fa0b0fd-d2d2-435b-903e-0dbfeae3168d","title":"CCS Webinar - Faculty Dialogue: Graduate Education at Peking University in the New Era","field_starting_time":"2024-09-04T22:00:00+00:00","field_speakers":{"value":"<p>Meng Li</p>\r\n","format":"event_entering","processed":"<p>Meng Li</p>\n"},"field_organizers":{"value":"<p>Center for Chinese Studies at University of Hawaiʻi at Mānoa</p>\r\n","format":"event_entering","processed":"<p>Center for Chinese Studies at University of Hawaiʻi at Mānoa</p>\n"},"field_event_mode":"Online","field_event_category":"Talk","field_event_language":"English","field_event_venue":null,"field_event_record":true,"field_registration":true,"field_time_zone":"Pacific/Honolulu","field_event_website":{"uri":"https://manoa.hawaii.edu/chinesestudies/2024/08/september-4-graduate-education-at-peking-university-in-the-new-era/","title":"","options":[]},"field_description":{"value":"$13","format":"event_entering","processed":"$14"}}}]

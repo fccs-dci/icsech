@@ -1,0 +1,62 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","eaf17489-e574-4293-becd-dfd68d0e3b92",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","eaf17489-e574-4293-becd-dfd68d0e3b92","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","eaf17489-e574-4293-becd-dfd68d0e3b92","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:Tc06,<p>Rhode's book&nbsp;<em>Great Power Clashes Along the Maritime Silk Road</em>&nbsp;(2023) asks what we can learn from historic Eurasian maritime geopolitical players and their interactions that will inform and enlighten today's international relations practitioners. It examines three seminal historical cases of maritime clashes in the China Seas, four in the Indian Ocean, and one in the eastern Mediterranean Sea. Each of these is an example of local or regional conflict reflecting the circumstances of time and place.&nbsp;</p>
+
+<p><strong>About the speaker:</strong></p>
+
+<p><strong>Grant Rhode</strong>&nbsp;teaches and conducts research at the Pardee School of Global Studies at Boston University and at the U.S. Naval War College in Newport, Rhode Island. He is Associate in Research at the Fairbank Center for Chinese Studies at Harvard University and Faculty Affiliate of the China Maritime Studies Institute of the U.S. Naval War College. He has been a Visiting Scholar in Taiwan at both National Chengchi University and National Taiwan University. He trained in Chinese studies in the UK before his doctoral studies in Asian Diplomatic History and International Relations.</p>
+
+<p>Dr. Rhode’s current research focuses on China’s role in historical and contemporary Eurasian maritime affairs. On the historical front, he is completing a book on Eurasian Maritime History for Global Strategists: Great Power Clashes along the Maritime Silk Road. On the contemporary front, he directs Boston University’s program series&nbsp;<a href="http://www.bu.edu/pardeeschool/2020/10/19/assessing-chinas-belt-and-road-initiative-a-pardee-school-event-series/">Assessing China’s Belt and Road Initiative,</a>&nbsp;which most recently included a two-day USNWC-BU&nbsp;<a href="https://www.bu.edu/asian/resources/assessing-chinas-belt-road-initiative-bri/">conference</a>&nbsp;that explored the BRI on its 10th anniversary. In addition to his latest book&nbsp;<em>Great Power Clashes Along the Maritime Silk Road,&nbsp;</em>Dr. Rhode’s recent publications include “By Land and By Sea: China’s Belt and Road in Europe” (2019), “China, Global History, and the Sea” (2020), “Mongol Invasions of Northeast Asia: Korea and Japan” (2020), “China’s Emergence as a Power in the Mediterranean: Port Diplomacy and Active Engagement” (2021), “Tasting Gall: Chiang Kai-Shek and China’s War with Japan” (2021), and “Shi Lang’s Amphibious Conquest of Taiwan in 1683” (2021).</p>
+
+<p>Recent teaching includes the following courses:</p>
+
+<p><strong>Pardee School of Global Studies, Boston University</strong><br />
+<em>The Sea in International Relations</em><br />
+<em>International Relations of the Asia-Pacific Region</em></p>
+
+<p><strong>U.S. Naval War College, Newport, Rhode Island</strong><br />
+<em>Eurasian Maritime History for Global Strategists</em><br />
+<em>Taiwan: Transformation and Geopolitics</em><br />
+<em>Asian Maritime History and Current Disputes</em><br />
+<em>Strategy and War</em></p>
+
+<footer>&nbsp;</footer>
+14:Tbf1,<p>Rhode's book&nbsp;<em>Great Power Clashes Along the Maritime Silk Road</em>&nbsp;(2023) asks what we can learn from historic Eurasian maritime geopolitical players and their interactions that will inform and enlighten today's international relations practitioners. It examines three seminal historical cases of maritime clashes in the China Seas, four in the Indian Ocean, and one in the eastern Mediterranean Sea. Each of these is an example of local or regional conflict reflecting the circumstances of time and place.&nbsp;</p>
+
+<p><strong>About the speaker:</strong></p>
+
+<p><strong>Grant Rhode</strong>&nbsp;teaches and conducts research at the Pardee School of Global Studies at Boston University and at the U.S. Naval War College in Newport, Rhode Island. He is Associate in Research at the Fairbank Center for Chinese Studies at Harvard University and Faculty Affiliate of the China Maritime Studies Institute of the U.S. Naval War College. He has been a Visiting Scholar in Taiwan at both National Chengchi University and National Taiwan University. He trained in Chinese studies in the UK before his doctoral studies in Asian Diplomatic History and International Relations.</p>
+
+<p>Dr. Rhode’s current research focuses on China’s role in historical and contemporary Eurasian maritime affairs. On the historical front, he is completing a book on Eurasian Maritime History for Global Strategists: Great Power Clashes along the Maritime Silk Road. On the contemporary front, he directs Boston University’s program series&nbsp;<a href="http://www.bu.edu/pardeeschool/2020/10/19/assessing-chinas-belt-and-road-initiative-a-pardee-school-event-series/">Assessing China’s Belt and Road Initiative,</a>&nbsp;which most recently included a two-day USNWC-BU&nbsp;<a href="https://www.bu.edu/asian/resources/assessing-chinas-belt-road-initiative-bri/">conference</a>&nbsp;that explored the BRI on its 10th anniversary. In addition to his latest book&nbsp;<em>Great Power Clashes Along the Maritime Silk Road,&nbsp;</em>Dr. Rhode’s recent publications include “By Land and By Sea: China’s Belt and Road in Europe” (2019), “China, Global History, and the Sea” (2020), “Mongol Invasions of Northeast Asia: Korea and Japan” (2020), “China’s Emergence as a Power in the Mediterranean: Port Diplomacy and Active Engagement” (2021), “Tasting Gall: Chiang Kai-Shek and China’s War with Japan” (2021), and “Shi Lang’s Amphibious Conquest of Taiwan in 1683” (2021).</p>
+
+<p>Recent teaching includes the following courses:</p>
+
+<p><strong>Pardee School of Global Studies, Boston University</strong><br />
+<em>The Sea in International Relations</em><br />
+<em>International Relations of the Asia-Pacific Region</em></p>
+
+<p><strong>U.S. Naval War College, Newport, Rhode Island</strong><br />
+<em>Eurasian Maritime History for Global Strategists</em><br />
+<em>Taiwan: Transformation and Geopolitics</em><br />
+<em>Asian Maritime History and Current Disputes</em><br />
+<em>Strategy and War</em></p>
+
+<footer>&nbsp;</footer>
+6:["$","$L12",null,{"event":{"id":"eaf17489-e574-4293-becd-dfd68d0e3b92","title":"Great Power Clashes along the Maritime Silk Road: A book talk by Dr. Grant Rhode","field_starting_time":"2024-03-20T21:00:00+00:00","field_speakers":{"value":"<p>Dr. Grant Rhode (Boston University and US Naval War College)</p>\r\n","format":"event_entering","processed":"<p>Dr. Grant Rhode (Boston University and US Naval War College)</p>\n"},"field_organizers":{"value":"<p>Boston University International History Institute and the BU Center for the Study of Asia</p>\r\n","format":"event_entering","processed":"<p>Boston University International History Institute and the BU Center for the Study of Asia</p>\n"},"field_event_mode":"In-person","field_event_category":"Talk","field_event_language":"English","field_event_venue":"Pardee School of Global Studies, 121 Bay State Road, Boston University","field_event_record":false,"field_registration":false,"field_time_zone":"America/New_York","field_event_website":{"uri":"https://www.bu.edu/asian/2023/12/04/great-power-clashes-along-the-maritime-silk-road-a-book-talk-by-dr-grant-rhode-march-20-2024/","title":"","options":[]},"field_description":{"value":"$13","format":"event_entering","processed":"$14"}}}]

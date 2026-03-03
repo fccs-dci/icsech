@@ -1,0 +1,128 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","2da4b6d6-a688-4af1-83eb-1ea82e04fba1",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","2da4b6d6-a688-4af1-83eb-1ea82e04fba1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","2da4b6d6-a688-4af1-83eb-1ea82e04fba1","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:T15c6,<p>In the past ten years the number of initiatives that have collected and analyzed rich datasets regarding physical infrastructures has grown substantially. One of the major challenges with these initiatives is to facilitate and foster reuse and integration of data – across different projects and across different disciplines. Linked Data and Semantic Web principles are increasingly applied by researchers and industries as a means to ensure that data is findable, accessible, interoperable, and reusable within and across different fields. This symposium will bring together experts from industry and academia to discuss methodological and ontological approaches to modelling and analyzing material infrastructure using Linked Data principles and together distill a number of best practices. This event is sponsored by the NWO-funded project “The Lives and Afterlives of Material Infrastructures in Southeast China”. Researchers in this and an allied ERC project based at KU Leuven aim to map the appearance and disappearance of large-scale infrastructures on an open access spatial analysis platform based on the digital annotation of the extant textual and archaeological record. Our goal is to promote a dialogue between industry, government institutions, and academia and to facilitate the development of broadly applicable ontologies and methodologies.</p>
+
+<p><strong>&nbsp;Program</strong></p>
+
+<p>For this symposium, we invite participants to speak in one of two sessions.</p>
+
+<p>&nbsp;The first session will address ontologies and modelling standards. We ask that participants speak about their own work and address the following questions:</p>
+
+<p>• What are the key decisions that need to be made when modelling infrastructure,<br />
+• How can different data sources be integrated?<br />
+• How can changes in infrastructure use, function, and materials be described?</p>
+
+<p>&nbsp;The second session will be devoted to the analysis and visualization of infrastructure data, in which we would like participants to discuss:</p>
+
+<p>• How they analyze infrastructure data,<br />
+• what visualizations they generate, and<br />
+• what software, services or technologies they use.</p>
+
+<p>&nbsp;Speakers will give a brief overview of their work in relation to the session theme (8-10 minutes). This will be followed by a larger roundtable discussion at the end of each session.</p>
+
+<p>In the past ten years the number of initiatives that have collected and analyzed rich datasets regarding physical infrastructures has grown substantially. One of the major challenges with these initiatives is to facilitate and foster reuse and integration of data – across different projects and across different disciplines. Linked Data and Semantic Web principles are increasingly applied by researchers and industries as a means to ensure that data is findable, accessible, interoperable, and reusable within and across different fields. This symposium will bring together experts from industry and academia to discuss methodological and ontological approaches to modelling and analyzing material infrastructure using Linked Data principles and together distill a number of best practices. This event is sponsored by the NWO-funded project “The Lives and Afterlives of Material Infrastructures in Southeast China”. Researchers in this and an allied ERC project based at KU Leuven aim to map the appearance and disappearance of large-scale infrastructures on an open access spatial analysis platform based on the digital annotation of the extant textual and archaeological record. Our goal is to promote a dialogue between industry, government institutions, and academia and to facilitate the development of broadly applicable ontologies and methodologies.</p>
+
+<p><strong>&nbsp;Program</strong></p>
+
+<p>For this symposium, we invite participants to speak in one of two sessions.</p>
+
+<p>&nbsp;The first session will address ontologies and modelling standards. We ask that participants speak about their own work and address the following questions:</p>
+
+<p>• What are the key decisions that need to be made when modelling infrastructure,<br />
+• How can different data sources be integrated?<br />
+• How can changes in infrastructure use, function, and materials be described?</p>
+
+<p>&nbsp;The second session will be devoted to the analysis and visualization of infrastructure data, in which we would like participants to discuss:</p>
+
+<p>• How they analyze infrastructure data,<br />
+• what visualizations they generate, and<br />
+• what software, services or technologies they use.</p>
+
+<p>&nbsp;Speakers will give a brief overview of their work in relation to the session theme (8-10 minutes). This will be followed by a larger roundtable discussion at the end of each session.</p>
+
+<p><strong>Practical information</strong></p>
+
+<p>Date: Friday 1 December 2023</p>
+
+<p>Location:<br />
+International Institute of Social History<br />
+Cruquiusweg 31 1019 AT<br />
+Amsterdam</p>
+
+<p><strong>Organizers</strong></p>
+
+<p>Taylor Zaneri&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:taylor.zaneri@iisg.nl">taylor.zaneri@iisg.nl</a><br />
+Sander Stolk&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:sanderstolk@semmtech.nl">sanderstolk@semmtech.nl</a><br />
+Hilde De Weerdt &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:hilde.deweerdt@kuleuven.be">hilde.deweerdt@kuleuven.be</a></p>
+14:T1590,<p>In the past ten years the number of initiatives that have collected and analyzed rich datasets regarding physical infrastructures has grown substantially. One of the major challenges with these initiatives is to facilitate and foster reuse and integration of data – across different projects and across different disciplines. Linked Data and Semantic Web principles are increasingly applied by researchers and industries as a means to ensure that data is findable, accessible, interoperable, and reusable within and across different fields. This symposium will bring together experts from industry and academia to discuss methodological and ontological approaches to modelling and analyzing material infrastructure using Linked Data principles and together distill a number of best practices. This event is sponsored by the NWO-funded project “The Lives and Afterlives of Material Infrastructures in Southeast China”. Researchers in this and an allied ERC project based at KU Leuven aim to map the appearance and disappearance of large-scale infrastructures on an open access spatial analysis platform based on the digital annotation of the extant textual and archaeological record. Our goal is to promote a dialogue between industry, government institutions, and academia and to facilitate the development of broadly applicable ontologies and methodologies.</p>
+
+<p><strong>&nbsp;Program</strong></p>
+
+<p>For this symposium, we invite participants to speak in one of two sessions.</p>
+
+<p>&nbsp;The first session will address ontologies and modelling standards. We ask that participants speak about their own work and address the following questions:</p>
+
+<p>• What are the key decisions that need to be made when modelling infrastructure,<br />
+• How can different data sources be integrated?<br />
+• How can changes in infrastructure use, function, and materials be described?</p>
+
+<p>&nbsp;The second session will be devoted to the analysis and visualization of infrastructure data, in which we would like participants to discuss:</p>
+
+<p>• How they analyze infrastructure data,<br />
+• what visualizations they generate, and<br />
+• what software, services or technologies they use.</p>
+
+<p>&nbsp;Speakers will give a brief overview of their work in relation to the session theme (8-10 minutes). This will be followed by a larger roundtable discussion at the end of each session.</p>
+
+<p>In the past ten years the number of initiatives that have collected and analyzed rich datasets regarding physical infrastructures has grown substantially. One of the major challenges with these initiatives is to facilitate and foster reuse and integration of data – across different projects and across different disciplines. Linked Data and Semantic Web principles are increasingly applied by researchers and industries as a means to ensure that data is findable, accessible, interoperable, and reusable within and across different fields. This symposium will bring together experts from industry and academia to discuss methodological and ontological approaches to modelling and analyzing material infrastructure using Linked Data principles and together distill a number of best practices. This event is sponsored by the NWO-funded project “The Lives and Afterlives of Material Infrastructures in Southeast China”. Researchers in this and an allied ERC project based at KU Leuven aim to map the appearance and disappearance of large-scale infrastructures on an open access spatial analysis platform based on the digital annotation of the extant textual and archaeological record. Our goal is to promote a dialogue between industry, government institutions, and academia and to facilitate the development of broadly applicable ontologies and methodologies.</p>
+
+<p><strong>&nbsp;Program</strong></p>
+
+<p>For this symposium, we invite participants to speak in one of two sessions.</p>
+
+<p>&nbsp;The first session will address ontologies and modelling standards. We ask that participants speak about their own work and address the following questions:</p>
+
+<p>• What are the key decisions that need to be made when modelling infrastructure,<br />
+• How can different data sources be integrated?<br />
+• How can changes in infrastructure use, function, and materials be described?</p>
+
+<p>&nbsp;The second session will be devoted to the analysis and visualization of infrastructure data, in which we would like participants to discuss:</p>
+
+<p>• How they analyze infrastructure data,<br />
+• what visualizations they generate, and<br />
+• what software, services or technologies they use.</p>
+
+<p>&nbsp;Speakers will give a brief overview of their work in relation to the session theme (8-10 minutes). This will be followed by a larger roundtable discussion at the end of each session.</p>
+
+<p><strong>Practical information</strong></p>
+
+<p>Date: Friday 1 December 2023</p>
+
+<p>Location:<br />
+International Institute of Social History<br />
+Cruquiusweg 31 1019 AT<br />
+Amsterdam</p>
+
+<p><strong>Organizers</strong></p>
+
+<p>Taylor Zaneri&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:taylor.zaneri@iisg.nl">taylor.zaneri@iisg.nl</a><br />
+Sander Stolk&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:sanderstolk@semmtech.nl">sanderstolk@semmtech.nl</a><br />
+Hilde De Weerdt &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:hilde.deweerdt@kuleuven.be">hilde.deweerdt@kuleuven.be</a></p>
+6:["$","$L12",null,{"event":{"id":"2da4b6d6-a688-4af1-83eb-1ea82e04fba1","title":"Symposium: Digitizing Infrastructures: A dialogue on approaches in the AEC industry and academia","field_starting_time":"2023-12-01T08:00:00+00:00","field_speakers":{"value":"<p>Taylor Zaneri</p>\r\n\r\n<p>Sander Stolk&nbsp;</p>\r\n\r\n<p>Hilde De Weerdt</p>\r\n","format":"event_entering","processed":"<p>Taylor Zaneri</p>\n\n<p>Sander Stolk&nbsp;</p>\n\n<p>Hilde De Weerdt</p>\n"},"field_organizers":{"value":"<p>NWO-funded project “The Lives and Afterlives of Material Infrastructures in Southeast China”</p>\r\n","format":"event_entering","processed":"<p>NWO-funded project “The Lives and Afterlives of Material Infrastructures in Southeast China”</p>\n"},"field_event_mode":null,"field_event_category":"Workshop","field_event_language":"English","field_event_venue":"International Institute of Social History Cruquiusweg 31 1019 AT Amsterdam","field_event_record":false,"field_registration":false,"field_time_zone":"Europe/Brussels","field_event_website":{"uri":"https://www.infrastructurelives.eu/events/digitizing-infrastructures-a-dialogue-on-approaches-in-the-aec-industry-and-academia/","title":"","options":[]},"field_description":{"value":"$13","format":"event_entering","processed":"$14"}}}]

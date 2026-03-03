@@ -1,0 +1,90 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","5f59d212-aedf-46ec-b53d-7ac5bdc5db19",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","5f59d212-aedf-46ec-b53d-7ac5bdc5db19","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","5f59d212-aedf-46ec-b53d-7ac5bdc5db19","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:Tabf,<p><strong><a href="https://comp-lit.williams.edu/profile/sma4/">Sarah M. Allen</a></strong><br />
+<span>Associate Professor of Comparative Literature,</span> <span><span>Williams College</span></span></p>
+
+<p><strong><a href="https://eall.yale.edu/people/lucas-bender">Lucas Rambo Bender</a></strong><br />
+<span>Assistant Professor of East Asian Languages and Literatures</span>, <span><span>Yale University</span></span></p>
+
+<p><strong><a href="https://as.vanderbilt.edu/asianstudies/people/campany.php">Robert Ford Campany</a></strong><br />
+<span>Gertrude Conaway Vanderbilt Chair in the Humanities Professor of Asian Studies</span>, <span><span>Vanderbilt University</span></span></p>
+
+<p><strong><a href="https://eastasian.as.virginia.edu/people/profile/1447">Jack W. Chen</a></strong><br />
+<span>Professor of Chinese Literature</span>, <span><span>University of Virginia</span></span><span> </span></p>
+
+<p><strong><a href="https://ealc.sas.upenn.edu/people/prof-hsiao-wen-cheng">Hsiao-wen Cheng</a></strong><br />
+<span>Associate Professor of East Asian Religions</span>, <span><span>University of Pennsylvania</span></span></p>
+
+<p><strong><a href="https://ealc.indiana.edu/people/luo-manling.html">Manling Luo</a></strong><br />
+<span>Associate Professor of East Asian Languages and Cultures</span>, <span><span>Indiana University</span></span></p>
+
+<p><strong><a href="https://www.crcao.fr/membre/alexis-lycas/?lang=en">Alexis Lycas</a></strong><br />
+<span>Maître de </span>conférences, <span><span>École pratique des hautes études (EPHE, PSL) Centre de recherche sur les civilisations de l’Asie orientale (CRCAO, UMR 8155)</span></span></p>
+
+<p><strong><a href="https://www.hawaii.edu/religion/faculty/pettit/">Jonathan Pettit</a></strong><br />
+<span>Associate Professor of Chinese Religions,</span> <span><span>University of Hawaii</span></span></p>
+
+<p><span><strong><a href="https://ealc.fas.harvard.edu/people/xiaofei-tian">Xiaofei Tian&nbsp;田曉菲</a></strong></span><br />
+<span>Professor of Chinese Literature</span>, <span><span>Harvard University</span></span></p>
+
+<p><strong><a href="https://www.middlebury.edu/academics/igs/faculty/node/57361">Don J. Wyatt</a></strong><br />
+<span>John M. McCardell, Jr. Distinguished Professor,</span> <span><span>Middlebury Colleg</span></span></p>
+
+<p><strong><a href="https://denison.edu/people/shao-yun-yang">Shao-yun Yang</a></strong><br />
+<span>Associate Professor of East Asian Studies,</span> <span><span>Denison University</span></span></p>
+
+<p><strong><a href="https://history.yale.edu/people/zekun-zhang">Zekun Zhang</a></strong><br />
+<span>Ph.D. Candidate,</span> <span><span>Yale University</span></span><span>&nbsp;</span></p>
+14:Ta87,<p><strong><a href="https://comp-lit.williams.edu/profile/sma4/">Sarah M. Allen</a></strong><br /><span>Associate Professor of Comparative Literature,</span> <span><span>Williams College</span></span></p>
+
+<p><strong><a href="https://eall.yale.edu/people/lucas-bender">Lucas Rambo Bender</a></strong><br /><span>Assistant Professor of East Asian Languages and Literatures</span>, <span><span>Yale University</span></span></p>
+
+<p><strong><a href="https://as.vanderbilt.edu/asianstudies/people/campany.php">Robert Ford Campany</a></strong><br /><span>Gertrude Conaway Vanderbilt Chair in the Humanities Professor of Asian Studies</span>, <span><span>Vanderbilt University</span></span></p>
+
+<p><strong><a href="https://eastasian.as.virginia.edu/people/profile/1447">Jack W. Chen</a></strong><br /><span>Professor of Chinese Literature</span>, <span><span>University of Virginia</span></span><span> </span></p>
+
+<p><strong><a href="https://ealc.sas.upenn.edu/people/prof-hsiao-wen-cheng">Hsiao-wen Cheng</a></strong><br /><span>Associate Professor of East Asian Religions</span>, <span><span>University of Pennsylvania</span></span></p>
+
+<p><strong><a href="https://ealc.indiana.edu/people/luo-manling.html">Manling Luo</a></strong><br /><span>Associate Professor of East Asian Languages and Cultures</span>, <span><span>Indiana University</span></span></p>
+
+<p><strong><a href="https://www.crcao.fr/membre/alexis-lycas/?lang=en">Alexis Lycas</a></strong><br /><span>Maître de </span>conférences, <span><span>École pratique des hautes études (EPHE, PSL) Centre de recherche sur les civilisations de l’Asie orientale (CRCAO, UMR 8155)</span></span></p>
+
+<p><strong><a href="https://www.hawaii.edu/religion/faculty/pettit/">Jonathan Pettit</a></strong><br /><span>Associate Professor of Chinese Religions,</span> <span><span>University of Hawaii</span></span></p>
+
+<p><span><strong><a href="https://ealc.fas.harvard.edu/people/xiaofei-tian">Xiaofei Tian 田曉菲</a></strong></span><br /><span>Professor of Chinese Literature</span>, <span><span>Harvard University</span></span></p>
+
+<p><strong><a href="https://www.middlebury.edu/academics/igs/faculty/node/57361">Don J. Wyatt</a></strong><br /><span>John M. McCardell, Jr. Distinguished Professor,</span> <span><span>Middlebury Colleg</span></span></p>
+
+<p><strong><a href="https://denison.edu/people/shao-yun-yang">Shao-yun Yang</a></strong><br /><span>Associate Professor of East Asian Studies,</span> <span><span>Denison University</span></span></p>
+
+<p><strong><a href="https://history.yale.edu/people/zekun-zhang">Zekun Zhang</a></strong><br /><span>Ph.D. Candidate,</span> <span><span>Yale University</span></span><span> </span></p>15:T670,<p><span><span>What constitutes being human? What are the boundaries or fuzzy edges of humanity? What can we learn from exploring the margins of humanity? These questions lie at the heart of this symposium, which will bring together twelve scholars across a variety of fields to consider how concepts analogous to our contemporary idea of “the human” were defined and debated in Medieval China.</span></span></p>
+
+<p><span><span>We hope that the papers assembled for the symposium will open new, interdisciplinary vistas on the ways in which ethnocultural others, sociological underclasses, striking and different individuals, animals and gods, and ex- and future-humans were conceptualized and written about in the medieval period, and on the ways in which these marginal beings expressed and challenged the self-understandings of the authors of the materials that survive to us.</span></span></p>
+
+<p><span><span>The symposium will be held via Zoom from 10am to 1pm, EST, on June 1st through June 3rd, 2022. <a href="https://projects.iq.harvard.edu/medievalchina/register">Registration</a> is free and&nbsp;open to the public. </span></span></p>
+
+<p>A special thanks to the Council on&nbsp;East Asian Studies at Yale University for the assistance with the symposium organization and to&nbsp;Gustavo Espada of EALC, Harvard University, for building the symposium website. Questions and comments can be directed to the symposium's graduate coordinator, Baiqian Bian, at <a href="https://projects.iq.harvard.edu/medievalchina/baiqian.bian@yale.edu">baiqian.bian@yale.edu</a>, or to the organizers, Luke Bender and Xiaofei Tian.&nbsp;</p>
+16:T658,<p><span><span>What constitutes being human? What are the boundaries or fuzzy edges of humanity? What can we learn from exploring the margins of humanity? These questions lie at the heart of this symposium, which will bring together twelve scholars across a variety of fields to consider how concepts analogous to our contemporary idea of “the human” were defined and debated in Medieval China.</span></span></p>
+
+<p><span><span>We hope that the papers assembled for the symposium will open new, interdisciplinary vistas on the ways in which ethnocultural others, sociological underclasses, striking and different individuals, animals and gods, and ex- and future-humans were conceptualized and written about in the medieval period, and on the ways in which these marginal beings expressed and challenged the self-understandings of the authors of the materials that survive to us.</span></span></p>
+
+<p><span><span>The symposium will be held via Zoom from 10am to 1pm, EST, on June 1st through June 3rd, 2022. <a href="https://projects.iq.harvard.edu/medievalchina/register">Registration</a> is free and open to the public. </span></span></p>
+
+<p>A special thanks to the Council on East Asian Studies at Yale University for the assistance with the symposium organization and to Gustavo Espada of EALC, Harvard University, for building the symposium website. Questions and comments can be directed to the symposium's graduate coordinator, Baiqian Bian, at <a href="https://projects.iq.harvard.edu/medievalchina/baiqian.bian@yale.edu">baiqian.bian@yale.edu</a>, or to the organizers, Luke Bender and Xiaofei Tian. </p>6:["$","$L12",null,{"event":{"id":"5f59d212-aedf-46ec-b53d-7ac5bdc5db19","title":" The Margins of the Human in Medieval China ","field_starting_time":"2022-06-01T14:00:00+00:00","field_speakers":{"value":"$13","format":"basic_html","processed":"$14"},"field_organizers":{"value":"<p>Harvard-Yale Symposium Series on Middle Period China</p>\r\n","format":"basic_html","processed":"<p>Harvard-Yale Symposium Series on Middle Period China</p>"},"field_event_mode":"Online","field_event_category":"Conference","field_event_language":"English","field_event_venue":null,"field_event_record":false,"field_registration":true,"field_time_zone":"America/New_York","field_event_website":{"uri":"https://projects.iq.harvard.edu/medievalchina","title":"","options":[]},"field_description":{"value":"$15","format":"basic_html","processed":"$16"}}}]

@@ -1,0 +1,232 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","1625e7c9-d018-47cd-873e-549dc19dc97e",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","1625e7c9-d018-47cd-873e-549dc19dc97e","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","1625e7c9-d018-47cd-873e-549dc19dc97e","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:Td92,<ul>
+	<li>Chen Chao-ju, Melissa Murray, Feng Yuan (remote), Benjamin Liebman, Molly Bodurtha of Columbia Law School, Sylvia Law,&nbsp;<span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Masako Mori (pre-recorded), </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Rangita de Silva de Alwis, </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Carole Petersen, Vasuki Nesiah, </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Jose E. Alvarez</span></span></span></span></span></span>,&nbsp;<span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Kyungjin Oh, </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Kavita Ramdas, </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Cai Yiping, </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Lopa Banerjee, </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Katherine Wilhelm</span></span></span></span></span></span>,<strong><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"> </span></span></span></span></span></span></strong><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Rebecca Cook</span></span></span></span></span></span></li>
+</ul>
+14:Td8f,<ul>
+	<li>Chen Chao-ju, Melissa Murray, Feng Yuan (remote), Benjamin Liebman, Molly Bodurtha of Columbia Law School, Sylvia Law,&nbsp;<span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Masako Mori (pre-recorded), </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Rangita de Silva de Alwis, </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Carole Petersen, Vasuki Nesiah, </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Jose E. Alvarez</span></span></span></span></span></span>,&nbsp;<span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Kyungjin Oh, </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Kavita Ramdas, </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Cai Yiping, </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Lopa Banerjee, </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Katherine Wilhelm</span></span></span></span></span></span>,<strong><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"> </span></span></span></span></span></span></strong><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Rebecca Cook</span></span></span></span></span></span></li>
+</ul>
+15:T418c,<h2 id="yui_3_17_2_1_1665584013468_280"><em>*Those without an NYU ID who attend in person must show proof of COVID-19 vaccination upon entry. Please </em><a href="https://bit.ly/3f3soBt" id="yui_3_17_2_1_1665584013468_279"><strong>register here</strong></a><em> to attend in person or via Zoom.*&nbsp;</em></h2>
+
+<h2><em>About the event</em></h2>
+
+<p id="yui_3_17_2_1_1665584013468_286">The U.S.-Asia Law Institute holds the Gelatt Dialogue every year with a different theme but the same broad goal: to foster connection and improve understanding among the legal communities in Asia and the United States. Recent developments in the United States and Asia make this a good time to examine the state of women’s rights protection, with a particular focus on the interplay between domestic and international law and norms.&nbsp;<em>The dialogue is co-sponsored by the </em><a href="https://www.law.nyu.edu/centers/birnbaum-womens-leadership-network"><em>Birnbaum Women’s Leadership Network at NYU Law.</em></a></p>
+
+<p>&nbsp;</p>
+
+<p id="yui_3_17_2_1_1665584013468_289"><strong>Agenda:</strong></p>
+
+<ul data-rte-list="default" id="yui_3_17_2_1_1665584013468_292">
+	<li>
+	<p><strong>Opening Remarks</strong> - 9:00 AM - 9:10 AM US Eastern Time</p>
+	</li>
+	<li>
+	<p><strong>Panel 1: Whither Reproductive Rights?</strong> - 9:10 AM - 10:50 AM US Eastern Time</p>
+
+	<ul>
+		<li>
+		<p>The rise of right-wing politics in the United States and demographic trends in Asia are causing rapid shifts in longstanding assumptions in many countries about access to contraceptives and abortion. In the United States, the impetus for change comes from a socially conservative Supreme Court and state governments that oppose abortions. In some Asian countries, concern about low fertility and aging societies is the trigger. Can reproductive rights and justice be advanced through population policies?</p>
+		</li>
+		<li>
+		<p>Speakers:&nbsp;</p>
+
+		<ul>
+			<li>
+			<p><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Keynote (and panelist): Chen Chao-ju, global professor of law at NYU School of Law; director of the Center for Human Rights and Jurisprudence at National Taiwan University College of Law; director of the Women’s and Gender Studies program at National Taiwan University. </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min</span></span></span></span></span></span></p>
+			</li>
+			<li>
+			<p><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Melissa Murray, Frederick I. and Grace Stokes Professor of Law at NYU and faculty director, Birnbaum Women’s Leadership Network. </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min</span></span></span></span></span></span></p>
+			</li>
+			<li>
+			<p><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Feng Yuan (remote), visiting scholar, University of Hong Kong; co-founder of Equality (Beijing), an NGO; founding member of the Anti-Domestic Violence Network. </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min</span></span></span></span></span></span></p>
+			</li>
+			<li>
+			<p><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Benjamin Liebman, visiting professor of law at NYU School of Law, and Molly Bodurtha of Columbia Law School.&nbsp; </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min</span></span></span></span></span></span></p>
+			</li>
+			<li>
+			<p><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Moderator: Sylvia Law, Elizabeth K. Dollard Professor of Law, Medicine, and Psychiatry Emerita at NYU School of Law. </span></span></span></span></span></span></p>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li>
+	<p><strong>Panel 2: The Role of International Law and Norms</strong> - 11:00 AM - 12:40 PM US Eastern Time</p>
+
+	<ul>
+		<li>
+		<p><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">This panel will examine broadly the role that international hard law and soft norms have historically played in advancing women’s rights in Asia, with particular attention to the Convention for the Elimination of All Forms of Discrimination Against Women (CEDAW) and its Committee.&nbsp; What is the future of UN forums providing a “second look” at national laws, judicial decisions, and practices at a time of considerable backlash against the entire UN human rights system? </span></span></span></span></span></span></p>
+
+		<ul>
+			<li>
+			<p><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Speakers:</span></span></span></span></span></span></p>
+
+			<ul>
+				<li aria-level="1" style="list-style-type:disc"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Masako Mori (pre-recorded), special advisor to the Japanese prime minister for women’s empowerment, former minister of justice of Japan.&nbsp; </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min&nbsp;</span></span></span></span></span></span></li>
+				<li aria-level="1" style="list-style-type:disc"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Rangita de Silva de Alwis, member-elect to CEDAW Treaty Body Expert Committee; associate dean of International Affairs and academic director of the Global Institute for Human Rights at the University of Pennsylvania Law School.&nbsp; </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min</span></span></span></span></span></span></li>
+				<li aria-level="1" style="list-style-type:disc"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Carole Petersen, professor, University of Hawaii School of Law. &nbsp; </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">&nbsp;&nbsp;</span></span></span></span></span></span></li>
+				<li aria-level="1" style="list-style-type:disc"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Vasuki Nesiah, professor of human rights and international law, The Gallatin School, NYU </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min</span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">&nbsp;</span></span></span></span></span></span></li>
+				<li aria-level="1" style="list-style-type:disc"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Moderator: Jose E. Alvarez, Herbert and Rose Rubin Professor of International Law, NYU. </span></span></span></span></span></span></li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li>
+	<p><strong>Lunch break</strong> - 12:40 PM - 1:50 PM US Eastern Time (Boxed Lunches will be available for those attending in-person, please RSVP)</p>
+	</li>
+	<li>
+	<p><strong>Panel 3: Asian Feminism and The Transnational Women’s Movement</strong> - 1:50 PM - 3:30 PM US Eastern Time</p>
+
+	<ul>
+		<li>
+		<p><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">This panel will extend the discussion in panel 2 to examine the interplay between the transnational women’s movement and domestic Asian women’s movements. Asian feminists have simultaneously been inspired and supported by the transnational movement, pushed back against “Western liberal feminists” to set their own goals, and contributed their own ideas about which rights should be prioritized. What is the main direction of influence now, and what new trends can we identify?&nbsp;&nbsp;</span></span></span></span></span></span></p>
+
+		<ul>
+			<li>
+			<p><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">​​​​​​​Speakers:</span></span></span></span></span></span>&nbsp;</p>
+
+			<ul>
+				<li aria-level="1" style="list-style-type:disc"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Kyungjin Oh, executive director of Korean Women’s Associations United (remote) </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min</span></span></span></span></span></span></li>
+				<li aria-level="1" style="list-style-type:disc"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Kavita Ramdas, philanthropic advisor, former</span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:PMingLiU"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"> </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">director of the Open Society Foundations’ Women's Rights Program, former president and CEO of the Global Women’s Fund&nbsp; &nbsp; </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min</span></span></span></span></span></span></li>
+				<li aria-level="1" style="list-style-type:disc"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Cai Yiping, executive committee member of Development Alternatives with Women for a New Era (DAWN).&nbsp; </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min</span></span></span></span></span></span></li>
+				<li aria-level="1" style="list-style-type:disc"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Lopa Banerjee, director of the Civil Society Division at UN Women </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min</span></span></span></span></span></span></li>
+				<li aria-level="1" style="list-style-type:disc"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Moderator: Katherine Wilhelm, executive director of the U.S.-Asia Law Institute, adjunct faculty at NYU School of Law.&nbsp; </span></span></span></span></span></span></li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="yui_3_17_2_1_1665584013468_291">
+	<p id="yui_3_17_2_1_1665584013468_290"><strong>Closing Remarks</strong> - 3:30 PM - 3:45 PM US Eastern Time&nbsp;</p>
+
+	<ul>
+		<li>
+		<p>Rebecca Cook, professor emerita &amp; co-director of International Reproductive and Sexual Health Law Program at University of Toronto Faculty of Law</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+16:T4125,<h2 id="yui_3_17_2_1_1665584013468_280"><em>*Those without an NYU ID who attend in person must show proof of COVID-19 vaccination upon entry. Please </em><a href="https://bit.ly/3f3soBt" id="yui_3_17_2_1_1665584013468_279"><strong>register here</strong></a><em> to attend in person or via Zoom.*&nbsp;</em></h2>
+
+<h2><em>About the event</em></h2>
+
+<p id="yui_3_17_2_1_1665584013468_286">The U.S.-Asia Law Institute holds the Gelatt Dialogue every year with a different theme but the same broad goal: to foster connection and improve understanding among the legal communities in Asia and the United States. Recent developments in the United States and Asia make this a good time to examine the state of women’s rights protection, with a particular focus on the interplay between domestic and international law and norms.&nbsp;<em>The dialogue is co-sponsored by the </em><a href="https://www.law.nyu.edu/centers/birnbaum-womens-leadership-network"><em>Birnbaum Women’s Leadership Network at NYU Law.</em></a></p>
+
+<p>&nbsp;</p>
+
+<p id="yui_3_17_2_1_1665584013468_289"><strong>Agenda:</strong></p>
+
+<ul data-rte-list="default" id="yui_3_17_2_1_1665584013468_292">
+	<li>
+	<p><strong>Opening Remarks</strong> - 9:00 AM - 9:10 AM US Eastern Time</p>
+	</li>
+	<li>
+	<p><strong>Panel 1: Whither Reproductive Rights?</strong> - 9:10 AM - 10:50 AM US Eastern Time</p>
+
+	<ul>
+		<li>
+		<p>The rise of right-wing politics in the United States and demographic trends in Asia are causing rapid shifts in longstanding assumptions in many countries about access to contraceptives and abortion. In the United States, the impetus for change comes from a socially conservative Supreme Court and state governments that oppose abortions. In some Asian countries, concern about low fertility and aging societies is the trigger. Can reproductive rights and justice be advanced through population policies?</p>
+		</li>
+		<li>
+		<p>Speakers:&nbsp;</p>
+
+		<ul>
+			<li>
+			<p><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Keynote (and panelist): Chen Chao-ju, global professor of law at NYU School of Law; director of the Center for Human Rights and Jurisprudence at National Taiwan University College of Law; director of the Women’s and Gender Studies program at National Taiwan University. </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min</span></span></span></span></span></span></p>
+			</li>
+			<li>
+			<p><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Melissa Murray, Frederick I. and Grace Stokes Professor of Law at NYU and faculty director, Birnbaum Women’s Leadership Network. </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min</span></span></span></span></span></span></p>
+			</li>
+			<li>
+			<p><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Feng Yuan (remote), visiting scholar, University of Hong Kong; co-founder of Equality (Beijing), an NGO; founding member of the Anti-Domestic Violence Network. </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min</span></span></span></span></span></span></p>
+			</li>
+			<li>
+			<p><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Benjamin Liebman, visiting professor of law at NYU School of Law, and Molly Bodurtha of Columbia Law School.&nbsp; </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min</span></span></span></span></span></span></p>
+			</li>
+			<li>
+			<p><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Moderator: Sylvia Law, Elizabeth K. Dollard Professor of Law, Medicine, and Psychiatry Emerita at NYU School of Law. </span></span></span></span></span></span></p>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li>
+	<p><strong>Panel 2: The Role of International Law and Norms</strong> - 11:00 AM - 12:40 PM US Eastern Time</p>
+
+	<ul>
+		<li>
+		<p><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">This panel will examine broadly the role that international hard law and soft norms have historically played in advancing women’s rights in Asia, with particular attention to the Convention for the Elimination of All Forms of Discrimination Against Women (CEDAW) and its Committee.&nbsp; What is the future of UN forums providing a “second look” at national laws, judicial decisions, and practices at a time of considerable backlash against the entire UN human rights system? </span></span></span></span></span></span></p>
+
+		<ul>
+			<li>
+			<p><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Speakers:</span></span></span></span></span></span></p>
+
+			<ul>
+				<li aria-level="1" style="list-style-type:disc"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Masako Mori (pre-recorded), special advisor to the Japanese prime minister for women’s empowerment, former minister of justice of Japan.&nbsp; </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min&nbsp;</span></span></span></span></span></span></li>
+				<li aria-level="1" style="list-style-type:disc"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Rangita de Silva de Alwis, member-elect to CEDAW Treaty Body Expert Committee; associate dean of International Affairs and academic director of the Global Institute for Human Rights at the University of Pennsylvania Law School.&nbsp; </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min</span></span></span></span></span></span></li>
+				<li aria-level="1" style="list-style-type:disc"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Carole Petersen, professor, University of Hawaii School of Law. &nbsp; </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">&nbsp;&nbsp;</span></span></span></span></span></span></li>
+				<li aria-level="1" style="list-style-type:disc"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Vasuki Nesiah, professor of human rights and international law, The Gallatin School, NYU </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min</span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">&nbsp;</span></span></span></span></span></span></li>
+				<li aria-level="1" style="list-style-type:disc"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Moderator: Jose E. Alvarez, Herbert and Rose Rubin Professor of International Law, NYU. </span></span></span></span></span></span></li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li>
+	<p><strong>Lunch break</strong> - 12:40 PM - 1:50 PM US Eastern Time (Boxed Lunches will be available for those attending in-person, please RSVP)</p>
+	</li>
+	<li>
+	<p><strong>Panel 3: Asian Feminism and The Transnational Women’s Movement</strong> - 1:50 PM - 3:30 PM US Eastern Time</p>
+
+	<ul>
+		<li>
+		<p><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">This panel will extend the discussion in panel 2 to examine the interplay between the transnational women’s movement and domestic Asian women’s movements. Asian feminists have simultaneously been inspired and supported by the transnational movement, pushed back against “Western liberal feminists” to set their own goals, and contributed their own ideas about which rights should be prioritized. What is the main direction of influence now, and what new trends can we identify?&nbsp;&nbsp;</span></span></span></span></span></span></p>
+
+		<ul>
+			<li>
+			<p><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">​​​​​​​Speakers:</span></span></span></span></span></span>&nbsp;</p>
+
+			<ul>
+				<li aria-level="1" style="list-style-type:disc"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Kyungjin Oh, executive director of Korean Women’s Associations United (remote) </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min</span></span></span></span></span></span></li>
+				<li aria-level="1" style="list-style-type:disc"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Kavita Ramdas, philanthropic advisor, former</span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:PMingLiU"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"> </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">director of the Open Society Foundations’ Women's Rights Program, former president and CEO of the Global Women’s Fund&nbsp; &nbsp; </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min</span></span></span></span></span></span></li>
+				<li aria-level="1" style="list-style-type:disc"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Cai Yiping, executive committee member of Development Alternatives with Women for a New Era (DAWN).&nbsp; </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min</span></span></span></span></span></span></li>
+				<li aria-level="1" style="list-style-type:disc"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Lopa Banerjee, director of the Civil Society Division at UN Women </span></span></span></span></span></span><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:700"><span style="font-style:normal"><span style="text-decoration:none">15 min</span></span></span></span></span></span></li>
+				<li aria-level="1" style="list-style-type:disc"><span style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:'Times New Roman'"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Moderator: Katherine Wilhelm, executive director of the U.S.-Asia Law Institute, adjunct faculty at NYU School of Law.&nbsp; </span></span></span></span></span></span></li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="yui_3_17_2_1_1665584013468_291">
+	<p id="yui_3_17_2_1_1665584013468_290"><strong>Closing Remarks</strong> - 3:30 PM - 3:45 PM US Eastern Time&nbsp;</p>
+
+	<ul>
+		<li>
+		<p>Rebecca Cook, professor emerita &amp; co-director of International Reproductive and Sexual Health Law Program at University of Toronto Faculty of Law</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+6:["$","$L12",null,{"event":{"id":"1625e7c9-d018-47cd-873e-549dc19dc97e","title":"Promoting Women’s Rights in Asia & Globally","field_starting_time":"2022-10-21T13:00:00+00:00","field_speakers":{"value":"$13","format":"event_entering","processed":"$14"},"field_organizers":{"value":"<ul>\r\n\t<li>U.S.-Asia Law Institute at NYU School of Law</li>\r\n\t<li>Co-sponsor:&nbsp;Birnbaum Women’s Leadership Network at NYU Law.</li>\r\n</ul>\r\n","format":"event_entering","processed":"<ul>\n\t<li>U.S.-Asia Law Institute at NYU School of Law</li>\n\t<li>Co-sponsor:&nbsp;Birnbaum Women’s Leadership Network at NYU Law.</li>\n</ul>\n"},"field_event_mode":"Hybrid","field_event_category":"Conference","field_event_language":"English","field_event_venue":"Furman Hall Lester Pollack Colloquium Room, NYU School of Law and via Zoom","field_event_record":true,"field_registration":true,"field_time_zone":"America/New_York","field_event_website":{"uri":"https://usali.org/events/promoting-womens-rights-in-asia-and-globally","title":"","options":[]},"field_description":{"value":"$15","format":"event_entering","processed":"$16"}}}]

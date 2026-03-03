@@ -1,0 +1,62 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","4c06f3f4-4941-452c-b2c7-4454f456a93a",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","4c06f3f4-4941-452c-b2c7-4454f456a93a","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","4c06f3f4-4941-452c-b2c7-4454f456a93a","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:T961,<p>Taiwan is featuring with ever greater frequency in Australian discussions surrounding the diplomacy, politics, security, business, and culture of the East Asian region. It is, therefore, an opportune time to launch an annual ANU Taiwan Update under the auspices of the ANU Taiwan Studies Program. Drawing on the best of scholarship on Taiwan from Australia and internationally, including from Taiwan itself, the Update will present informed and authoritative information and analysis on where Taiwan is situated in 2022, including in relation to its great neighbour across the Strait.</p>
+
+<p>This year’s update begins on the evening of Monday 28 November with an in-person and online panel discussion on the current state of cross-strait relations, focussing on strategic concerns, on cyber-security and disinformation, and on business. On Tuesday 29 November, four keynote addresses will be presented by experts from Taiwan and the UK on Taiwanese environmental literature, major social changes since 2000, internal politics and the local elections — which will be held just before the Update — and on the Taiwanese semi-conductor industry. Together these presentations will grant participants in the Update a uniquely well-informed view of where Taiwan stands today and what lies ahead.</p>
+
+<p>11:30am – 12:30pm AEST |&nbsp;<strong>Environmental Literature in Taiwan</strong><br />
+Professor Kuei-fen Chiu, National Chung-hsing University<br />
+Chair: Professor Ari Heinrich, ANU</p>
+
+<p>1:30pm – 2:30pm AEST |&nbsp;<strong>Keynote Address: Macro Social Changes in Taiwan after the First Regime Change in 2000</strong><br />
+Professor Hsin-huang Michael Hsiao, Academia Sinica<br />
+Chair: Associate Professor Benjamin Penny, ANU</p>
+
+<p>3:00pm – 4:00pm AEST |&nbsp;<strong>Local elections in 2022: insights and implications</strong><br />
+Associate Professor Kai-ping Huang, National Taiwan University<br />
+Chair: Associate Professor Benjamin Penny, ANU</p>
+
+<p>4:30pm – 5:30pm AEST |&nbsp;<strong>The Unbearable Lightness of Connectivity: Semiconductor Manufacturing in Taiwan</strong><br />
+Associate Professor Chun-Yi Lee, University of Nottingham<br />
+Chair: Associate Professor Benjamin Penny</p>
+
+<p>The ANU Taiwan Studies program is supported by the Republic of China Ministry of Education and the Taipei Economic and Cultural Office, Canberra.</p>
+14:T94c,<p>Taiwan is featuring with ever greater frequency in Australian discussions surrounding the diplomacy, politics, security, business, and culture of the East Asian region. It is, therefore, an opportune time to launch an annual ANU Taiwan Update under the auspices of the ANU Taiwan Studies Program. Drawing on the best of scholarship on Taiwan from Australia and internationally, including from Taiwan itself, the Update will present informed and authoritative information and analysis on where Taiwan is situated in 2022, including in relation to its great neighbour across the Strait.</p>
+
+<p>This year’s update begins on the evening of Monday 28 November with an in-person and online panel discussion on the current state of cross-strait relations, focussing on strategic concerns, on cyber-security and disinformation, and on business. On Tuesday 29 November, four keynote addresses will be presented by experts from Taiwan and the UK on Taiwanese environmental literature, major social changes since 2000, internal politics and the local elections — which will be held just before the Update — and on the Taiwanese semi-conductor industry. Together these presentations will grant participants in the Update a uniquely well-informed view of where Taiwan stands today and what lies ahead.</p>
+
+<p>11:30am – 12:30pm AEST |&nbsp;<strong>Environmental Literature in Taiwan</strong><br />
+Professor Kuei-fen Chiu, National Chung-hsing University<br />
+Chair: Professor Ari Heinrich, ANU</p>
+
+<p>1:30pm – 2:30pm AEST |&nbsp;<strong>Keynote Address: Macro Social Changes in Taiwan after the First Regime Change in 2000</strong><br />
+Professor Hsin-huang Michael Hsiao, Academia Sinica<br />
+Chair: Associate Professor Benjamin Penny, ANU</p>
+
+<p>3:00pm – 4:00pm AEST |&nbsp;<strong>Local elections in 2022: insights and implications</strong><br />
+Associate Professor Kai-ping Huang, National Taiwan University<br />
+Chair: Associate Professor Benjamin Penny, ANU</p>
+
+<p>4:30pm – 5:30pm AEST |&nbsp;<strong>The Unbearable Lightness of Connectivity: Semiconductor Manufacturing in Taiwan</strong><br />
+Associate Professor Chun-Yi Lee, University of Nottingham<br />
+Chair: Associate Professor Benjamin Penny</p>
+
+<p>The ANU Taiwan Studies program is supported by the Republic of China Ministry of Education and the Taipei Economic and Cultural Office, Canberra.</p>
+6:["$","$L12",null,{"event":{"id":"4c06f3f4-4941-452c-b2c7-4454f456a93a","title":"2022 ANU Taiwan Update","field_starting_time":"2022-11-29T00:30:00+00:00","field_speakers":{"value":"<p>Professor Kuei-fen Chiu, National Chung-hsing University</p>\r\n\r\n<p>Professor Hsin-huang Michael Hsiao, Academia Sinica</p>\r\n\r\n<p>Associate Professor Kai-ping Huang, National Taiwan University</p>\r\n\r\n<p>Associate Professor Chun-Yi Lee, University of Nottingham</p>\r\n","format":"event_entering","processed":"<p>Professor Kuei-fen Chiu, National Chung-hsing University</p>\n\n<p>Professor Hsin-huang Michael Hsiao, Academia Sinica</p>\n\n<p>Associate Professor Kai-ping Huang, National Taiwan University</p>\n\n<p>Associate Professor Chun-Yi Lee, University of Nottingham</p>\n"},"field_organizers":{"value":"<p>&nbsp;</p>\r\n\r\n<p>Australian Centre on China in the World, Australian National University</p>\r\n","format":"event_entering","processed":"<p>&nbsp;</p>\n\n<p>Australian Centre on China in the World, Australian National University</p>\n"},"field_event_mode":"Online","field_event_category":"Conference","field_event_language":"English","field_event_venue":null,"field_event_record":false,"field_registration":true,"field_time_zone":"Australia/Sydney","field_event_website":{"uri":"https://www.eventbrite.com.au/e/2022-anu-taiwan-update-tickets-464826046217","title":"","options":[]},"field_description":{"value":"$13","format":"event_entering","processed":"$14"}}}]

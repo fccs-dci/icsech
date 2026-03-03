@@ -1,0 +1,94 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","6340c74d-4c85-49eb-bf62-298a868d590d",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","6340c74d-4c85-49eb-bf62-298a868d590d","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","6340c74d-4c85-49eb-bf62-298a868d590d","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:Tefa,<p>Revered as the “national treasure”, the Warring States bamboo slips are one of the rare manuscripts from the pre-Qin period. Acquired in 2015, Anhui University's collection of the Warring States bamboo strips mainly consists of Shijing 詩經 (Book of Odes), history of the ancient state of Chu 楚, Confucian quotations and Confucian writings, Chu Ci 楚辭 (Songs of Chu), oneiromancy and physiognomy. The Anhui University Bamboo Strips is yet another major discovery of rare excavated manuscripts from the pre-Qin period after the Guodian Chu Strips, Shanghai Museum Bamboo Strips and Tsinghua Bamboo Strips. The Academy has therefore invited two professors from the Development and Applied Research Center of Anhui University to lead a discussion on the Confucian quotations and Shijing 詩經 (Book of Odes) in the Anhui University Bamboo Strips.<br />
+<br />
+No registration is required for this lecture series. All are welcome to attend each lecture with the following Tencent Meeting/Voov meeting details:&nbsp;<a href="https://meeting.tencent.com/dm/8YW0v383atbW" target="_blank">https://meeting.tencent.com/dm/8YW0v383atbW</a><br />
+Meeting ID: 581-3258-3845<br />
+Password: 6655<br />
+<br />
+HKBU students: For CCL attendance, please register via SLES beforehand, and log in Tencent Meeting/Voov Meeting with HKBU email account.<br />
+<br />
+Below are the details of the seminars:<br />
+<br />
+<strong>First Session</strong><br />
+Date 17 June 2022 (Friday)<br />
+Time: 12:00nn-13:30pm<br />
+Venue: Tencent Meeting/VooV Meeting<br />
+<br />
+Lecture title:&nbsp;<strong>An Overview of Zhongni 仲尼 in the Anhui University Bamboo Strips</strong><br />
+<br />
+Abstract:<br />
+The manuscript titled Zhongni 仲尼 in the Anhui University Bamboo Strips is of 13 complete bamboo strips with two braided ropes. The texts were written without indentation, and blank space is not found either at the beginning or end of the script. The calligraphy is exquisite. Albeit not titled and divided into chapters, the manuscript, with a total of 24 articles, keeps an account of Confucian remarks. The objective of the lecture is to give a brief introduction to the manuscript.<br />
+<br />
+Speaker: Prof. Xu Zaiguo<br />
+<br />
+Prof. Xu Zaiguo is the Professor at the School of Chinese Language and Literature, College of Liberal Arts, Anhui University and Director of the Development and Applied Research Center of Anhui University. With a zealous interest in ancient characters and unearthed documents, Prof. Xu has published a number of books and more than a hundred academic papers in journals, including Wenwu 文物 and Zhongguo wenzi xuebao 中國文字學報.</p>
+
+<p><strong>Second Session</strong><br />
+Date: 24 June 2022 (Friday)<br />
+Time: 12:00nn-13:30pm<br />
+Venue: Tencent Meeting/VooV Meeting<br />
+<br />
+Lecture title:&nbsp;<strong>A Preliminary Discussion on the Lexica of Shijing 詩經 (Book of Odes) in the Anhui University Bamboo Strips</strong><br />
+<br />
+Abstract:<br />
+In light of historically transmitted texts, the speaker will set forth some views on interpreting the lexica of Shijing 詩經 (Book of Odes) in the Anhui University Bamboo Strips.<br />
+<br />
+Speaker: Prof. Cheng Yan<br />
+<br />
+Designated as one of the Leading Academic and Technical Personnel in Anhui Province, Prof. Cheng Yan currently serves as Professor at the School of Chinese Language and Literature and Deputy Dean at the College of Liberal Arts, Anhui University. She is also one of the PhD supervisors in the School. Having published nearly 40 papers in journals, including Archaeology and Cultural Relics 考古與文物, Jianghan Archaeology 江漢考古 and zhongguo wenzi xuebao 中國文字學報, she has initiated and participated in a number of national projects.</p>
+14:Ted5,<p>Revered as the “national treasure”, the Warring States bamboo slips are one of the rare manuscripts from the pre-Qin period. Acquired in 2015, Anhui University's collection of the Warring States bamboo strips mainly consists of Shijing 詩經 (Book of Odes), history of the ancient state of Chu 楚, Confucian quotations and Confucian writings, Chu Ci 楚辭 (Songs of Chu), oneiromancy and physiognomy. The Anhui University Bamboo Strips is yet another major discovery of rare excavated manuscripts from the pre-Qin period after the Guodian Chu Strips, Shanghai Museum Bamboo Strips and Tsinghua Bamboo Strips. The Academy has therefore invited two professors from the Development and Applied Research Center of Anhui University to lead a discussion on the Confucian quotations and Shijing 詩經 (Book of Odes) in the Anhui University Bamboo Strips.<br />
+<br />
+No registration is required for this lecture series. All are welcome to attend each lecture with the following Tencent Meeting/Voov meeting details:&nbsp;<a href="https://meeting.tencent.com/dm/8YW0v383atbW" target="_blank">https://meeting.tencent.com/dm/8YW0v383atbW</a><br />
+Meeting ID: 581-3258-3845<br />
+Password: 6655<br />
+<br />
+HKBU students: For CCL attendance, please register via SLES beforehand, and log in Tencent Meeting/Voov Meeting with HKBU email account.<br />
+<br />
+Below are the details of the seminars:<br />
+<br />
+<strong>First Session</strong><br />
+Date 17 June 2022 (Friday)<br />
+Time: 12:00nn-13:30pm<br />
+Venue: Tencent Meeting/VooV Meeting<br />
+<br />
+Lecture title:&nbsp;<strong>An Overview of Zhongni 仲尼 in the Anhui University Bamboo Strips</strong><br />
+<br />
+Abstract:<br />
+The manuscript titled Zhongni 仲尼 in the Anhui University Bamboo Strips is of 13 complete bamboo strips with two braided ropes. The texts were written without indentation, and blank space is not found either at the beginning or end of the script. The calligraphy is exquisite. Albeit not titled and divided into chapters, the manuscript, with a total of 24 articles, keeps an account of Confucian remarks. The objective of the lecture is to give a brief introduction to the manuscript.<br />
+<br />
+Speaker: Prof. Xu Zaiguo<br />
+<br />
+Prof. Xu Zaiguo is the Professor at the School of Chinese Language and Literature, College of Liberal Arts, Anhui University and Director of the Development and Applied Research Center of Anhui University. With a zealous interest in ancient characters and unearthed documents, Prof. Xu has published a number of books and more than a hundred academic papers in journals, including Wenwu 文物 and Zhongguo wenzi xuebao 中國文字學報.</p>
+
+<p><strong>Second Session</strong><br />
+Date: 24 June 2022 (Friday)<br />
+Time: 12:00nn-13:30pm<br />
+Venue: Tencent Meeting/VooV Meeting<br />
+<br />
+Lecture title:&nbsp;<strong>A Preliminary Discussion on the Lexica of Shijing 詩經 (Book of Odes) in the Anhui University Bamboo Strips</strong><br />
+<br />
+Abstract:<br />
+In light of historically transmitted texts, the speaker will set forth some views on interpreting the lexica of Shijing 詩經 (Book of Odes) in the Anhui University Bamboo Strips.<br />
+<br />
+Speaker: Prof. Cheng Yan<br />
+<br />
+Designated as one of the Leading Academic and Technical Personnel in Anhui Province, Prof. Cheng Yan currently serves as Professor at the School of Chinese Language and Literature and Deputy Dean at the College of Liberal Arts, Anhui University. She is also one of the PhD supervisors in the School. Having published nearly 40 papers in journals, including Archaeology and Cultural Relics 考古與文物, Jianghan Archaeology 江漢考古 and zhongguo wenzi xuebao 中國文字學報, she has initiated and participated in a number of national projects.</p>
+6:["$","$L12",null,{"event":{"id":"6340c74d-4c85-49eb-bf62-298a868d590d","title":"JAS Archaeology Talks: Anhui University Bamboo Strips （2022/6/17-24）","field_starting_time":"2022-06-17T04:00:00+00:00","field_speakers":{"value":"<p>徐在國教授&nbsp;Prof. Xu Zaiguo</p>\r\n\r\n<p>程燕教授Prof. Cheng Yan</p>\r\n","format":"event_entering","processed":"<p>徐在國教授&nbsp;Prof. Xu Zaiguo</p>\n\n<p>程燕教授Prof. Cheng Yan</p>\n"},"field_organizers":{"value":"<p>Jao Tsung-I Academy of Sinology, Hong Kong Baptist University</p>\r\n","format":"event_entering","processed":"<p>Jao Tsung-I Academy of Sinology, Hong Kong Baptist University</p>\n"},"field_event_mode":"Online","field_event_category":"Talk","field_event_language":"Mandarin","field_event_venue":"Tencent Meeting/VooV Meeting","field_event_record":true,"field_registration":false,"field_time_zone":"Asia/Hong_Kong","field_event_website":{"uri":"http://jas.hkbu.edu.hk/ycy.php?page=event/ycy/detail&id=198","title":"","options":[]},"field_description":{"value":"$13","format":"event_entering","processed":"$14"}}}]

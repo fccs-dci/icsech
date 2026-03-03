@@ -1,0 +1,216 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","3af89e99-e132-4060-8a30-705624e7637a",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","3af89e99-e132-4060-8a30-705624e7637a","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","3af89e99-e132-4060-8a30-705624e7637a","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:Te06,<p><strong>Conference Agenda:</strong></p>
+
+<p><strong>Introduction</strong></p>
+
+<ul>
+	<li>HONG Nong (Executive Director, Institute for China-America Studies)</li>
+</ul>
+
+<p><strong>Opening Remarks</strong></p>
+
+<ul>
+	<li>WU Shicun (Chairman of the Advisory Board, Institute for China-America Studies)</li>
+</ul>
+
+<p><strong>Keynote</strong></p>
+
+<ul>
+	<li>QIU Wenxing&nbsp;(Minister,&nbsp;Embassy of the People's Republic of China in the United States
+	<ul>
+		<li><em>Moderator -</em>&nbsp;Gordon HOULDEN (Director Emeritus, The China Institute, University of Alberta)</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Panel I: Geopolitics &amp; Security</strong></p>
+
+<ul>
+	<li>Michael SWAINE (Senior Research Fellow, East Asia Program, Quincy Institute for Responsible Statecraft)</li>
+	<li>YU Tiejun (President, Institute of International and Strategic Studies &amp; Professor, School of International Studies, Peking University)</li>
+	<li>Robert DALY (Director, Kissinger Institute on China and the United States, Wilson Center)</li>
+	<li>ZHAO Hai (Research Fellow, Institute of World Economics and Politics, Chinese Academy of Social Sciences; Senior Fellow, Beijing Club for International Dialogue)
+	<ul>
+		<li><em>Moderator -&nbsp;</em>LIU Yawei (Senior Advisor on China, The Carter Center)</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Panel II:&nbsp;Science &amp; Technology</strong></p>
+
+<ul>
+	<li>Paul TRIOLO (Partner for China and&nbsp;Technology Policy Lead,&nbsp;Albright Stonebridge Group)</li>
+	<li>CAO Cong (Professor in Innovation Studies, Department of International Business and Management, University of Nottingham)</li>
+	<li>Denis SIMON (Distinguished Fellow, Institute for China-America Studies)</li>
+	<li>LU Xiaomeng (Director, Geo-Technology, Eurasia Group)
+	<ul>
+		<li><em>Moderator</em>&nbsp;- Sourabh GUPTA (Senior Fellow &amp; Head, Trade ‘n Technology Program, Institute for China-America Studies)</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Luncheon Speech <em>[Free lunch provided for registered in-person attendees]</em></strong></p>
+
+<ul>
+	<li>Stephen ORLINS (President, National Committee on U.S.-China Relations)
+	<ul>
+		<li><em>Mo</em><em>derator -</em>&nbsp;Amy CELICO (Partner, Albright Stonebridge Group)</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Panel III: Third Parties' Views on U.S.-China Relations</strong></p>
+
+<ul>
+	<li>Vikram NEHRU (Senior Fellow, Foreign Policy Institute, School of Advanced International Studies, Johns Hopkins University)</li>
+	<li>Enrique DUSSEL PETERS (Professor, Graduate School of Economics, Universidad Nacional Autónoma de México)</li>
+	<li>Jan Willem BLANKERT (Senior Fellow, Europe Asia Analysis)</li>
+	<li>Rachel Minyoung LEE (Senior Fellow, Korea Program &amp; 38 North, Stimson Center)
+	<ul>
+		<li><em>Moderator</em>&nbsp;- YANG Li (Executive Director, Institute for China-Europe Studies)</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Panel IV: People-to-People Exchanges</strong></p>
+
+<ul>
+	<li>Madelyn ROSS (President Emeritus, US-China Education Trust)</li>
+	<li>HAN Hua (General Secretary, Beijing Club for International Dialogue)</li>
+	<li>Jan BERRIS (Vice-President, National Committee on U.S.-China Relations)</li>
+	<li>WANG Sheng (President, National Institute for South China Sea Studies)
+	<ul>
+		<li><em>Moderator</em>&nbsp;- Eric RICHARDSON (Founding President, INHR; China Coordinator, PAX sapiens)</li>
+	</ul>
+	</li>
+</ul>
+
+<p><b>Closing Remarks</b></p>
+
+<ul>
+	<li>HONG Nong (Executive Director, Institute for China-America Studies)</li>
+</ul>
+14:Tdab,<p><strong>Conference Agenda:</strong></p>
+
+<p><strong>Introduction</strong></p>
+
+<ul>
+	<li>HONG Nong (Executive Director, Institute for China-America Studies)</li>
+</ul>
+
+<p><strong>Opening Remarks</strong></p>
+
+<ul>
+	<li>WU Shicun (Chairman of the Advisory Board, Institute for China-America Studies)</li>
+</ul>
+
+<p><strong>Keynote</strong></p>
+
+<ul>
+	<li>QIU Wenxing&nbsp;(Minister,&nbsp;Embassy of the People's Republic of China in the United States
+	<ul>
+		<li><em>Moderator -</em>&nbsp;Gordon HOULDEN (Director Emeritus, The China Institute, University of Alberta)</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Panel I: Geopolitics &amp; Security</strong></p>
+
+<ul>
+	<li>Michael SWAINE (Senior Research Fellow, East Asia Program, Quincy Institute for Responsible Statecraft)</li>
+	<li>YU Tiejun (President, Institute of International and Strategic Studies &amp; Professor, School of International Studies, Peking University)</li>
+	<li>Robert DALY (Director, Kissinger Institute on China and the United States, Wilson Center)</li>
+	<li>ZHAO Hai (Research Fellow, Institute of World Economics and Politics, Chinese Academy of Social Sciences; Senior Fellow, Beijing Club for International Dialogue)
+	<ul>
+		<li><em>Moderator -&nbsp;</em>LIU Yawei (Senior Advisor on China, The Carter Center)</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Panel II:&nbsp;Science &amp; Technology</strong></p>
+
+<ul>
+	<li>Paul TRIOLO (Partner for China and&nbsp;Technology Policy Lead,&nbsp;Albright Stonebridge Group)</li>
+	<li>CAO Cong (Professor in Innovation Studies, Department of International Business and Management, University of Nottingham)</li>
+	<li>Denis SIMON (Distinguished Fellow, Institute for China-America Studies)</li>
+	<li>LU Xiaomeng (Director, Geo-Technology, Eurasia Group)
+	<ul>
+		<li><em>Moderator</em>&nbsp;- Sourabh GUPTA (Senior Fellow &amp; Head, Trade ‘n Technology Program, Institute for China-America Studies)</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Luncheon Speech <em>[Free lunch provided for registered in-person attendees]</em></strong></p>
+
+<ul>
+	<li>Stephen ORLINS (President, National Committee on U.S.-China Relations)
+	<ul>
+		<li><em>Mo</em><em>derator -</em>&nbsp;Amy CELICO (Partner, Albright Stonebridge Group)</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Panel III: Third Parties' Views on U.S.-China Relations</strong></p>
+
+<ul>
+	<li>Vikram NEHRU (Senior Fellow, Foreign Policy Institute, School of Advanced International Studies, Johns Hopkins University)</li>
+	<li>Enrique DUSSEL PETERS (Professor, Graduate School of Economics, Universidad Nacional Autónoma de México)</li>
+	<li>Jan Willem BLANKERT (Senior Fellow, Europe Asia Analysis)</li>
+	<li>Rachel Minyoung LEE (Senior Fellow, Korea Program &amp; 38 North, Stimson Center)
+	<ul>
+		<li><em>Moderator</em>&nbsp;- YANG Li (Executive Director, Institute for China-Europe Studies)</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>Panel IV: People-to-People Exchanges</strong></p>
+
+<ul>
+	<li>Madelyn ROSS (President Emeritus, US-China Education Trust)</li>
+	<li>HAN Hua (General Secretary, Beijing Club for International Dialogue)</li>
+	<li>Jan BERRIS (Vice-President, National Committee on U.S.-China Relations)</li>
+	<li>WANG Sheng (President, National Institute for South China Sea Studies)
+	<ul>
+		<li><em>Moderator</em>&nbsp;- Eric RICHARDSON (Founding President, INHR; China Coordinator, PAX sapiens)</li>
+	</ul>
+	</li>
+</ul>
+
+<p><b>Closing Remarks</b></p>
+
+<ul>
+	<li>HONG Nong (Executive Director, Institute for China-America Studies)</li>
+</ul>
+15:Tc1e,<p><em>An event summary and a full recording is now available.</em><br />
+<br />
+<strong>Trump 2.0: Will U.S.-China Relations Prosper, Suffer or Muddle Through?</strong></p>
+
+<p>On January 20, 2025, the United States of America’s 45th president will also become its 47th president. As its 45th president, Donald Trump had declared China to be a revisionist power that was engaged in long term strategic competition with the United States in his administration’s National Security Strategy of December 2017. Over the next three years, he imposed hard-hitting Section 301 tariffs on China, technology denials and sanctions on firms ranging from Huawei to TikTok, and launched a controversial ‘China Initiative’ to root out perceived economic espionage and intellectual property theft by Beijing. Political, economic and people-to-people ties suffered during this period of disruption, and which was turbocharged following the spread of the COVID-19 virus to America’s shores in March 2020.&nbsp; All along during his time in office though, Mr. Trump maintained a cordial relationship with President Xi Jinping. With his dealmaking instincts and unconventional diplomatic style, a ‘Phase One’ trade agreement was signed with Beijing and a leader-to-leader channel of peacemaking opened on the Korean Peninsula.</p>
+
+<p>As he returns to the Oval Office as America’s 47th president, Donald Trump has threatened to impose even higher tariffs on China. His disruptive approach to politics and policy, furthermore, threaten to destabilize the Biden-Xi consensus that was forged at the Bali G20 Summit in November 2022 and consolidated a year later at the Leaders Meeting in Woodside, California. Will the ‘San Francisco Vision’ that Biden and Xi forged be relegated now to the dustbin of history? Can the two sides candidly coexist over the next four years and embed their ‘new normal’ era of strategic competition within a durable strategic framework? Or is intense bilateral strategic rivalry inevitable? Will the decoupling in trade and technology ties become irreversible? Or is there an opportunity for Chinese inbound investment to stimulate the creation of good manufacturing jobs in Trump’s Middle America in the industries of the future, such as electric vehicles and battery storage systems? Can the two sides continue to manage their differences over the South China Sea and the Korean Peninsula as well as the interpretive gap between their respective One China Policy and One China Principle? Or will Taiwan become the critical node in the U.S.’ major power rivalry with — and containment of — China? How have the U.S.’ allies, partners, neutrals and adversaries in the Indo-Pacific region reacted to Trump’s return to the White House? What are their choices, expectations and anxieties? And will people-to-people ties — scientific, academic, cultural and recreational — serve as a ballast to the bilateral relationship? Or will racially coded attacks and mutual suspicion accentuate polarization between these two great countries and societies?</p>
+16:Tc17,<p><em>An event summary and a full recording is now available.</em><br />
+<br />
+<strong>Trump 2.0: Will U.S.-China Relations Prosper, Suffer or Muddle Through?</strong></p>
+
+<p>On January 20, 2025, the United States of America’s 45th president will also become its 47th president. As its 45th president, Donald Trump had declared China to be a revisionist power that was engaged in long term strategic competition with the United States in his administration’s National Security Strategy of December 2017. Over the next three years, he imposed hard-hitting Section 301 tariffs on China, technology denials and sanctions on firms ranging from Huawei to TikTok, and launched a controversial ‘China Initiative’ to root out perceived economic espionage and intellectual property theft by Beijing. Political, economic and people-to-people ties suffered during this period of disruption, and which was turbocharged following the spread of the COVID-19 virus to America’s shores in March 2020.&nbsp; All along during his time in office though, Mr. Trump maintained a cordial relationship with President Xi Jinping. With his dealmaking instincts and unconventional diplomatic style, a ‘Phase One’ trade agreement was signed with Beijing and a leader-to-leader channel of peacemaking opened on the Korean Peninsula.</p>
+
+<p>As he returns to the Oval Office as America’s 47th president, Donald Trump has threatened to impose even higher tariffs on China. His disruptive approach to politics and policy, furthermore, threaten to destabilize the Biden-Xi consensus that was forged at the Bali G20 Summit in November 2022 and consolidated a year later at the Leaders Meeting in Woodside, California. Will the ‘San Francisco Vision’ that Biden and Xi forged be relegated now to the dustbin of history? Can the two sides candidly coexist over the next four years and embed their ‘new normal’ era of strategic competition within a durable strategic framework? Or is intense bilateral strategic rivalry inevitable? Will the decoupling in trade and technology ties become irreversible? Or is there an opportunity for Chinese inbound investment to stimulate the creation of good manufacturing jobs in Trump’s Middle America in the industries of the future, such as electric vehicles and battery storage systems? Can the two sides continue to manage their differences over the South China Sea and the Korean Peninsula as well as the interpretive gap between their respective One China Policy and One China Principle? Or will Taiwan become the critical node in the U.S.’ major power rivalry with — and containment of — China? How have the U.S.’ allies, partners, neutrals and adversaries in the Indo-Pacific region reacted to Trump’s return to the White House? What are their choices, expectations and anxieties? And will people-to-people ties — scientific, academic, cultural and recreational — serve as a ballast to the bilateral relationship? Or will racially coded attacks and mutual suspicion accentuate polarization between these two great countries and societies?</p>
+6:["$","$L12",null,{"event":{"id":"3af89e99-e132-4060-8a30-705624e7637a","title":"ICAS 2024 Annual Conference & ICAS 10th Anniversary","field_starting_time":"2024-12-12T14:00:00+00:00","field_speakers":{"value":"$13","format":"event_entering","processed":"$14"},"field_organizers":{"value":"<p>Hosted by Institute for China-America Studies</p>\r\n\r\n<p>In Collaboration with: National Institute for South China Sea Studies (NISCS), Beijing Club for International Dialogue, Institute for China-Europe Studies, and The Carter Center</p>\r\n","format":"event_entering","processed":"<p>Hosted by Institute for China-America Studies</p>\n\n<p>In Collaboration with: National Institute for South China Sea Studies (NISCS), Beijing Club for International Dialogue, Institute for China-Europe Studies, and The Carter Center</p>\n"},"field_event_mode":"In-person","field_event_category":"Conference","field_event_language":"English","field_event_venue":"Georgetown Marriott Hotel, Washington, D.C., USA","field_event_record":true,"field_registration":true,"field_time_zone":"America/New_York","field_event_website":{"uri":"https://chinaus-icas.org/events-2/annual-conferences/2024-annual-conference/?c","title":"","options":[]},"field_description":{"value":"$15","format":"event_entering","processed":"$16"}}}]

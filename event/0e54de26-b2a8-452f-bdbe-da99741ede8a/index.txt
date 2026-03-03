@@ -1,0 +1,70 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","0e54de26-b2a8-452f-bdbe-da99741ede8a",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","0e54de26-b2a8-452f-bdbe-da99741ede8a","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","0e54de26-b2a8-452f-bdbe-da99741ede8a","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:Tad2,<p><strong>Hong Kong: Interrupted Revolutionary Social Movements Open Forum</strong></p>
+
+<p><strong><em>This is a hybrid event (in-person and online).</em></strong></p>
+
+<p><em>Light refreshments (in-person only) at 4:00pm for a 4:30pm start.</em></p>
+
+<p>This open forum will be moderated by Kevin Carrico.</p>
+
+<p><strong>Papers</strong></p>
+
+<ul>
+	<li>Yao-Tai Li: “Contentious Repertoires: Examining Lennon Walls in Hong Kong’s Social Unrest of 2019”</li>
+	<li>Louisa Lim: “The National Security Law and the End of Hong Kong’s Press Freedom”</li>
+	<li>Joseph Y.S. Cheng: “The HK Pro-democracy Movement: Internal Differences and Lack of Strategic Planning”</li>
+</ul>
+
+<p><strong>About the Speakers</strong></p>
+
+<p><strong>Yao-Tai Li</strong>&nbsp;is a Lecturer of Sociology and Social Policy in the School of Social Sciences at University of New South Wales, Australia. He holds a Ph.D. in Sociology from the University of California, San Diego. Prior to UNSW he was an Assistant Professor of Sociology at Hong Kong Baptist University. His research interests include race and ethnicity, identity politics, discourse analysis, and social media. He is currently conducting a project on the protest walls in Beijing, Prague, and Hong Kong.</p>
+
+<p><strong>Louisa Lim</strong>&nbsp;is a Senior Lecturer at the University of Melbourne and an award-winning journalist. Her latest book 'Indelible City; Dispossession and Defiance in Hong Kong' has been longlisted for the Walkley Book award. She wrote her first book, 'The People's Republic of Amnesia; Tiananmen Revisited', after spending a decade reporting from China for the BBC and NPR. She is the co-host of the Little Red Podcast.</p>
+
+<p><strong>Joseph Yu-shek Cheng&nbsp;</strong>is the non-resident Senior Research Fellow of the Institute for Security and Development Policy in Stockholm and the retired Professor of Political Science and Coordinator of the Contemporary China Research Project, City University of Hong Kong. He is the founding editor of the Hong Kong Journal of Social Sciences and the Journal of Comparative Asian Development. He publishes widely on the political developments in China and Hong Kong, Chinese foreign policy and development in southern China.</p>
+
+<p><strong>Kevin Carrico</strong>&nbsp;is Senior Lecturer in Chinese Studies at Monash University and currently an Australian Research Council DECRA Research Fellow. He is a sociocultural anthropologist who researches nationalism, ethnic relations, and political culture in China, Tibet, and Hong Kong. His research has been funded by the United States' Department of Education, the Australian Research Council, and the Chiang Ching-kuo Foundation for International Scholarly Exchange.</p>
+14:Tab9,<p><strong>Hong Kong: Interrupted Revolutionary Social Movements Open Forum</strong></p>
+
+<p><strong><em>This is a hybrid event (in-person and online).</em></strong></p>
+
+<p><em>Light refreshments (in-person only) at 4:00pm for a 4:30pm start.</em></p>
+
+<p>This open forum will be moderated by Kevin Carrico.</p>
+
+<p><strong>Papers</strong></p>
+
+<ul>
+	<li>Yao-Tai Li: “Contentious Repertoires: Examining Lennon Walls in Hong Kong’s Social Unrest of 2019”</li>
+	<li>Louisa Lim: “The National Security Law and the End of Hong Kong’s Press Freedom”</li>
+	<li>Joseph Y.S. Cheng: “The HK Pro-democracy Movement: Internal Differences and Lack of Strategic Planning”</li>
+</ul>
+
+<p><strong>About the Speakers</strong></p>
+
+<p><strong>Yao-Tai Li</strong>&nbsp;is a Lecturer of Sociology and Social Policy in the School of Social Sciences at University of New South Wales, Australia. He holds a Ph.D. in Sociology from the University of California, San Diego. Prior to UNSW he was an Assistant Professor of Sociology at Hong Kong Baptist University. His research interests include race and ethnicity, identity politics, discourse analysis, and social media. He is currently conducting a project on the protest walls in Beijing, Prague, and Hong Kong.</p>
+
+<p><strong>Louisa Lim</strong>&nbsp;is a Senior Lecturer at the University of Melbourne and an award-winning journalist. Her latest book 'Indelible City; Dispossession and Defiance in Hong Kong' has been longlisted for the Walkley Book award. She wrote her first book, 'The People's Republic of Amnesia; Tiananmen Revisited', after spending a decade reporting from China for the BBC and NPR. She is the co-host of the Little Red Podcast.</p>
+
+<p><strong>Joseph Yu-shek Cheng&nbsp;</strong>is the non-resident Senior Research Fellow of the Institute for Security and Development Policy in Stockholm and the retired Professor of Political Science and Coordinator of the Contemporary China Research Project, City University of Hong Kong. He is the founding editor of the Hong Kong Journal of Social Sciences and the Journal of Comparative Asian Development. He publishes widely on the political developments in China and Hong Kong, Chinese foreign policy and development in southern China.</p>
+
+<p><strong>Kevin Carrico</strong>&nbsp;is Senior Lecturer in Chinese Studies at Monash University and currently an Australian Research Council DECRA Research Fellow. He is a sociocultural anthropologist who researches nationalism, ethnic relations, and political culture in China, Tibet, and Hong Kong. His research has been funded by the United States' Department of Education, the Australian Research Council, and the Chiang Ching-kuo Foundation for International Scholarly Exchange.</p>
+6:["$","$L12",null,{"event":{"id":"0e54de26-b2a8-452f-bdbe-da99741ede8a","title":"Open Forum—Silencing Freedom: From Protests to Suppression in Hong Kong","field_starting_time":"2022-12-06T05:00:00+00:00","field_speakers":{"value":"<p><strong>Yao-Tai Li,</strong>&nbsp;University of New South Wales, Australia.&nbsp;</p>\r\n\r\n<p><strong>Louisa Lim,</strong>&nbsp;University of Melbourne</p>\r\n\r\n<p><strong>Joseph Yu-shek Cheng,&nbsp;</strong>Institute for Security and Development Policy in Stockholm &amp;&nbsp;City University of Hong Kong</p>\r\n","format":"event_entering","processed":"<p><strong>Yao-Tai Li,</strong>&nbsp;University of New South Wales, Australia.&nbsp;</p>\n\n<p><strong>Louisa Lim,</strong>&nbsp;University of Melbourne</p>\n\n<p><strong>Joseph Yu-shek Cheng,&nbsp;</strong>Institute for Security and Development Policy in Stockholm &amp;&nbsp;City University of Hong Kong</p>\n"},"field_organizers":{"value":"<p>Australian Centre on China in the World, Australian National University</p>\r\n","format":"event_entering","processed":"<p>Australian Centre on China in the World, Australian National University</p>\n"},"field_event_mode":"Hybrid","field_event_category":"Talk","field_event_language":"English","field_event_venue":"CIW Seminar Room, Australian Centre on China in the World Building 188, Fellows Lane Canberra, ACT 2601 and ONLINE","field_event_record":false,"field_registration":true,"field_time_zone":"Australia/Sydney","field_event_website":{"uri":"https://www.eventbrite.com.au/e/open-forumsilencing-freedom-from-protests-to-suppression-in-hong-kong-tickets-467355572097","title":"","options":[]},"field_description":{"value":"$13","format":"event_entering","processed":"$14"}}}]

@@ -1,0 +1,102 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","b8cce300-a169-48a5-81ce-4032dda5394e",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","b8cce300-a169-48a5-81ce-4032dda5394e","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","b8cce300-a169-48a5-81ce-4032dda5394e","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:Tf23,<section data-element_type="section" data-id="iicnmlk">
+<p>PRESENTATION<br />
+<br />
+TITLE:<br />
+<strong>The Gendered Allure of Nang Kwak: from statuettes to NFTs in Thailand</strong></p>
+</section>
+
+<section data-element_type="section" data-id="lieijnt">
+<p>by Al Lim</p>
+
+<p>BIOS:-<br />
+<a href="https://anthropology.yale.edu/people/al-lim">https://anthropology.yale.edu/people/al-lim</a></p>
+</section>
+
+<section data-element_type="section" data-id="bcvoq9k">
+<p>ABSTRACT:</p>
+
+<p>Nang Kwak, or “The Beckoning Lady,” encapsulates the convergence of commercial aspirations and spiritual devotion in the cultural landscape of Thailand. Amid the dynamic Thai genderscape, this article examines Nang Kwak's representations, revealing how her allure as a popular deity and emblem of prosperity is reinforced by essentialized female gender tropes of beauty, family devotion, and reassurance (ความสบายใจ). It interweaves analyses of her depictions in lore and sacred objects with insights from interviews with shopkeepers and amulet collectors, interrogating her role within dynamic practices of Thai Buddhism. She is portrayed as a mythical daughter in popular narratives and worshipped as a mother in proximity. Through the cultural production of her likeness in statuettes, amulets, and digital art or Non-Fungible Tokens (NFTs), these traditional female qualities are amplified, bringing reassurance to and evoking the desires of her devotees. Furthermore, Nang Kwak’s potency is associated with charm or&nbsp;<em>saneh</em>&nbsp;(เสน่ห์), rather than the counterpoint charismatic authority or&nbsp;<em>barami</em>&nbsp;(บารมี) usually attributed to male leaders, deities, or even of the monks that sacralize her image. The fashion and fashioning of Nang Kwak thus complicate sedimented ideas of gender, religion, and power, as her figure becomes the site of cultural reproduction and contestation.</p>
+</section>
+
+<section data-element_type="section" data-id="338roc3">
+<p>TITLE:<br />
+<strong>“Actors and victims” in the construction of the solar PV landscape in rural China: case studies in Guangdong and Henan</strong></p>
+
+<p>by Yijun Gai</p>
+
+<p>BIOS:-<br />
+<a href="https://www.hkihss.hku.hk/en/people/yijun-gai/">https://www.hkihss.hku.hk/en/people/yijun-gai/</a></p>
+</section>
+
+<p>ABSTRACT:</p>
+
+<section data-element_type="section" data-id="gtxhjxt">
+<p>This study examines the rapid development of solar photovoltaic (PV) installation in central and eastern China. Existing studies emphasize the state’s role in promoting PV installations in China with subsidies issued between 2013 and 2021 and recoginize its intention of maintaining the contribution of PV manufacturing to China’s economic growth. Drawing on extensive fieldwork, this study investigates the negotiations of key actors at the local level – local government, power supply authorities, PV companies, village cadres, and villagers – to unfold the development after the reduction of national subsidy starting in 2018.</p>
+
+<p>I argue that while developing renewable energy through solar PV technology has become a means of reinforcing state power in China, local societies, driven by vested economic benefits, are actively shaping the construction of rural solar PV landscape by mobilizing land resources and mediating local disputes. By comparing the construction of rural solar PV landscapes in Guangdong and Henan, this study also sheds light on the power dynamics in land leasing and grid connection for PV installation, which may compromise the livelihood of local peasants and their economic benefits of installing PV systems.<br />
+&nbsp;</p>
+
+<p><strong>Moderator:</strong><br />
+Helen Siu (Honorary Professor, Hong Kong Institute for the Humanities and Social Sciences)</p>
+</section>
+14:Tefa,<section data-element_type="section" data-id="iicnmlk">
+<p>PRESENTATION<br />
+<br />
+TITLE:<br />
+<strong>The Gendered Allure of Nang Kwak: from statuettes to NFTs in Thailand</strong></p>
+</section>
+
+<section data-element_type="section" data-id="lieijnt">
+<p>by Al Lim</p>
+
+<p>BIOS:-<br />
+<a href="https://anthropology.yale.edu/people/al-lim">https://anthropology.yale.edu/people/al-lim</a></p>
+</section>
+
+<section data-element_type="section" data-id="bcvoq9k">
+<p>ABSTRACT:</p>
+
+<p>Nang Kwak, or “The Beckoning Lady,” encapsulates the convergence of commercial aspirations and spiritual devotion in the cultural landscape of Thailand. Amid the dynamic Thai genderscape, this article examines Nang Kwak's representations, revealing how her allure as a popular deity and emblem of prosperity is reinforced by essentialized female gender tropes of beauty, family devotion, and reassurance (ความสบายใจ). It interweaves analyses of her depictions in lore and sacred objects with insights from interviews with shopkeepers and amulet collectors, interrogating her role within dynamic practices of Thai Buddhism. She is portrayed as a mythical daughter in popular narratives and worshipped as a mother in proximity. Through the cultural production of her likeness in statuettes, amulets, and digital art or Non-Fungible Tokens (NFTs), these traditional female qualities are amplified, bringing reassurance to and evoking the desires of her devotees. Furthermore, Nang Kwak’s potency is associated with charm or&nbsp;<em>saneh</em>&nbsp;(เสน่ห์), rather than the counterpoint charismatic authority or&nbsp;<em>barami</em>&nbsp;(บารมี) usually attributed to male leaders, deities, or even of the monks that sacralize her image. The fashion and fashioning of Nang Kwak thus complicate sedimented ideas of gender, religion, and power, as her figure becomes the site of cultural reproduction and contestation.</p>
+</section>
+
+<section data-element_type="section" data-id="338roc3">
+<p>TITLE:<br />
+<strong>“Actors and victims” in the construction of the solar PV landscape in rural China: case studies in Guangdong and Henan</strong></p>
+
+<p>by Yijun Gai</p>
+
+<p>BIOS:-<br />
+<a href="https://www.hkihss.hku.hk/en/people/yijun-gai/">https://www.hkihss.hku.hk/en/people/yijun-gai/</a></p>
+</section>
+
+<p>ABSTRACT:</p>
+
+<section data-element_type="section" data-id="gtxhjxt">
+<p>This study examines the rapid development of solar photovoltaic (PV) installation in central and eastern China. Existing studies emphasize the state’s role in promoting PV installations in China with subsidies issued between 2013 and 2021 and recoginize its intention of maintaining the contribution of PV manufacturing to China’s economic growth. Drawing on extensive fieldwork, this study investigates the negotiations of key actors at the local level – local government, power supply authorities, PV companies, village cadres, and villagers – to unfold the development after the reduction of national subsidy starting in 2018.</p>
+
+<p>I argue that while developing renewable energy through solar PV technology has become a means of reinforcing state power in China, local societies, driven by vested economic benefits, are actively shaping the construction of rural solar PV landscape by mobilizing land resources and mediating local disputes. By comparing the construction of rural solar PV landscapes in Guangdong and Henan, this study also sheds light on the power dynamics in land leasing and grid connection for PV installation, which may compromise the livelihood of local peasants and their economic benefits of installing PV systems.<br />
+&nbsp;</p>
+
+<p><strong>Moderator:</strong><br />
+Helen Siu (Honorary Professor, Hong Kong Institute for the Humanities and Social Sciences)</p>
+</section>
+6:["$","$L12",null,{"event":{"id":"b8cce300-a169-48a5-81ce-4032dda5394e","title":"Sin Wai-Kin Fellowship Awardee Webinar Series","field_starting_time":"2024-06-12T07:00:00+00:00","field_speakers":{"value":"<p>Al Lim (PhD Candidate, Department of Anthropology and School of the Environment Yale University)</p>\r\n\r\n<p>Yijun Gai (PhD Candidate, Hong Kong Institute for the Humanities and Social Sciences, The University of Hong Kong)</p>\r\n","format":"event_entering","processed":"<p>Al Lim (PhD Candidate, Department of Anthropology and School of the Environment Yale University)</p>\n\n<p>Yijun Gai (PhD Candidate, Hong Kong Institute for the Humanities and Social Sciences, The University of Hong Kong)</p>\n"},"field_organizers":{"value":"<p><span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\">Hong Kong Institute for the Humanities and Social Sciences, The University of Hong Kong</span></span></p>\r\n","format":"event_entering","processed":"<p><span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\">Hong Kong Institute for the Humanities and Social Sciences, The University of Hong Kong</span></span></p>\n"},"field_event_mode":"Online","field_event_category":"Talk","field_event_language":"English","field_event_venue":null,"field_event_record":false,"field_registration":true,"field_time_zone":"Asia/Hong_Kong","field_event_website":{"uri":"https://www.hkihss.hku.hk/en/events/sin-wai-kin-fellowship-awardee-webinar-series-20240612/","title":"","options":[]},"field_description":{"value":"$13","format":"event_entering","processed":"$14"}}}]

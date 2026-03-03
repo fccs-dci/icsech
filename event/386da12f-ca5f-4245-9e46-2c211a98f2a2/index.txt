@@ -1,0 +1,84 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","386da12f-ca5f-4245-9e46-2c211a98f2a2",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","386da12f-ca5f-4245-9e46-2c211a98f2a2","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","386da12f-ca5f-4245-9e46-2c211a98f2a2","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:T1000,<p><em>For non-Columbia affiliates, registration is required to access the Morningside campus. Registering will generate an email with a QR code which must be presented along with a government-issued ID (your name must match exactly the name registered for the event) at either 116 Street &amp; Broadway or 116 Street &amp; Amsterdam gates for entry.&nbsp;<strong><a href="https://forms.gle/TZoGxVYsniD1EeUb9" rel="noopener" tabindex="-1" target="_blank">Please register by 4:00 pm on Feb. 7 for campus access.</a></strong></em></p>
+
+<p><strong>Speaker:</strong>&nbsp;Dazhou Wang, Honorary President and Professor, School of Design, East China Normal University</p>
+
+<p><strong>Discussant:</strong>&nbsp;Dake Zhu, Professor, School of Humanities, Tongji University</p>
+
+<p><strong>Moderator:</strong>&nbsp;Qin Gao, Professor and Director of China Center for Social Policy, Columbia University School of Social Work</p>
+
+<p>In this new book, Chinese-American artist&nbsp;<strong>Dazhou Wang</strong>&nbsp;recounts his decades-long journey, tracing his experiences from youth in China to his education, life, and artistic creations after moving to the United States in the 1980s. As both a personal biography and a motivational guide for studying abroad, the book records how the artist, born in Shanghai, realized his dreams in a foreign land through hard work and perseverance. This book not only holds significant reference value for scholars in the field of art but also provides valuable insights for researchers of cross-cultural art exchange and study abroad education.</p>
+
+<p><strong>Speaker Bio:</strong>&nbsp;Dazhou Wang, originally a Professor at the Shanghai University College of Fine Arts, left China in 1985 for the United States to pursue graduate studies in the fine arts and design. He received both a Masters of Fine Arts from the State University of New York University Center at Albany and a Masters of Industrial Design from Pratt Institute. After serving as Tianjin Science and Technology University’s Dean of Art and Design, he was invited by East China Normal University in 2003 to establish the School of Art and Design at East China Normal University where he was appointed Founding Dean and is now a lifetime honorary president and professor at the School of Design East China Normal University.</p>
+
+<p>Dazhou Wang's works have been exhibited and collected in museums and art galleries in China, the U.S., Japan, and across other countries. His art has frequently been covered by major media and featured in publications such as&nbsp;<em>Contemporary Chinese Art</em>&nbsp;and&nbsp;<em>Chinese Art</em>. In 2012, the Shanghai Art Museum hosted the "Wang Dazhou Bio-Art Exhibition," introducing his innovative aesthetic concept of bio-art to China. His bio-artworks are collected by over ten prestigious universities in the United States, including Yale, Harvard, Columbia, Stanford, and the University of Chicago. His books&nbsp;<em>Creative Design Process</em>,&nbsp;<em>Style and Trends</em>, and&nbsp;<em>Elastic Thinking in Design</em>&nbsp;have been included in the National Publishing Culture Innovation Project.</p>
+
+<p>NOTE: This talk will be in Chinese Mandarin.</p>
+
+<p>This event is hosted by the Weatherhead East Asian Institute.</p>
+
+<p><strong>Registration:</strong></p>
+
+<ul>
+	<li>To attend this event&nbsp;<strong>in-person</strong>, please register&nbsp;<strong><a href="https://forms.gle/TZoGxVYsniD1EeUb9" rel="noopener" tabindex="-1" target="_blank">HERE</a>.</strong></li>
+	<li>To attend this event&nbsp;<strong>online</strong>, please register&nbsp;<strong><a href="https://columbiauniversity.zoom.us/webinar/register/WN_dSqL5pqiSsaEAs3WZMPtvg" rel="noopener" tabindex="-1" target="_blank">HERE</a>.</strong></li>
+</ul>
+
+<h3>Contact Information</h3>
+
+<p>Julie Kwan</p>
+
+<p><a href="mailto:jk4371@columbia.edu" tabindex="-1">jk4371@columbia.edu</a></p>
+
+<p><a href="https://columbiauniversity.zoom.us/webinar/register/WN_dSqL5pqiSsaEAs3WZMPtvg" rel="noopener" tabindex="-1" target="_blank">Register&nbsp;</a></p>
+14:Tfe0,<p><em>For non-Columbia affiliates, registration is required to access the Morningside campus. Registering will generate an email with a QR code which must be presented along with a government-issued ID (your name must match exactly the name registered for the event) at either 116 Street &amp; Broadway or 116 Street &amp; Amsterdam gates for entry.&nbsp;<strong><a href="https://forms.gle/TZoGxVYsniD1EeUb9" rel="noopener" tabindex="-1" target="_blank">Please register by 4:00 pm on Feb. 7 for campus access.</a></strong></em></p>
+
+<p><strong>Speaker:</strong>&nbsp;Dazhou Wang, Honorary President and Professor, School of Design, East China Normal University</p>
+
+<p><strong>Discussant:</strong>&nbsp;Dake Zhu, Professor, School of Humanities, Tongji University</p>
+
+<p><strong>Moderator:</strong>&nbsp;Qin Gao, Professor and Director of China Center for Social Policy, Columbia University School of Social Work</p>
+
+<p>In this new book, Chinese-American artist&nbsp;<strong>Dazhou Wang</strong>&nbsp;recounts his decades-long journey, tracing his experiences from youth in China to his education, life, and artistic creations after moving to the United States in the 1980s. As both a personal biography and a motivational guide for studying abroad, the book records how the artist, born in Shanghai, realized his dreams in a foreign land through hard work and perseverance. This book not only holds significant reference value for scholars in the field of art but also provides valuable insights for researchers of cross-cultural art exchange and study abroad education.</p>
+
+<p><strong>Speaker Bio:</strong>&nbsp;Dazhou Wang, originally a Professor at the Shanghai University College of Fine Arts, left China in 1985 for the United States to pursue graduate studies in the fine arts and design. He received both a Masters of Fine Arts from the State University of New York University Center at Albany and a Masters of Industrial Design from Pratt Institute. After serving as Tianjin Science and Technology University’s Dean of Art and Design, he was invited by East China Normal University in 2003 to establish the School of Art and Design at East China Normal University where he was appointed Founding Dean and is now a lifetime honorary president and professor at the School of Design East China Normal University.</p>
+
+<p>Dazhou Wang's works have been exhibited and collected in museums and art galleries in China, the U.S., Japan, and across other countries. His art has frequently been covered by major media and featured in publications such as&nbsp;<em>Contemporary Chinese Art</em>&nbsp;and&nbsp;<em>Chinese Art</em>. In 2012, the Shanghai Art Museum hosted the "Wang Dazhou Bio-Art Exhibition," introducing his innovative aesthetic concept of bio-art to China. His bio-artworks are collected by over ten prestigious universities in the United States, including Yale, Harvard, Columbia, Stanford, and the University of Chicago. His books&nbsp;<em>Creative Design Process</em>,&nbsp;<em>Style and Trends</em>, and&nbsp;<em>Elastic Thinking in Design</em>&nbsp;have been included in the National Publishing Culture Innovation Project.</p>
+
+<p>NOTE: This talk will be in Chinese Mandarin.</p>
+
+<p>This event is hosted by the Weatherhead East Asian Institute.</p>
+
+<p><strong>Registration:</strong></p>
+
+<ul>
+	<li>To attend this event&nbsp;<strong>in-person</strong>, please register&nbsp;<strong><a href="https://forms.gle/TZoGxVYsniD1EeUb9" rel="noopener" tabindex="-1" target="_blank">HERE</a>.</strong></li>
+	<li>To attend this event&nbsp;<strong>online</strong>, please register&nbsp;<strong><a href="https://columbiauniversity.zoom.us/webinar/register/WN_dSqL5pqiSsaEAs3WZMPtvg" rel="noopener" tabindex="-1" target="_blank">HERE</a>.</strong></li>
+</ul>
+
+<h3>Contact Information</h3>
+
+<p>Julie Kwan</p>
+
+<p><a href="mailto:jk4371@columbia.edu" tabindex="-1">jk4371@columbia.edu</a></p>
+
+<p><a href="https://columbiauniversity.zoom.us/webinar/register/WN_dSqL5pqiSsaEAs3WZMPtvg" rel="noopener" tabindex="-1" target="_blank">Register&nbsp;</a></p>
+6:["$","$L12",null,{"event":{"id":"386da12f-ca5f-4245-9e46-2c211a98f2a2","title":"Unbounded by East or West—My Art and Design Journey – A Book Talk by Dazhou Wang","field_starting_time":"2025-02-10T21:00:00+00:00","field_speakers":{"value":"<p>Dazhou Wang, Honorary President and Professor, School of Design, East China Normal University</p>\r\n","format":"event_entering","processed":"<p>Dazhou Wang, Honorary President and Professor, School of Design, East China Normal University</p>\n"},"field_organizers":{"value":"<p>Weatherhead East Asian Institute, Columbia University</p>\r\n","format":"event_entering","processed":"<p>Weatherhead East Asian Institute, Columbia University</p>\n"},"field_event_mode":null,"field_event_category":null,"field_event_language":"English","field_event_venue":"School of International and Public Affairs, 420 West 118th Street, Room 918, New York, NY 10027","field_event_record":true,"field_registration":true,"field_time_zone":"America/New_York","field_event_website":{"uri":"https://chinacenter.socialwork.columbia.edu/events/unbounded-east-or-west-my-art-and-design-journey-book-talk-dazhou-wang","title":"","options":[]},"field_description":{"value":"$13","format":"event_entering","processed":"$14"}}}]

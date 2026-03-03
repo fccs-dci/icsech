@@ -1,0 +1,92 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","3a32ca78-e685-4b71-b798-fa79092fc5d4",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","3a32ca78-e685-4b71-b798-fa79092fc5d4","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","3a32ca78-e685-4b71-b798-fa79092fc5d4","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:Tb9a,<p><strong>Shannon Tiezzi</strong> is Editor-in-Chief at The Diplomat. Prior to taking on the editor-in-chief role, she was The Diplomats' China editor. Her main focus is on China, and she writes on China's foreign relations, domestic politics, and economy. She received her master's degree from Harvard University, with a focus on modern Chinese literature, and she did her B.A. in English and Chinese from The College of William and Mary. Shannon has also studied at Tsinghua University in Beijing.</p>
+
+<p><strong>David Zweig&nbsp;</strong>is a Professor Emeritus, at the Hong Kong University of Science and Technology and a distinguished visiting Professor at the Taipei School of Economics and Political Science, National Tsinghua University, Taiwan. He was a postdoctoral fellow at Harvard from 1984-85. He lived in Hong Kong from 1996-2019and now lives in New York with his family. Zweig studied in Beijing in 1974-76 and did field research in rural China in 11980-81 and in 1986 and explored the internationalization of southern Jiangsu Province in 1991-1997. he has authored or edited ten books. He is currently completing a book on China's reverse brain drain. Almost 35,000 students have taken his two online classes with Coursera on domestic Chinese Politics and on China and the World.</p>
+
+<p><strong>Manoranjan Mohanty</strong><strong>&nbsp;</strong>was a professor of Political Science and Director of the Developing Countries Research Centre at the University of Delhi where he taught Comparative Politics, Chinese politics, and research methodology. Currently, he is a distinguished professor at the council for Social Development, New Delhi, where until recently he edited the CSD-Sage journal <em>Social Change</em>. He is a social scientist, China scholar, and a peace and human rights activist with a research interest in the study of the Political economy of China, India, and global transformation. He is an emeritus Fellow of the Institute of Chinese Studies, its founding member, and a former Chairperson. He is also the Emeritus Chairperson of the Development Research Institute, Bhubaneshwar, the research wing of Gabeshana Chakra of which he was the founder-president.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>The Chair</strong></p>
+
+<p><strong>Alka Acharya&nbsp;</strong>is an Honorary Director, of the Institute of Chinese Studies and professor, at the Centre of East Asian Studies (Chinese Studies) School of International Studies, Jawaharlal Nehru University (JNU). She has been teaching courses on Chinese Foreign policy and Political economy to Master's and M.Phil students and guiding doctoral research since 1993. Twelve scholars have so far been awarded a doctoral degree under his supervision. She is the joint editor of the book, <em>Crossing A Bridge of Dreams: 50 Years of India-China</em>, published in 2002, has contributed chapters to many books, and regularly features in the Economic and Political Weekly.&nbsp;</p>
+14:Tb8f,<p><strong>Shannon Tiezzi</strong> is Editor-in-Chief at The Diplomat. Prior to taking on the editor-in-chief role, she was The Diplomats' China editor. Her main focus is on China, and she writes on China's foreign relations, domestic politics, and economy. She received her master's degree from Harvard University, with a focus on modern Chinese literature, and she did her B.A. in English and Chinese from The College of William and Mary. Shannon has also studied at Tsinghua University in Beijing.</p>
+
+<p><strong>David Zweig&nbsp;</strong>is a Professor Emeritus, at the Hong Kong University of Science and Technology and a distinguished visiting Professor at the Taipei School of Economics and Political Science, National Tsinghua University, Taiwan. He was a postdoctoral fellow at Harvard from 1984-85. He lived in Hong Kong from 1996-2019and now lives in New York with his family. Zweig studied in Beijing in 1974-76 and did field research in rural China in 11980-81 and in 1986 and explored the internationalization of southern Jiangsu Province in 1991-1997. he has authored or edited ten books. He is currently completing a book on China's reverse brain drain. Almost 35,000 students have taken his two online classes with Coursera on domestic Chinese Politics and on China and the World.</p>
+
+<p><strong>Manoranjan Mohanty</strong><strong>&nbsp;</strong>was a professor of Political Science and Director of the Developing Countries Research Centre at the University of Delhi where he taught Comparative Politics, Chinese politics, and research methodology. Currently, he is a distinguished professor at the council for Social Development, New Delhi, where until recently he edited the CSD-Sage journal <em>Social Change</em>. He is a social scientist, China scholar, and a peace and human rights activist with a research interest in the study of the Political economy of China, India, and global transformation. He is an emeritus Fellow of the Institute of Chinese Studies, its founding member, and a former Chairperson. He is also the Emeritus Chairperson of the Development Research Institute, Bhubaneshwar, the research wing of Gabeshana Chakra of which he was the founder-president.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>The Chair</strong></p>
+
+<p><strong>Alka Acharya&nbsp;</strong>is an Honorary Director, of the Institute of Chinese Studies and professor, at the Centre of East Asian Studies (Chinese Studies) School of International Studies, Jawaharlal Nehru University (JNU). She has been teaching courses on Chinese Foreign policy and Political economy to Master's and M.Phil students and guiding doctoral research since 1993. Twelve scholars have so far been awarded a doctoral degree under his supervision. She is the joint editor of the book, <em>Crossing A Bridge of Dreams: 50 Years of India-China</em>, published in 2002, has contributed chapters to many books, and regularly features in the Economic and Political Weekly.&nbsp;</p>
+15:Ta6a,<p><strong>Abstracts</strong></p>
+
+<p><strong>Shannon Tiezzi</strong>, Editor-in-Chief, The Diplomat&nbsp;</p>
+
+<p><em>&nbsp; "Xi's new&nbsp; Team"</em></p>
+
+<p>By now, it's common knowledge that the Politburo Standing Committee, the apex of political power in China, is stocked with Xi Jinping loyalists. But beyond their personal connections to Xi, what do we know about the six men joining him on the PSC? On paper, their credentials may look typical: two sitting PSC members, the party secretaries of Shanghai, Beijing, and Guangdong, and Xi's de facto chief of staff. But several of the new members- most notably, Li Qiang, the presumed next premier, and Cai Qi-skipped steps in the typical career trajectory. The new emphasis on loyalty over experience sets the tone for Xi's "New Era': Xi wants men who will enforce his decision, not technocrats to make policy decisions of their own. The case of Li Qiang's handling of shanghai's COVID-19 outbreak is an instructive example of what we can expect from the new PSC.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>David Zweig</strong>, Professor Emeritus, Hong Kong University of Science and Technology; Distinguished Visiting Professor of Taipei School of Economics and Political Science, National Tsinghua University, Taiwan.</p>
+
+<p><em>&nbsp; "The Path Not Taken"</em></p>
+
+<p>The&nbsp;talk will focus on the direction China has taken since Xi Jinping and the leadership decided to turn away from the 60-point market reform package of 2013, and instead, adopted the "Made in China 2025" development strategy. The result has been a much more statist domestic economic agenda and a much more mercantilist foreign policy agenda. The 20th Party Congress, with its rejection of any reformist wing, is doubling down on nationalism, Marxism-Leninism, and the Xi thought, and the consolidation of central power simply reinforces trends begun almost a decade before.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Manoranjan Mohanty</strong>, Emeritus Fellow, and the former Chairperson of the Institute of Chinese Studies, New Delhi; Distinguished Professor, Council of Social Development, New Delhi; Former Professor, Department of Political Science, University of Delhi.</p>
+
+<p>&nbsp; &nbsp;<em>"Xi Jinping Thought for the new Journey"</em></p>
+
+<p>&nbsp;The articulation of Xi Jinping Thought at CPC's twentieth congress acquired a new sophistication and claimed more authenticity. The function of this new stress on ideology has to be understood keeping in view the stated and unstated goals of: legitimation, centralized governance, crisis management, and the great power aspirations.&nbsp;</p>
+
+<p>&nbsp;</p>
+16:Ta51,<p><strong>Abstracts</strong></p>
+
+<p><strong>Shannon Tiezzi</strong>, Editor-in-Chief, The Diplomat&nbsp;</p>
+
+<p><em>&nbsp; "Xi's new&nbsp; Team"</em></p>
+
+<p>By now, it's common knowledge that the Politburo Standing Committee, the apex of political power in China, is stocked with Xi Jinping loyalists. But beyond their personal connections to Xi, what do we know about the six men joining him on the PSC? On paper, their credentials may look typical: two sitting PSC members, the party secretaries of Shanghai, Beijing, and Guangdong, and Xi's de facto chief of staff. But several of the new members- most notably, Li Qiang, the presumed next premier, and Cai Qi-skipped steps in the typical career trajectory. The new emphasis on loyalty over experience sets the tone for Xi's "New Era': Xi wants men who will enforce his decision, not technocrats to make policy decisions of their own. The case of Li Qiang's handling of shanghai's COVID-19 outbreak is an instructive example of what we can expect from the new PSC.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>David Zweig</strong>, Professor Emeritus, Hong Kong University of Science and Technology; Distinguished Visiting Professor of Taipei School of Economics and Political Science, National Tsinghua University, Taiwan.</p>
+
+<p><em>&nbsp; "The Path Not Taken"</em></p>
+
+<p>The&nbsp;talk will focus on the direction China has taken since Xi Jinping and the leadership decided to turn away from the 60-point market reform package of 2013, and instead, adopted the "Made in China 2025" development strategy. The result has been a much more statist domestic economic agenda and a much more mercantilist foreign policy agenda. The 20th Party Congress, with its rejection of any reformist wing, is doubling down on nationalism, Marxism-Leninism, and the Xi thought, and the consolidation of central power simply reinforces trends begun almost a decade before.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Manoranjan Mohanty</strong>, Emeritus Fellow, and the former Chairperson of the Institute of Chinese Studies, New Delhi; Distinguished Professor, Council of Social Development, New Delhi; Former Professor, Department of Political Science, University of Delhi.</p>
+
+<p>&nbsp; &nbsp;<em>"Xi Jinping Thought for the new Journey"</em></p>
+
+<p>&nbsp;The articulation of Xi Jinping Thought at CPC's twentieth congress acquired a new sophistication and claimed more authenticity. The function of this new stress on ideology has to be understood keeping in view the stated and unstated goals of: legitimation, centralized governance, crisis management, and the great power aspirations.&nbsp;</p>
+
+<p>&nbsp;</p>
+6:["$","$L12",null,{"event":{"id":"3a32ca78-e685-4b71-b798-fa79092fc5d4","title":"15th All India Conference of China Studies (AICCS) : A Curtain Raiser | 16th November 2022 | 1700-1830 Hours","field_starting_time":"2022-11-16T11:30:00+00:00","field_speakers":{"value":"$13","format":"event_entering","processed":"$14"},"field_organizers":{"value":"<p>Institute Of Chinese Studies, B-371 (3rd Floor), Chittaranjan Park, Kalka Ji, New Delhi - 110019, India&nbsp;</p>\r\n\r\n<p>Tel: +91-11-40564823 | E-mail: info@icsin.org | Web: http://www.icsin.org&nbsp;</p>\r\n","format":"event_entering","processed":"<p>Institute Of Chinese Studies, B-371 (3rd Floor), Chittaranjan Park, Kalka Ji, New Delhi - 110019, India&nbsp;</p>\n\n<p>Tel: +91-11-40564823 | E-mail: info@icsin.org | Web: http://www.icsin.org&nbsp;</p>\n"},"field_event_mode":"Online","field_event_category":"Conference","field_event_language":"English","field_event_venue":null,"field_event_record":true,"field_registration":true,"field_time_zone":"Asia/Kolkata","field_event_website":{"uri":"https://us02web.zoom.us/meeting/register/tZMvc--sqj4uGdTljKWT3dmxRP-sd65BlWfS","title":"","options":[]},"field_description":{"value":"$15","format":"event_entering","processed":"$16"}}}]

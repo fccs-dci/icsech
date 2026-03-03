@@ -1,0 +1,56 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","034a076d-f9f2-4861-9e1b-85e899c353b1",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","034a076d-f9f2-4861-9e1b-85e899c353b1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","034a076d-f9f2-4861-9e1b-85e899c353b1","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:T618,<p><strong>Professor&nbsp;William H. Nienhauser, Jr.&nbsp;</strong></p>
+
+<p>William H. Nienhauser, Jr. 倪豪士 (b. 1943) is married with two children and three grand children. He majored in Chinese literature at Indiana University and Bonn University receiving his Ph.D in 1973 under Professor Liu Wuji 柳無忌. That year Nienhauser became assistant professor of East Asian Literature (University of Wisconsin); he has been Halls-Bascom Chair Professor of Chinese Literature there since 1995 (Emeritus since 2020); he also taught or held research grants in China, Taiwan, Japan, Singapore, and Germany. His publications include Indiana Companion to Traditional Chinese Literature (2 vol.), nine volumes of translations from the Shiji (The Grand Scribe’s Records, 1994–2016) as well as studies of P’i Jih-hsiu (Pi Rixiu) and Liu Tsung-yuan (Liu Zongyuan), and the Biographical Dictionary of Tang Dynasty Literati (2022), in addition to more than 100 articles and reviews. Nienhauser was a founding editor of Chinese Literature: Essays, Articles, Reviews (CLEAR) and served the journal until 2013 as co-editor. He has held grants from the American Council of Learned Societies, the National Endowment for the Humanities, the Japan Foundation, the Fulbright Program, the German Research Foundation, Committee on Scholarly Communication with China, the Center for Advanced Studies (Munich), and the Alexander von Humboldt Foundation. In 2003 he was awarded a Forschungspreis (Research Prize) for lifetime achievement from the Humboldt Foundation.</p>
+14:T615,<p><strong>Professor&nbsp;William H. Nienhauser, Jr.&nbsp;</strong></p>
+
+<p>William H. Nienhauser, Jr. 倪豪士 (b. 1943) is married with two children and three grand children. He majored in Chinese literature at Indiana University and Bonn University receiving his Ph.D in 1973 under Professor Liu Wuji 柳無忌. That year Nienhauser became assistant professor of East Asian Literature (University of Wisconsin); he has been Halls-Bascom Chair Professor of Chinese Literature there since 1995 (Emeritus since 2020); he also taught or held research grants in China, Taiwan, Japan, Singapore, and Germany. His publications include Indiana Companion to Traditional Chinese Literature (2 vol.), nine volumes of translations from the Shiji (The Grand Scribe’s Records, 1994–2016) as well as studies of P’i Jih-hsiu (Pi Rixiu) and Liu Tsung-yuan (Liu Zongyuan), and the Biographical Dictionary of Tang Dynasty Literati (2022), in addition to more than 100 articles and reviews. Nienhauser was a founding editor of Chinese Literature: Essays, Articles, Reviews (CLEAR) and served the journal until 2013 as co-editor. He has held grants from the American Council of Learned Societies, the National Endowment for the Humanities, the Japan Foundation, the Fulbright Program, the German Research Foundation, Committee on Scholarly Communication with China, the Center for Advanced Studies (Munich), and the Alexander von Humboldt Foundation. In 2003 he was awarded a Forschungspreis (Research Prize) for lifetime achievement from the Humboldt Foundation.</p>
+15:T4f3,<p>The Academy is very much honoured to have world-renowned Sinologue Professor William H. Nienhauser, Jr. visit the university as the Institute of Creativity Visiting Fellow and give 2 public talks in October 2023.</p>
+
+<p>No registration is required. All are welcome to attend each lecture in-person or with the following Zoom meeting details:<br />
+In-person Venue: SWT 702, Level 7, Shaw Tower, Hong Kong Baptist University<br />
+Online platform: ZOOM<br />
+Link:<a href="https://hkbu.zoom.us/j/97936436648?pwd=TnplNnptUlRnSnNmbldCcHM4UmRLdz09" target="_blank">&nbsp;https://hkbu.zoom.us/j/97936436648?pwd=TnplNnptUlRnSnNmbldCcHM4UmRLdz09</a><br />
+Meeting ID: 979 3643 6648<br />
+Password: 709780</p>
+
+<p><strong>Lecture 1: Notes on Having Taught the Lunyu (Confucian Analects)</strong><br />
+2023/10/5 │ 16:00 – 17:30<br />
+The lecture will explore the major translations in French, German, and English of selected verses of the Analects with the goal to point out aporia and alternative understandings of these passages in light of traditional and modern Chinese and Western scholarship.<br />
+Language: English</p>
+
+<p>The HKBU Institute of Creativity Visiting Fellowship Scheme is sponsored by the Hung Hin Shiu Charitable Foundation.</p>
+16:T4e4,<p>The Academy is very much honoured to have world-renowned Sinologue Professor William H. Nienhauser, Jr. visit the university as the Institute of Creativity Visiting Fellow and give 2 public talks in October 2023.</p>
+
+<p>No registration is required. All are welcome to attend each lecture in-person or with the following Zoom meeting details:<br />
+In-person Venue: SWT 702, Level 7, Shaw Tower, Hong Kong Baptist University<br />
+Online platform: ZOOM<br />
+Link:<a href="https://hkbu.zoom.us/j/97936436648?pwd=TnplNnptUlRnSnNmbldCcHM4UmRLdz09" target="_blank">&nbsp;https://hkbu.zoom.us/j/97936436648?pwd=TnplNnptUlRnSnNmbldCcHM4UmRLdz09</a><br />
+Meeting ID: 979 3643 6648<br />
+Password: 709780</p>
+
+<p><strong>Lecture 1: Notes on Having Taught the Lunyu (Confucian Analects)</strong><br />
+2023/10/5 │ 16:00 – 17:30<br />
+The lecture will explore the major translations in French, German, and English of selected verses of the Analects with the goal to point out aporia and alternative understandings of these passages in light of traditional and modern Chinese and Western scholarship.<br />
+Language: English</p>
+
+<p>The HKBU Institute of Creativity Visiting Fellowship Scheme is sponsored by the Hung Hin Shiu Charitable Foundation.</p>
+6:["$","$L12",null,{"event":{"id":"034a076d-f9f2-4861-9e1b-85e899c353b1","title":"Professor William H. Nienhauser, Jr.: Notes on Having Taught the Lunyu (Confucian Analects)","field_starting_time":"2023-10-05T08:00:00+00:00","field_speakers":{"value":"$13","format":"event_entering","processed":"$14"},"field_organizers":{"value":"<p>Jao Tsung-I Academy of Sinology, Hong Kong Baptist University</p>\r\n","format":"event_entering","processed":"<p>Jao Tsung-I Academy of Sinology, Hong Kong Baptist University</p>\n"},"field_event_mode":"Hybrid","field_event_category":"Talk","field_event_language":"English","field_event_venue":"SWT 702, Shaw Tower, HKBU/ZOOM","field_event_record":true,"field_registration":false,"field_time_zone":"Asia/Hong_Kong","field_event_website":{"uri":"http://jas.hkbu.edu.hk/ycy.php?page=event/ycy/detail&id=231","title":"","options":[]},"field_description":{"value":"$15","format":"event_entering","processed":"$16"}}}]

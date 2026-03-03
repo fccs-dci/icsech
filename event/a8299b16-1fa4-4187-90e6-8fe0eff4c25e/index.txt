@@ -1,0 +1,282 @@
+1:"$Sreact.fragment"
+2:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[8332,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-369d8cf44048a605.js"],"GoogleAnalytics"]
+7:I[4431,[],"OutletBoundary"]
+9:I[5278,[],"AsyncMetadataOutlet"]
+b:I[4431,[],"ViewportBoundary"]
+d:I[4431,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[7150,[],""]
+:HL["/_next/static/css/e4ad8f6f3df915c7.css","style"]
+0:{"P":null,"b":"z32ZdEWX2wOd33iz5Zper","p":"","c":["","event","a8299b16-1fa4-4187-90e6-8fe0eff4c25e",""],"i":false,"f":[[["",{"children":["event",{"children":[["id","a8299b16-1fa4-4187-90e6-8fe0eff4c25e","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e4ad8f6f3df915c7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex flex-col min-h-screen","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"container mx-auto","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 py-6","children":["$","p",null,{"className":"text-center text-base text-red-900","children":["© 2020-",2026," ",["$","a",null,{"href":"https://fairbank.fas.harvard.edu","target":"_blank","rel":"noreferrer","children":"Fairbank Center for Chinese Studies"}],". All rights reserved."]}]}],["$","$L5",null,{"gaId":"UA-177273316-2"}]]}]}]]}],{"children":["event",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","a8299b16-1fa4-4187-90e6-8fe0eff4c25e","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+11:I[622,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"International China Studies Events Clearing-house"}],["$","link","1",{"rel":"icon","href":"/favicon.png"}],["$","$L11","2",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
+12:I[1849,["953","static/chunks/97bfd92e-e234e9c3f31335fb.js","697","static/chunks/app/event/%5Bid%5D/page-c4ac0d6dd160ba26.js"],"default"]
+13:T1b73,<ul>
+	<li>
+	<p><strong>This event is intended to be a hybrid event. In-person attendance is reserved for CUID card holders only. In-person attendance register&nbsp;<a href="https://forms.gle/Q3GQQQwwFfmh7YJv7">here</a>.</strong></p>
+	</li>
+	<li>
+	<p><strong>Webinar registration for all non CUID holders to attend online is available&nbsp;<a href="https://us02web.zoom.us/webinar/register/WN_g2umTjGCR06WbPTnK463lQ">here</a>.</strong></p>
+	</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><strong>Book Talk by Susan Shirk</strong></p>
+
+<p>For three decades after Mao’s death in 1976, China’s leaders adopted a restrained approach to foreign policy. To facilitate the country’s inexorable economic ascendence, and to prevent a backlash, they reassured the outside world of China’s peaceful intentions.</p>
+
+<p>Then, as Susan Shirk shows in this illuminating, sobering, and utterly refreshing new book, something changed. China went from fragile superpower to global heavyweight, muscling its way around the South China Sea, punishing countries that disagree with China, intimidating Taiwan, tightening its grip on Hong Kong, and openly challenging the United States for preeminence not just economically and technologically but militarily. China began to overreach. &nbsp;</p>
+
+<p>Combining her decades of research and experience, Shirk, author of the hugely influential China: Fragile Superpower, argues that we are now fully embroiled in a new cold war.</p>
+
+<p>Prying open the "black box" of China’s political system, Shirk shows the shift toward confrontation began in the mid-2000s under the mild-mannered Hu Jintao. As China’s economy boomed, especially after the Global Financial Crisis of 2008, Hu and the other leaders lost restraint, abetting aggression toward the outside world and unchecked domestic social control. When Xi Jinping took power in 2012, he capitalized on widespread official corruption and open splits in the leadership to make the case for more concentrated power at the top.</p>
+
+<p>In the decade following, and to the present day, Xi has accumulated greater power than any leader since Mao. Those who implement Xi’s directives compete to outdo one another in fervor, provoking an even greater global backlash and stoking jingoism within China on a scale not seen since the Cultural Revolution. Shirk’s extensive interviews and meticulous analysis reveal the dynamics driving overreach. To counter it, she argues, the worst mistake the rest of the world, and the United States in particular, can make is to overreact. Understanding the domestic roots of China’s actions will enable us to avoid the mistakes that could lead to war.</p>
+
+<p><strong>(The verbiage above is from the publisher of Overreach and is not reflective of or endorsed by CWP or Columbia University)</strong></p>
+
+<p>&nbsp;<img alt="Susan Shirk UCSD" data-delta="1" data-fid="5894" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/Susan%20Shirk_credit%20Jordan%20Engle%20%281%29_0.jpg?itok=R31MEbUb" title="Susan Shirk UCSD" /></p>
+
+<p>Susan Shirk is a Research Professor and Chair of the 21st Century China Center at the School of Global Policy and Strategy, UC San Diego. Shirk is the author of China: Fragile Superpower, and The Political Logic of Economic Reform in China. From 1997-2000, she served as Deputy Assistant Secretary of State in the Bureau of East Asia and Pacific Affairs, with responsibility for China, Taiwan, Hong Kong and Mongolia.’</p>
+
+<p><strong>Panel Discussion Following book talk</strong>:</p>
+
+<p><strong>Thomas J. Christensen</strong>&nbsp;is the James T. Shotwell Professor of International Relations&nbsp;and Director of the&nbsp;<a href="https://cwp.sipa.columbia.edu/">China and the World Program</a>&nbsp;at Columbia University.&nbsp; He arrived in 2018 from Princeton University where he was William P. Boswell Professor of World Politics of Peace and War, Director of the Princeton-Harvard China and the World Program, and faculty director of the Masters of Public Policy Program and the Truman Scholars Program.&nbsp; &nbsp;From 2006-2008 he served as Deputy Assistant Secretary of State for East Asian and Pacific Affairs with responsibility for relations with China, Taiwan, and Mongolia.</p>
+
+<p><strong>Susan A. Thornton</strong>&nbsp;is a retired senior U.S. diplomat with almost three decades of experience with the U.S. State Department in Eurasia and East Asia. She is currently a Senior Fellow and Visiting Lecturer in Law at the Yale Law School Paul Tsai China Center. She is also the director of the Forum on Asia-Pacific Security at the National Committee on American Foreign Policy and a nonresident senior fellow at the Brookings Institution.</p>
+
+<p><strong>John K. Culver</strong>&nbsp;is a nonresident senior fellow with the Atlantic Council’s Global China Hub and a former Central Intelligence Agency (CIA) senior intelligence officer with thirty-five years of experience as a leading analyst of East Asian affairs, including security, economic, and foreign-policy dimensions.&nbsp;Previously as national intelligence officer for East Asia from 2015 to 2018, Culver drove the Intelligence Community’s support to top policymakers on East Asian issues and managed extensive relationships inside and outside government.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="Thomas Christensen" data-delta="1" data-fid="5944" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/Tom_Christensen_Headshot_Spring2019sml_4.png?itok=2SsAfzJK" /><img alt="Susan Thornton" data-delta="2" data-fid="5945" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/susan-thornton_0.jpg?itok=tGLN1f_w" title="Susan Thornton" /><img alt="John Culver" data-delta="3" data-fid="5946" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/John-K-Culver.jpg?itok=tiWJmHpb" title="John Culver" /></p>
+
+<p>Co-sponsored by: the China and the World Program, the Weatherhead East Asian Institute and the Saltzman Institute of War and Peace Studies (SIWPS).</p>
+
+<p><img alt="OVERREACH How China Derailed Its Peaceful Rise  By Susan L. Shirk" data-delta="2" data-fid="5895" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/Cover%20Art%20-%20Overreach%20%281%29.jpg?itok=QcgaJvut" title="OVERREACH How China Derailed Its Peaceful Rise  By Susan L. Shirk" /></p>
+
+<p>To purchase a copy of Dr. Shirk's book please go here:&nbsp;<a href="https://global.oup.com/academic/product/overreach-9780190068516?cc=us&amp;lang=en&amp;">https://global.oup.com/academic/product/overreach-9780190068516?cc=us&amp;lang=en&amp;</a></p>
+
+<hr />
+<p>&nbsp;</p>
+
+<p>Photo Credit: Oxford University Press&nbsp;&amp; Jordan Engle&nbsp;</p>
+14:T1b40,<ul>
+	<li>
+	<p><strong>This event is intended to be a hybrid event. In-person attendance is reserved for CUID card holders only. In-person attendance register&nbsp;<a href="https://forms.gle/Q3GQQQwwFfmh7YJv7">here</a>.</strong></p>
+	</li>
+	<li>
+	<p><strong>Webinar registration for all non CUID holders to attend online is available&nbsp;<a href="https://us02web.zoom.us/webinar/register/WN_g2umTjGCR06WbPTnK463lQ">here</a>.</strong></p>
+	</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><strong>Book Talk by Susan Shirk</strong></p>
+
+<p>For three decades after Mao’s death in 1976, China’s leaders adopted a restrained approach to foreign policy. To facilitate the country’s inexorable economic ascendence, and to prevent a backlash, they reassured the outside world of China’s peaceful intentions.</p>
+
+<p>Then, as Susan Shirk shows in this illuminating, sobering, and utterly refreshing new book, something changed. China went from fragile superpower to global heavyweight, muscling its way around the South China Sea, punishing countries that disagree with China, intimidating Taiwan, tightening its grip on Hong Kong, and openly challenging the United States for preeminence not just economically and technologically but militarily. China began to overreach. &nbsp;</p>
+
+<p>Combining her decades of research and experience, Shirk, author of the hugely influential China: Fragile Superpower, argues that we are now fully embroiled in a new cold war.</p>
+
+<p>Prying open the "black box" of China’s political system, Shirk shows the shift toward confrontation began in the mid-2000s under the mild-mannered Hu Jintao. As China’s economy boomed, especially after the Global Financial Crisis of 2008, Hu and the other leaders lost restraint, abetting aggression toward the outside world and unchecked domestic social control. When Xi Jinping took power in 2012, he capitalized on widespread official corruption and open splits in the leadership to make the case for more concentrated power at the top.</p>
+
+<p>In the decade following, and to the present day, Xi has accumulated greater power than any leader since Mao. Those who implement Xi’s directives compete to outdo one another in fervor, provoking an even greater global backlash and stoking jingoism within China on a scale not seen since the Cultural Revolution. Shirk’s extensive interviews and meticulous analysis reveal the dynamics driving overreach. To counter it, she argues, the worst mistake the rest of the world, and the United States in particular, can make is to overreact. Understanding the domestic roots of China’s actions will enable us to avoid the mistakes that could lead to war.</p>
+
+<p><strong>(The verbiage above is from the publisher of Overreach and is not reflective of or endorsed by CWP or Columbia University)</strong></p>
+
+<p>&nbsp;<img alt="Susan Shirk UCSD" data-delta="1" data-fid="5894" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/Susan%20Shirk_credit%20Jordan%20Engle%20%281%29_0.jpg?itok=R31MEbUb" title="Susan Shirk UCSD" /></p>
+
+<p>Susan Shirk is a Research Professor and Chair of the 21st Century China Center at the School of Global Policy and Strategy, UC San Diego. Shirk is the author of China: Fragile Superpower, and The Political Logic of Economic Reform in China. From 1997-2000, she served as Deputy Assistant Secretary of State in the Bureau of East Asia and Pacific Affairs, with responsibility for China, Taiwan, Hong Kong and Mongolia.’</p>
+
+<p><strong>Panel Discussion Following book talk</strong>:</p>
+
+<p><strong>Thomas J. Christensen</strong>&nbsp;is the James T. Shotwell Professor of International Relations&nbsp;and Director of the&nbsp;<a href="https://cwp.sipa.columbia.edu/">China and the World Program</a>&nbsp;at Columbia University.&nbsp; He arrived in 2018 from Princeton University where he was William P. Boswell Professor of World Politics of Peace and War, Director of the Princeton-Harvard China and the World Program, and faculty director of the Masters of Public Policy Program and the Truman Scholars Program.&nbsp; &nbsp;From 2006-2008 he served as Deputy Assistant Secretary of State for East Asian and Pacific Affairs with responsibility for relations with China, Taiwan, and Mongolia.</p>
+
+<p><strong>Susan A. Thornton</strong>&nbsp;is a retired senior U.S. diplomat with almost three decades of experience with the U.S. State Department in Eurasia and East Asia. She is currently a Senior Fellow and Visiting Lecturer in Law at the Yale Law School Paul Tsai China Center. She is also the director of the Forum on Asia-Pacific Security at the National Committee on American Foreign Policy and a nonresident senior fellow at the Brookings Institution.</p>
+
+<p><strong>John K. Culver</strong>&nbsp;is a nonresident senior fellow with the Atlantic Council’s Global China Hub and a former Central Intelligence Agency (CIA) senior intelligence officer with thirty-five years of experience as a leading analyst of East Asian affairs, including security, economic, and foreign-policy dimensions.&nbsp;Previously as national intelligence officer for East Asia from 2015 to 2018, Culver drove the Intelligence Community’s support to top policymakers on East Asian issues and managed extensive relationships inside and outside government.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="Thomas Christensen" data-delta="1" data-fid="5944" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/Tom_Christensen_Headshot_Spring2019sml_4.png?itok=2SsAfzJK" /><img alt="Susan Thornton" data-delta="2" data-fid="5945" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/susan-thornton_0.jpg?itok=tGLN1f_w" title="Susan Thornton" /><img alt="John Culver" data-delta="3" data-fid="5946" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/John-K-Culver.jpg?itok=tiWJmHpb" title="John Culver" /></p>
+
+<p>Co-sponsored by: the China and the World Program, the Weatherhead East Asian Institute and the Saltzman Institute of War and Peace Studies (SIWPS).</p>
+
+<p><img alt="OVERREACH How China Derailed Its Peaceful Rise  By Susan L. Shirk" data-delta="2" data-fid="5895" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/Cover%20Art%20-%20Overreach%20%281%29.jpg?itok=QcgaJvut" title="OVERREACH How China Derailed Its Peaceful Rise  By Susan L. Shirk" /></p>
+
+<p>To purchase a copy of Dr. Shirk's book please go here:&nbsp;<a href="https://global.oup.com/academic/product/overreach-9780190068516?cc=us&amp;lang=en&amp;">https://global.oup.com/academic/product/overreach-9780190068516?cc=us&amp;lang=en&amp;</a></p>
+
+<hr />
+<p>&nbsp;</p>
+
+<p>Photo Credit: Oxford University Press&nbsp;&amp; Jordan Engle&nbsp;</p>
+15:T1b73,<ul>
+	<li>
+	<p><strong>This event is intended to be a hybrid event. In-person attendance is reserved for CUID card holders only. In-person attendance register&nbsp;<a href="https://forms.gle/Q3GQQQwwFfmh7YJv7">here</a>.</strong></p>
+	</li>
+	<li>
+	<p><strong>Webinar registration for all non CUID holders to attend online is available&nbsp;<a href="https://us02web.zoom.us/webinar/register/WN_g2umTjGCR06WbPTnK463lQ">here</a>.</strong></p>
+	</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><strong>Book Talk by Susan Shirk</strong></p>
+
+<p>For three decades after Mao’s death in 1976, China’s leaders adopted a restrained approach to foreign policy. To facilitate the country’s inexorable economic ascendence, and to prevent a backlash, they reassured the outside world of China’s peaceful intentions.</p>
+
+<p>Then, as Susan Shirk shows in this illuminating, sobering, and utterly refreshing new book, something changed. China went from fragile superpower to global heavyweight, muscling its way around the South China Sea, punishing countries that disagree with China, intimidating Taiwan, tightening its grip on Hong Kong, and openly challenging the United States for preeminence not just economically and technologically but militarily. China began to overreach. &nbsp;</p>
+
+<p>Combining her decades of research and experience, Shirk, author of the hugely influential China: Fragile Superpower, argues that we are now fully embroiled in a new cold war.</p>
+
+<p>Prying open the "black box" of China’s political system, Shirk shows the shift toward confrontation began in the mid-2000s under the mild-mannered Hu Jintao. As China’s economy boomed, especially after the Global Financial Crisis of 2008, Hu and the other leaders lost restraint, abetting aggression toward the outside world and unchecked domestic social control. When Xi Jinping took power in 2012, he capitalized on widespread official corruption and open splits in the leadership to make the case for more concentrated power at the top.</p>
+
+<p>In the decade following, and to the present day, Xi has accumulated greater power than any leader since Mao. Those who implement Xi’s directives compete to outdo one another in fervor, provoking an even greater global backlash and stoking jingoism within China on a scale not seen since the Cultural Revolution. Shirk’s extensive interviews and meticulous analysis reveal the dynamics driving overreach. To counter it, she argues, the worst mistake the rest of the world, and the United States in particular, can make is to overreact. Understanding the domestic roots of China’s actions will enable us to avoid the mistakes that could lead to war.</p>
+
+<p><strong>(The verbiage above is from the publisher of Overreach and is not reflective of or endorsed by CWP or Columbia University)</strong></p>
+
+<p>&nbsp;<img alt="Susan Shirk UCSD" data-delta="1" data-fid="5894" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/Susan%20Shirk_credit%20Jordan%20Engle%20%281%29_0.jpg?itok=R31MEbUb" title="Susan Shirk UCSD" /></p>
+
+<p>Susan Shirk is a Research Professor and Chair of the 21st Century China Center at the School of Global Policy and Strategy, UC San Diego. Shirk is the author of China: Fragile Superpower, and The Political Logic of Economic Reform in China. From 1997-2000, she served as Deputy Assistant Secretary of State in the Bureau of East Asia and Pacific Affairs, with responsibility for China, Taiwan, Hong Kong and Mongolia.’</p>
+
+<p><strong>Panel Discussion Following book talk</strong>:</p>
+
+<p><strong>Thomas J. Christensen</strong>&nbsp;is the James T. Shotwell Professor of International Relations&nbsp;and Director of the&nbsp;<a href="https://cwp.sipa.columbia.edu/">China and the World Program</a>&nbsp;at Columbia University.&nbsp; He arrived in 2018 from Princeton University where he was William P. Boswell Professor of World Politics of Peace and War, Director of the Princeton-Harvard China and the World Program, and faculty director of the Masters of Public Policy Program and the Truman Scholars Program.&nbsp; &nbsp;From 2006-2008 he served as Deputy Assistant Secretary of State for East Asian and Pacific Affairs with responsibility for relations with China, Taiwan, and Mongolia.</p>
+
+<p><strong>Susan A. Thornton</strong>&nbsp;is a retired senior U.S. diplomat with almost three decades of experience with the U.S. State Department in Eurasia and East Asia. She is currently a Senior Fellow and Visiting Lecturer in Law at the Yale Law School Paul Tsai China Center. She is also the director of the Forum on Asia-Pacific Security at the National Committee on American Foreign Policy and a nonresident senior fellow at the Brookings Institution.</p>
+
+<p><strong>John K. Culver</strong>&nbsp;is a nonresident senior fellow with the Atlantic Council’s Global China Hub and a former Central Intelligence Agency (CIA) senior intelligence officer with thirty-five years of experience as a leading analyst of East Asian affairs, including security, economic, and foreign-policy dimensions.&nbsp;Previously as national intelligence officer for East Asia from 2015 to 2018, Culver drove the Intelligence Community’s support to top policymakers on East Asian issues and managed extensive relationships inside and outside government.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="Thomas Christensen" data-delta="1" data-fid="5944" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/Tom_Christensen_Headshot_Spring2019sml_4.png?itok=2SsAfzJK" /><img alt="Susan Thornton" data-delta="2" data-fid="5945" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/susan-thornton_0.jpg?itok=tGLN1f_w" title="Susan Thornton" /><img alt="John Culver" data-delta="3" data-fid="5946" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/John-K-Culver.jpg?itok=tiWJmHpb" title="John Culver" /></p>
+
+<p>Co-sponsored by: the China and the World Program, the Weatherhead East Asian Institute and the Saltzman Institute of War and Peace Studies (SIWPS).</p>
+
+<p><img alt="OVERREACH How China Derailed Its Peaceful Rise  By Susan L. Shirk" data-delta="2" data-fid="5895" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/Cover%20Art%20-%20Overreach%20%281%29.jpg?itok=QcgaJvut" title="OVERREACH How China Derailed Its Peaceful Rise  By Susan L. Shirk" /></p>
+
+<p>To purchase a copy of Dr. Shirk's book please go here:&nbsp;<a href="https://global.oup.com/academic/product/overreach-9780190068516?cc=us&amp;lang=en&amp;">https://global.oup.com/academic/product/overreach-9780190068516?cc=us&amp;lang=en&amp;</a></p>
+
+<hr />
+<p>&nbsp;</p>
+
+<p>Photo Credit: Oxford University Press&nbsp;&amp; Jordan Engle&nbsp;</p>
+16:T1b40,<ul>
+	<li>
+	<p><strong>This event is intended to be a hybrid event. In-person attendance is reserved for CUID card holders only. In-person attendance register&nbsp;<a href="https://forms.gle/Q3GQQQwwFfmh7YJv7">here</a>.</strong></p>
+	</li>
+	<li>
+	<p><strong>Webinar registration for all non CUID holders to attend online is available&nbsp;<a href="https://us02web.zoom.us/webinar/register/WN_g2umTjGCR06WbPTnK463lQ">here</a>.</strong></p>
+	</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><strong>Book Talk by Susan Shirk</strong></p>
+
+<p>For three decades after Mao’s death in 1976, China’s leaders adopted a restrained approach to foreign policy. To facilitate the country’s inexorable economic ascendence, and to prevent a backlash, they reassured the outside world of China’s peaceful intentions.</p>
+
+<p>Then, as Susan Shirk shows in this illuminating, sobering, and utterly refreshing new book, something changed. China went from fragile superpower to global heavyweight, muscling its way around the South China Sea, punishing countries that disagree with China, intimidating Taiwan, tightening its grip on Hong Kong, and openly challenging the United States for preeminence not just economically and technologically but militarily. China began to overreach. &nbsp;</p>
+
+<p>Combining her decades of research and experience, Shirk, author of the hugely influential China: Fragile Superpower, argues that we are now fully embroiled in a new cold war.</p>
+
+<p>Prying open the "black box" of China’s political system, Shirk shows the shift toward confrontation began in the mid-2000s under the mild-mannered Hu Jintao. As China’s economy boomed, especially after the Global Financial Crisis of 2008, Hu and the other leaders lost restraint, abetting aggression toward the outside world and unchecked domestic social control. When Xi Jinping took power in 2012, he capitalized on widespread official corruption and open splits in the leadership to make the case for more concentrated power at the top.</p>
+
+<p>In the decade following, and to the present day, Xi has accumulated greater power than any leader since Mao. Those who implement Xi’s directives compete to outdo one another in fervor, provoking an even greater global backlash and stoking jingoism within China on a scale not seen since the Cultural Revolution. Shirk’s extensive interviews and meticulous analysis reveal the dynamics driving overreach. To counter it, she argues, the worst mistake the rest of the world, and the United States in particular, can make is to overreact. Understanding the domestic roots of China’s actions will enable us to avoid the mistakes that could lead to war.</p>
+
+<p><strong>(The verbiage above is from the publisher of Overreach and is not reflective of or endorsed by CWP or Columbia University)</strong></p>
+
+<p>&nbsp;<img alt="Susan Shirk UCSD" data-delta="1" data-fid="5894" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/Susan%20Shirk_credit%20Jordan%20Engle%20%281%29_0.jpg?itok=R31MEbUb" title="Susan Shirk UCSD" /></p>
+
+<p>Susan Shirk is a Research Professor and Chair of the 21st Century China Center at the School of Global Policy and Strategy, UC San Diego. Shirk is the author of China: Fragile Superpower, and The Political Logic of Economic Reform in China. From 1997-2000, she served as Deputy Assistant Secretary of State in the Bureau of East Asia and Pacific Affairs, with responsibility for China, Taiwan, Hong Kong and Mongolia.’</p>
+
+<p><strong>Panel Discussion Following book talk</strong>:</p>
+
+<p><strong>Thomas J. Christensen</strong>&nbsp;is the James T. Shotwell Professor of International Relations&nbsp;and Director of the&nbsp;<a href="https://cwp.sipa.columbia.edu/">China and the World Program</a>&nbsp;at Columbia University.&nbsp; He arrived in 2018 from Princeton University where he was William P. Boswell Professor of World Politics of Peace and War, Director of the Princeton-Harvard China and the World Program, and faculty director of the Masters of Public Policy Program and the Truman Scholars Program.&nbsp; &nbsp;From 2006-2008 he served as Deputy Assistant Secretary of State for East Asian and Pacific Affairs with responsibility for relations with China, Taiwan, and Mongolia.</p>
+
+<p><strong>Susan A. Thornton</strong>&nbsp;is a retired senior U.S. diplomat with almost three decades of experience with the U.S. State Department in Eurasia and East Asia. She is currently a Senior Fellow and Visiting Lecturer in Law at the Yale Law School Paul Tsai China Center. She is also the director of the Forum on Asia-Pacific Security at the National Committee on American Foreign Policy and a nonresident senior fellow at the Brookings Institution.</p>
+
+<p><strong>John K. Culver</strong>&nbsp;is a nonresident senior fellow with the Atlantic Council’s Global China Hub and a former Central Intelligence Agency (CIA) senior intelligence officer with thirty-five years of experience as a leading analyst of East Asian affairs, including security, economic, and foreign-policy dimensions.&nbsp;Previously as national intelligence officer for East Asia from 2015 to 2018, Culver drove the Intelligence Community’s support to top policymakers on East Asian issues and managed extensive relationships inside and outside government.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="Thomas Christensen" data-delta="1" data-fid="5944" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/Tom_Christensen_Headshot_Spring2019sml_4.png?itok=2SsAfzJK" /><img alt="Susan Thornton" data-delta="2" data-fid="5945" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/susan-thornton_0.jpg?itok=tGLN1f_w" title="Susan Thornton" /><img alt="John Culver" data-delta="3" data-fid="5946" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/John-K-Culver.jpg?itok=tiWJmHpb" title="John Culver" /></p>
+
+<p>Co-sponsored by: the China and the World Program, the Weatherhead East Asian Institute and the Saltzman Institute of War and Peace Studies (SIWPS).</p>
+
+<p><img alt="OVERREACH How China Derailed Its Peaceful Rise  By Susan L. Shirk" data-delta="2" data-fid="5895" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/Cover%20Art%20-%20Overreach%20%281%29.jpg?itok=QcgaJvut" title="OVERREACH How China Derailed Its Peaceful Rise  By Susan L. Shirk" /></p>
+
+<p>To purchase a copy of Dr. Shirk's book please go here:&nbsp;<a href="https://global.oup.com/academic/product/overreach-9780190068516?cc=us&amp;lang=en&amp;">https://global.oup.com/academic/product/overreach-9780190068516?cc=us&amp;lang=en&amp;</a></p>
+
+<hr />
+<p>&nbsp;</p>
+
+<p>Photo Credit: Oxford University Press&nbsp;&amp; Jordan Engle&nbsp;</p>
+17:T1617,<p><strong>Book Talk by Susan Shirk</strong></p>
+
+<p>For three decades after Mao’s death in 1976, China’s leaders adopted a restrained approach to foreign policy. To facilitate the country’s inexorable economic ascendence, and to prevent a backlash, they reassured the outside world of China’s peaceful intentions.</p>
+
+<p>Then, as Susan Shirk shows in this illuminating, sobering, and utterly refreshing new book, something changed. China went from fragile superpower to global heavyweight, muscling its way around the South China Sea, punishing countries that disagree with China, intimidating Taiwan, tightening its grip on Hong Kong, and openly challenging the United States for preeminence not just economically and technologically but militarily. China began to overreach. &nbsp;</p>
+
+<p>Combining her decades of research and experience, Shirk, author of the hugely influential China: Fragile Superpower, argues that we are now fully embroiled in a new cold war.</p>
+
+<p>Prying open the "black box" of China’s political system, Shirk shows the shift toward confrontation began in the mid-2000s under the mild-mannered Hu Jintao. As China’s economy boomed, especially after the Global Financial Crisis of 2008, Hu and the other leaders lost restraint, abetting aggression toward the outside world and unchecked domestic social control. When Xi Jinping took power in 2012, he capitalized on widespread official corruption and open splits in the leadership to make the case for more concentrated power at the top.</p>
+
+<p>In the decade following, and to the present day, Xi has accumulated greater power than any leader since Mao. Those who implement Xi’s directives compete to outdo one another in fervor, provoking an even greater global backlash and stoking jingoism within China on a scale not seen since the Cultural Revolution. Shirk’s extensive interviews and meticulous analysis reveal the dynamics driving overreach. To counter it, she argues, the worst mistake the rest of the world, and the United States in particular, can make is to overreact. Understanding the domestic roots of China’s actions will enable us to avoid the mistakes that could lead to war.</p>
+
+<p><strong>(The verbiage above is from the publisher of Overreach and is not reflective of or endorsed by CWP or Columbia University)</strong></p>
+
+<p>&nbsp;<img alt="Susan Shirk UCSD" data-delta="1" data-fid="5894" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/Susan%20Shirk_credit%20Jordan%20Engle%20%281%29_0.jpg?itok=R31MEbUb" title="Susan Shirk UCSD" /></p>
+
+<p>Susan Shirk is a Research Professor and Chair of the 21st Century China Center at the School of Global Policy and Strategy, UC San Diego. Shirk is the author of China: Fragile Superpower, and The Political Logic of Economic Reform in China. From 1997-2000, she served as Deputy Assistant Secretary of State in the Bureau of East Asia and Pacific Affairs, with responsibility for China, Taiwan, Hong Kong and Mongolia.’</p>
+
+<p><strong>Panel Discussion Following book talk</strong>:</p>
+
+<p><strong>Thomas J. Christensen</strong>&nbsp;is the James T. Shotwell Professor of International Relations&nbsp;and Director of the&nbsp;<a href="https://cwp.sipa.columbia.edu/">China and the World Program</a>&nbsp;at Columbia University.&nbsp; He arrived in 2018 from Princeton University where he was William P. Boswell Professor of World Politics of Peace and War, Director of the Princeton-Harvard China and the World Program, and faculty director of the Masters of Public Policy Program and the Truman Scholars Program.&nbsp; &nbsp;From 2006-2008 he served as Deputy Assistant Secretary of State for East Asian and Pacific Affairs with responsibility for relations with China, Taiwan, and Mongolia.</p>
+
+<p><strong>Susan A. Thornton</strong>&nbsp;is a retired senior U.S. diplomat with almost three decades of experience with the U.S. State Department in Eurasia and East Asia. She is currently a Senior Fellow and Visiting Lecturer in Law at the Yale Law School Paul Tsai China Center. She is also the director of the Forum on Asia-Pacific Security at the National Committee on American Foreign Policy and a nonresident senior fellow at the Brookings Institution.</p>
+
+<p><strong>John K. Culver</strong>&nbsp;is a nonresident senior fellow with the Atlantic Council’s Global China Hub and a former Central Intelligence Agency (CIA) senior intelligence officer with thirty-five years of experience as a leading analyst of East Asian affairs, including security, economic, and foreign-policy dimensions.&nbsp;Previously as national intelligence officer for East Asia from 2015 to 2018, Culver drove the Intelligence Community’s support to top policymakers on East Asian issues and managed extensive relationships inside and outside government.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="Thomas Christensen" data-delta="1" data-fid="5944" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/Tom_Christensen_Headshot_Spring2019sml_4.png?itok=2SsAfzJK" /><img alt="Susan Thornton" data-delta="2" data-fid="5945" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/susan-thornton_0.jpg?itok=tGLN1f_w" title="Susan Thornton" /><img alt="John Culver" data-delta="3" data-fid="5946" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/John-K-Culver.jpg?itok=tiWJmHpb" title="John Culver" /></p>
+18:T15fa,<p><strong>Book Talk by Susan Shirk</strong></p>
+
+<p>For three decades after Mao’s death in 1976, China’s leaders adopted a restrained approach to foreign policy. To facilitate the country’s inexorable economic ascendence, and to prevent a backlash, they reassured the outside world of China’s peaceful intentions.</p>
+
+<p>Then, as Susan Shirk shows in this illuminating, sobering, and utterly refreshing new book, something changed. China went from fragile superpower to global heavyweight, muscling its way around the South China Sea, punishing countries that disagree with China, intimidating Taiwan, tightening its grip on Hong Kong, and openly challenging the United States for preeminence not just economically and technologically but militarily. China began to overreach. &nbsp;</p>
+
+<p>Combining her decades of research and experience, Shirk, author of the hugely influential China: Fragile Superpower, argues that we are now fully embroiled in a new cold war.</p>
+
+<p>Prying open the "black box" of China’s political system, Shirk shows the shift toward confrontation began in the mid-2000s under the mild-mannered Hu Jintao. As China’s economy boomed, especially after the Global Financial Crisis of 2008, Hu and the other leaders lost restraint, abetting aggression toward the outside world and unchecked domestic social control. When Xi Jinping took power in 2012, he capitalized on widespread official corruption and open splits in the leadership to make the case for more concentrated power at the top.</p>
+
+<p>In the decade following, and to the present day, Xi has accumulated greater power than any leader since Mao. Those who implement Xi’s directives compete to outdo one another in fervor, provoking an even greater global backlash and stoking jingoism within China on a scale not seen since the Cultural Revolution. Shirk’s extensive interviews and meticulous analysis reveal the dynamics driving overreach. To counter it, she argues, the worst mistake the rest of the world, and the United States in particular, can make is to overreact. Understanding the domestic roots of China’s actions will enable us to avoid the mistakes that could lead to war.</p>
+
+<p><strong>(The verbiage above is from the publisher of Overreach and is not reflective of or endorsed by CWP or Columbia University)</strong></p>
+
+<p>&nbsp;<img alt="Susan Shirk UCSD" data-delta="1" data-fid="5894" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/Susan%20Shirk_credit%20Jordan%20Engle%20%281%29_0.jpg?itok=R31MEbUb" title="Susan Shirk UCSD" /></p>
+
+<p>Susan Shirk is a Research Professor and Chair of the 21st Century China Center at the School of Global Policy and Strategy, UC San Diego. Shirk is the author of China: Fragile Superpower, and The Political Logic of Economic Reform in China. From 1997-2000, she served as Deputy Assistant Secretary of State in the Bureau of East Asia and Pacific Affairs, with responsibility for China, Taiwan, Hong Kong and Mongolia.’</p>
+
+<p><strong>Panel Discussion Following book talk</strong>:</p>
+
+<p><strong>Thomas J. Christensen</strong>&nbsp;is the James T. Shotwell Professor of International Relations&nbsp;and Director of the&nbsp;<a href="https://cwp.sipa.columbia.edu/">China and the World Program</a>&nbsp;at Columbia University.&nbsp; He arrived in 2018 from Princeton University where he was William P. Boswell Professor of World Politics of Peace and War, Director of the Princeton-Harvard China and the World Program, and faculty director of the Masters of Public Policy Program and the Truman Scholars Program.&nbsp; &nbsp;From 2006-2008 he served as Deputy Assistant Secretary of State for East Asian and Pacific Affairs with responsibility for relations with China, Taiwan, and Mongolia.</p>
+
+<p><strong>Susan A. Thornton</strong>&nbsp;is a retired senior U.S. diplomat with almost three decades of experience with the U.S. State Department in Eurasia and East Asia. She is currently a Senior Fellow and Visiting Lecturer in Law at the Yale Law School Paul Tsai China Center. She is also the director of the Forum on Asia-Pacific Security at the National Committee on American Foreign Policy and a nonresident senior fellow at the Brookings Institution.</p>
+
+<p><strong>John K. Culver</strong>&nbsp;is a nonresident senior fellow with the Atlantic Council’s Global China Hub and a former Central Intelligence Agency (CIA) senior intelligence officer with thirty-five years of experience as a leading analyst of East Asian affairs, including security, economic, and foreign-policy dimensions.&nbsp;Previously as national intelligence officer for East Asia from 2015 to 2018, Culver drove the Intelligence Community’s support to top policymakers on East Asian issues and managed extensive relationships inside and outside government.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="Thomas Christensen" data-delta="1" data-fid="5944" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/Tom_Christensen_Headshot_Spring2019sml_4.png?itok=2SsAfzJK" /><img alt="Susan Thornton" data-delta="2" data-fid="5945" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/susan-thornton_0.jpg?itok=tGLN1f_w" title="Susan Thornton" /><img alt="John Culver" data-delta="3" data-fid="5946" data-media-element="1" src="https://cwp.sipa.columbia.edu/sites/default/files/styles/scaled_no_crop/public/embedded-media/John-K-Culver.jpg?itok=tiWJmHpb" title="John Culver" /></p>
+6:["$","$L12",null,{"event":{"id":"a8299b16-1fa4-4187-90e6-8fe0eff4c25e","title":"OVERREACH: HOW CHINA DERAILED ITS PEACEFUL RISE - A BOOK TALK BY SUSAN SHIRK FOLLOWED BY A PANEL","field_starting_time":"2022-10-24T20:30:00+00:00","field_speakers":{"value":"$13","format":"event_entering","processed":"$14"},"field_organizers":{"value":"$15","format":"event_entering","processed":"$16"},"field_event_mode":"Hybrid","field_event_category":"Talk","field_event_language":"english","field_event_venue":null,"field_event_record":true,"field_registration":true,"field_time_zone":"Antarctica/Palmer","field_event_website":{"uri":"https://cwp.sipa.columbia.edu/events/overreach-how-china-derailed-its-peaceful-rise-book-talk-susan-shirk-followed-panel","title":"","options":[]},"field_description":{"value":"$17","format":"event_entering","processed":"$18"}}}]
