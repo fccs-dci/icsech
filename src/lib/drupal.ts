@@ -32,7 +32,7 @@ export async function getAllEvents(): Promise<Event[]> {
     `${DRUPAL_BASEURL}/jsonapi/node/event?sort=-field_starting_time&page[limit]=50`;
 
   while (url) {
-    const res = await fetch(url, { next: { revalidate: 0 } });
+    const res = await fetch(url);
     if (!res.ok) {
       throw new Error(`Drupal API error: ${res.status} ${res.statusText}`);
     }
@@ -50,8 +50,7 @@ export async function getEventById(id: string): Promise<Event | null> {
   }
 
   const res = await fetch(
-    `${DRUPAL_BASEURL}/jsonapi/node/event/${id}`,
-    { next: { revalidate: 0 } }
+    `${DRUPAL_BASEURL}/jsonapi/node/event/${id}`
   );
 
   if (!res.ok) {
