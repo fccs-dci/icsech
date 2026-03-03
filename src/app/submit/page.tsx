@@ -14,11 +14,17 @@ export default function SubmitPage() {
           <p className="mt-8 text-xl text-gray-500 leading-8">
             If you would like to receive credentials to add your events to the
             catalog, please send an email using your university or other
-            professional email to fairbank@g.harvard.edu.
+            professional email to{" "}
+            <a href="mailto:fairbank@g.harvard.edu" className="text-primary font-medium hover:underline">
+              fairbank@g.harvard.edu
+            </a>.
           </p>
           <br />
           <p>
-            假如閣下希望把貴機構舉辦的活動加入本目錄，請以大學或機構電郵帳號聯絡fairbank@g.harvard.edu。
+            假如閣下希望把貴機構舉辦的活動加入本目錄，請以大學或機構電郵帳號聯絡{" "}
+            <a href="mailto:fairbank@g.harvard.edu" className="text-primary font-medium hover:underline">
+              fairbank@g.harvard.edu
+            </a>。
           </p>
         </div>
       </div>

@@ -15,14 +15,14 @@ export default function WeeklyDigestPage() {
         <div className="text-lg max-w-prose mx-auto">
           <p className="mt-8 text-xl text-gray-500 leading-8">
             To subscribe to the weekly digests, please send an email to{" "}
-            <a href="mailto:chinese_studies_events+subscribe@g.harvard.edu">
+            <a href="mailto:chinese_studies_events+subscribe@g.harvard.edu" className="text-primary font-medium hover:underline">
               chinese_studies_events+subscribe@g.harvard.edu
             </a>
             .
           </p>
           <p>
             如欲訂閲週報, 請發電郵至{" "}
-            <a href="mailto:chinese_studies_events+subscribe@g.harvard.edu">
+            <a href="mailto:chinese_studies_events+subscribe@g.harvard.edu" className="text-primary font-medium hover:underline">
               chinese_studies_events+subscribe@g.harvard.edu
             </a>
             .
@@ -39,7 +39,7 @@ export default function WeeklyDigestPage() {
             This Group&quot; 按鍵。
           </p>
           <br />
-          <img src="/images/weeklydigest.png" alt="Weekly digest enrollment" />
+          <img src="/images/weeklydigest.png" alt="Weekly digest enrollment" className="rounded-lg shadow-md" />
           <br />
           <p className="mt-8 text-xl text-gray-500 leading-8">
             You will receive a confirmation.

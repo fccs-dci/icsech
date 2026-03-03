@@ -32,6 +32,7 @@ export default function AboutPage() {
               directly. We hope you find this catalog helpful.
             </p>
           </div>
+          <hr className="my-10 border-gray-300" />
           <div className="text-lg max-w-prose mx-auto py-8">
             <h1>
               <span className="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
