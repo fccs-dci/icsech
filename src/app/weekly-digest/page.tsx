@@ -1,0 +1,52 @@
+export default function WeeklyDigestPage() {
+  return (
+    <div className="relative py-16 bg-white overflow-hidden">
+      <div className="relative px-4 sm:px-6 lg:px-8">
+        <div className="text-lg max-w-prose mx-auto">
+          <h1>
+            <span className="block text-base text-center text-primary font-semibold tracking-wide uppercase">
+              Subscribe 訂閲
+            </span>
+            <span className="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
+              Weekly Digests 週報
+            </span>
+          </h1>
+        </div>
+        <div className="text-lg max-w-prose mx-auto">
+          <p className="mt-8 text-xl text-gray-500 leading-8">
+            To subscribe to the weekly digests, please send an email to{" "}
+            <a href="mailto:chinese_studies_events+subscribe@g.harvard.edu" className="text-primary font-medium hover:underline">
+              chinese_studies_events+subscribe@g.harvard.edu
+            </a>
+            .
+          </p>
+          <p>
+            如欲訂閲週報, 請發電郵至{" "}
+            <a href="mailto:chinese_studies_events+subscribe@g.harvard.edu" className="text-primary font-medium hover:underline">
+              chinese_studies_events+subscribe@g.harvard.edu
+            </a>
+            .
+          </p>
+          <br />
+          <p className="mt-8 text-xl text-gray-500 leading-8">
+            You will receive an email from the Google Group. (See the screen
+            capture below.) Please <strong>REPLY</strong> to this email. The
+            &quot;Join This Group&quot; button does not work.
+          </p>
+          <p>
+            閣下會收到從Google
+            Group發出的電郵（見下圖）。請<strong>回覆</strong>該電郵，而非點選&quot;Join
+            This Group&quot; 按鍵。
+          </p>
+          <br />
+          <img src="/images/weeklydigest.png" alt="Weekly digest enrollment" className="rounded-lg shadow-md" />
+          <br />
+          <p className="mt-8 text-xl text-gray-500 leading-8">
+            You will receive a confirmation.
+          </p>
+          <p>閣下將收到另一封確認電郵。</p>
+        </div>
+      </div>
+    </div>
+  );
+}
