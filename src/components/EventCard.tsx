@@ -40,13 +40,12 @@ export default function EventCard({ event }: { event: Event }) {
           </div>
         )}
         <div className="flex justify-end mt-4">
-          <Link href={`/event/${event.id}/`} target="_blank">
-            <button
-              type="button"
-              className="inline-flex items-center px-4 py-2 text-sm font-medium rounded-md text-white bg-primary hover:bg-red-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-800 transition-colors"
-            >
-              Detail 詳情
-            </button>
+          <Link
+            href={`/event/${event.id}/`}
+            target="_blank"
+            className="inline-flex items-center px-4 py-2 text-sm font-medium rounded-md text-white bg-primary hover:bg-red-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-800 transition-colors"
+          >
+            Detail 詳情
           </Link>
         </div>
       </div>

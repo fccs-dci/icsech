@@ -5,12 +5,12 @@ import { InstantSearch, SearchBox, Hits, Pagination } from "react-instantsearch"
 import Link from "next/link";
 import { stripHtml } from "@/lib/strip-html";
 
-const searchClient = algoliasearch(
-  process.env.NEXT_PUBLIC_ALGOLIA_APP_ID || "COIVUY7A28",
-  process.env.NEXT_PUBLIC_ALGOLIA_SEARCH_KEY || "d35f214bf1152c30583045b4f4955e2c"
-);
+const appId = process.env.NEXT_PUBLIC_ALGOLIA_APP_ID;
+const searchKey = process.env.NEXT_PUBLIC_ALGOLIA_SEARCH_KEY;
+const indexName = process.env.NEXT_PUBLIC_ALGOLIA_INDEX_NAME;
 
-const indexName = process.env.NEXT_PUBLIC_ALGOLIA_INDEX_NAME || "dev_DRUPALEVENTS";
+const searchClient =
+  appId && searchKey ? algoliasearch(appId, searchKey) : null;
 
 interface HitProps {
   hit: {
@@ -38,6 +38,10 @@ function Hit({ hit }: HitProps) {
 }
 
 export default function AlgoliaSearch() {
+  if (!searchClient || !indexName) {
+    return <p className="text-gray-500 text-center">Search is currently unavailable.</p>;
+  }
+
   return (
     <InstantSearch searchClient={searchClient} indexName={indexName} stalledSearchDelay={2000}>
       <SearchBox />
@@ -50,7 +54,7 @@ export default function AlgoliaSearch() {
         <a
           href="https://algolia.com"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer"
           aria-label="Algolia"
         >
           <img width={70} src="/images/logo-algolia.svg" alt="Algolia" />
