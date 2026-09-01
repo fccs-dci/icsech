@@ -1,6 +1,7 @@
 "use client";
 
 import { DateTime } from "luxon";
+import { sanitizeHtml } from "@/lib/sanitize-html";
 import type { Event } from "@/lib/types";
 
 function ClockIcon() {
@@ -121,7 +122,7 @@ export default function EventDetail({ event }: { event: Event }) {
       content: (
         <div
           className="text-sm text-gray-900"
-          dangerouslySetInnerHTML={{ __html: event.field_speakers.processed }}
+          dangerouslySetInnerHTML={{ __html: sanitizeHtml(event.field_speakers.processed) }}
         />
       ),
     });
@@ -135,7 +136,7 @@ export default function EventDetail({ event }: { event: Event }) {
       content: (
         <div
           className="text-sm text-gray-900"
-          dangerouslySetInnerHTML={{ __html: event.field_organizers.processed }}
+          dangerouslySetInnerHTML={{ __html: sanitizeHtml(event.field_organizers.processed) }}
         />
       ),
     });
@@ -176,7 +177,7 @@ export default function EventDetail({ event }: { event: Event }) {
       content: (
         <div
           className="text-sm text-gray-900"
-          dangerouslySetInnerHTML={{ __html: event.field_description.processed }}
+          dangerouslySetInnerHTML={{ __html: sanitizeHtml(event.field_description.processed) }}
         />
       ),
     });
@@ -211,11 +212,10 @@ export default function EventDetail({ event }: { event: Event }) {
         <a
           href={event.field_event_website.uri}
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer"
+          className="inline-flex items-center px-4 py-2 text-sm font-medium rounded-md text-white bg-primary hover:bg-red-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary transition-colors"
         >
-          <button className="inline-flex items-center px-4 py-2 text-sm font-medium rounded-md text-white bg-primary hover:bg-red-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary transition-colors">
-            Visit the Event Website 前往網頁
-          </button>
+          Visit the Event Website 前往網頁
         </a>
       ),
     });
