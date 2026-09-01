@@ -31,6 +31,15 @@ export default function AboutPage() {
               queries. Please contact the organizer of the specific event
               directly. We hope you find this catalog helpful.
             </p>
+            <p>
+              <strong>Update, September 2026.</strong> The Clearing-house has
+              reached the end of its useful life and has been sunset. Scholars
+              now have many other ways to find and share event information. The
+              website stays online as an archive and a record of the project,
+              but it is no longer updated and no new events will be added.
+              Thank you for using and supporting the Clearing-house over the
+              years.
+            </p>
           </div>
           <hr className="my-10 border-gray-300" />
           <div className="text-lg max-w-prose mx-auto py-8">
@@ -50,6 +59,9 @@ export default function AboutPage() {
             我們有賴世界各地的同行提供活動資訊，但本目錄並不以無所不包爲目標。
             本網站乃費正清中國研究中心為中國研究同寅所提供之服務，本中心對所刊登之活動並無任何責任，亦不會回應任何活動查詢。
             如對活動有所疑問，請直接與活動主辦人聯絡。 我們希望本目錄爲您帶來便利。
+          </p>
+          <p className="mt-6">
+            <strong>2026年9月更新：</strong>本網站已完成其階段性使命，現正式停止運作。網站將保留作為檔案及項目紀錄，但不再更新，亦不會再增加任何活動。感謝各位多年來的使用及支持。
           </p>
         </div>
       </div>

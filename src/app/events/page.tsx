@@ -1,16 +1,8 @@
-import { getAllEvents } from "@/lib/drupal";
-import EventsGrid from "./events-grid";
+import { getEventYears } from "@/lib/events";
+import EventsArchive from "./events-archive";
 
-export default async function EventsPage() {
-  const events = await getAllEvents();
-
-  const futureEvents = events
-    .filter((event) => new Date(event.field_starting_time) >= new Date())
-    .sort(
-      (a, b) =>
-        new Date(a.field_starting_time).getTime() -
-        new Date(b.field_starting_time).getTime()
-    );
-
-  return <EventsGrid events={futureEvents} />;
+/** /events/ shows the newest year. Older years live at /events/<year>/. */
+export default function EventsPage() {
+  const [newestYear] = getEventYears();
+  return <EventsArchive year={newestYear} />;
 }

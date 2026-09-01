@@ -1,10 +1,11 @@
 import Link from "next/link";
+import SunsetNotice from "@/components/SunsetNotice";
 
 const supportLinks = [
   {
     name: "Browse Events",
     href: "/events/",
-    description: "Browse forthcoming Chinese studies events.",
+    description: "Browse the archive of China studies events from 2020 to 2026, newest first.",
     action: "Browse",
     icon: (
       <svg className="h-8 w-8 text-primary" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor">
@@ -16,7 +17,7 @@ const supportLinks = [
     name: "Search Events",
     href: "/search/",
     description:
-      "Search past and future events with speakers, organizers, and description.",
+      "Search the archive by title, speakers, organizers, and description.",
     action: "Search",
     icon: (
       <svg className="h-8 w-8 text-primary" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor">
@@ -25,13 +26,13 @@ const supportLinks = [
     ),
   },
   {
-    name: "Weekly Digest",
-    href: "/weekly-digest/",
-    description: "Keeping update with the weekly digest listing events.",
-    action: "Subscribe",
+    name: "About the Project",
+    href: "/about/",
+    description: "Read how the Clearing-house began in 2020 and why it was sunset in 2026.",
+    action: "Read more",
     icon: (
       <svg className="h-8 w-8 text-primary" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor">
-        <path strokeLinecap="round" strokeLinejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.243a2.25 2.25 0 01-1.07 1.916l-7.5 4.615a2.25 2.25 0 01-2.36 0L3.32 8.91a2.25 2.25 0 01-1.07-1.916V6.75" />
+        <path strokeLinecap="round" strokeLinejoin="round" d="M12 6.042A8.967 8.967 0 006 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 016 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 016-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0018 18a8.967 8.967 0 00-6 2.292m0-14.25v14.25" />
       </svg>
     ),
   },
@@ -40,6 +41,8 @@ const supportLinks = [
 export default function HomePage() {
   return (
     <div className="bg-white">
+      <SunsetNotice />
+
       {/* Hero */}
       <div className="relative justify-center pb-32 bg-gradient-to-br from-primary to-red-950">
         <div className="relative max-w-7xl mx-auto py-24 px-4 sm:py-32 sm:px-6 lg:px-8">
@@ -47,9 +50,11 @@ export default function HomePage() {
             International China Studies Events Clearing-house
           </h1>
           <p className="mt-6 max-w-3xl text-xl text-gray-300">
-            The Fairbank Center for Chinese Studies at Harvard University
-            provides the International China Studies Event Clearing-house as a
-            service to the Chinese Studies community world-wide.
+            From 2020 to 2026, the Fairbank Center for Chinese Studies at
+            Harvard University provided the International China Studies Events
+            Clearing-house as a service to the China studies community
+            world-wide. The project has now ended. This site remains online as
+            an archive and is no longer updated.
           </p>
         </div>
       </div>

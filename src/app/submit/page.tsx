@@ -11,20 +11,19 @@ export default function SubmitPage() {
               Events 活動
             </span>
           </h1>
-          <p className="mt-8 text-xl text-gray-500 leading-8">
-            If you would like to receive credentials to add your events to the
-            catalog, please send an email using your university or other
-            professional email to{" "}
-            <a href="mailto:fairbank@g.harvard.edu" className="text-primary font-medium hover:underline">
-              fairbank@g.harvard.edu
-            </a>.
-          </p>
+          <div className="mt-8 rounded-lg border-l-4 border-primary bg-secondary/40 px-6 py-5">
+            <p className="text-xl text-gray-800 leading-8 font-medium">
+              Submissions are closed.
+            </p>
+            <p className="mt-2 text-gray-700 leading-7">
+              The Clearing-house was sunset in 2026. It is no longer updated and
+              no new events or information will be added. The website remains
+              online as an archive of the events listed between 2020 and 2026.
+            </p>
+          </div>
           <br />
           <p>
-            假如閣下希望把貴機構舉辦的活動加入本目錄，請以大學或機構電郵帳號聯絡{" "}
-            <a href="mailto:fairbank@g.harvard.edu" className="text-primary font-medium hover:underline">
-              fairbank@g.harvard.edu
-            </a>。
+            本網站已於2026年停止運作，不再接受活動登記，亦不會再增加任何活動或資訊。網站將保留作為2020至2026年活動資訊的檔案。
           </p>
         </div>
       </div>

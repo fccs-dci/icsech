@@ -13,38 +13,20 @@ export default function WeeklyDigestPage() {
           </h1>
         </div>
         <div className="text-lg max-w-prose mx-auto">
-          <p className="mt-8 text-xl text-gray-500 leading-8">
-            To subscribe to the weekly digests, please send an email to{" "}
-            <a href="mailto:chinese_studies_events+subscribe@g.harvard.edu" className="text-primary font-medium hover:underline">
-              chinese_studies_events+subscribe@g.harvard.edu
-            </a>
-            .
-          </p>
+          <div className="mt-8 rounded-lg border-l-4 border-primary bg-secondary/40 px-6 py-5">
+            <p className="text-xl text-gray-800 leading-8 font-medium">
+              The weekly digest has ended.
+            </p>
+            <p className="mt-2 text-gray-700 leading-7">
+              The Clearing-house was sunset in 2026. No further digests will be
+              sent and no new subscriptions are taken. Thank you to everyone who
+              subscribed over the years.
+            </p>
+          </div>
+          <br />
           <p>
-            如欲訂閲週報, 請發電郵至{" "}
-            <a href="mailto:chinese_studies_events+subscribe@g.harvard.edu" className="text-primary font-medium hover:underline">
-              chinese_studies_events+subscribe@g.harvard.edu
-            </a>
-            .
+            週報已於2026年停刊，不再發送新一期週報，亦不再接受訂閲。感謝各位多年來的支持。
           </p>
-          <br />
-          <p className="mt-8 text-xl text-gray-500 leading-8">
-            You will receive an email from the Google Group. (See the screen
-            capture below.) Please <strong>REPLY</strong> to this email. The
-            &quot;Join This Group&quot; button does not work.
-          </p>
-          <p>
-            閣下會收到從Google
-            Group發出的電郵（見下圖）。請<strong>回覆</strong>該電郵，而非點選&quot;Join
-            This Group&quot; 按鍵。
-          </p>
-          <br />
-          <img src="/images/weeklydigest.png" alt="Weekly digest enrollment" className="rounded-lg shadow-md" />
-          <br />
-          <p className="mt-8 text-xl text-gray-500 leading-8">
-            You will receive a confirmation.
-          </p>
-          <p>閣下將收到另一封確認電郵。</p>
         </div>
       </div>
     </div>
