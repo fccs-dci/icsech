@@ -1,5 +1,5 @@
 import { algoliasearch } from "algoliasearch";
-import { getAllEvents } from "./drupal";
+import { getAllEvents } from "./events";
 
 const ALGOLIA_APP_ID = process.env.ALGOLIA_APP_ID;
 const ALGOLIA_ADMIN_KEY = process.env.ALGOLIA_ADMIN_KEY;
@@ -13,15 +13,15 @@ async function main() {
     return;
   }
 
-  console.log("Fetching events from Drupal...");
-  const events = await getAllEvents();
+  console.log("Loading events from data/events.json...");
+  const events = getAllEvents();
 
   if (events.length === 0) {
     console.log("No events to index.");
     return;
   }
 
-  console.log(`Fetched ${events.length} events. Pushing to Algolia...`);
+  console.log(`Loaded ${events.length} events. Pushing to Algolia...`);
 
   const client = algoliasearch(ALGOLIA_APP_ID, ALGOLIA_ADMIN_KEY);
 

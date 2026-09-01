@@ -3,6 +3,16 @@ import { DateTime } from "luxon";
 import { stripHtml } from "@/lib/strip-html";
 import type { Event } from "@/lib/types";
 
+const PREVIEW_LENGTH = 320;
+
+/** Short plain-text preview. The full text is on the event page. */
+function preview(html: string): string {
+  const text = stripHtml(html).replace(/\s+/g, " ").trim();
+  return text.length > PREVIEW_LENGTH
+    ? text.slice(0, PREVIEW_LENGTH).trimEnd() + "\u2026"
+    : text;
+}
+
 export default function EventCard({ event }: { event: Event }) {
   const formattedTime = DateTime.fromISO(event.field_starting_time).toLocaleString(
     DateTime.DATETIME_FULL
@@ -35,7 +45,7 @@ export default function EventCard({ event }: { event: Event }) {
         {event.field_description && (
           <div className="flex-1 mt-4">
             <p className="line-clamp-5 text-sm text-gray-900">
-              {stripHtml(event.field_description.value)}
+              {preview(event.field_description.value)}
             </p>
           </div>
         )}

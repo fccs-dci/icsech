@@ -5,15 +5,19 @@
   --color-secondary: #F0DEDA;
 }
 
-body {
-  font-family: system-ui, -apple-system, sans-serif;
-}
+/* Base styles live in the base layer so Tailwind utilities can override them
+   (for example text-white on a button-styled link). */
+@layer base {
+  body {
+    font-family: system-ui, -apple-system, sans-serif;
+  }
 
-a {
-  color: var(--color-primary);
-}
-a:hover {
-  text-decoration: underline;
+  a {
+    color: var(--color-primary);
+  }
+  a:hover {
+    text-decoration: underline;
+  }
 }
 
 /* Algolia overrides */

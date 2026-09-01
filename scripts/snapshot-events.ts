@@ -1,4 +1,16 @@
-import type { DrupalJsonApiResponse, DrupalJsonApiNode, Event } from "./types";
+/**
+ * Pull every event from the Drupal JSON:API and write data/events.json.
+ * Only needed if the archive data ever has to be refreshed from Drupal.
+ *
+ *   DRUPAL_BASEURL=https://example.org npm run snapshot
+ */
+import { writeFileSync } from "node:fs";
+import path from "node:path";
+import type {
+  DrupalJsonApiResponse,
+  DrupalJsonApiNode,
+  Event,
+} from "../src/lib/types";
 
 const DRUPAL_BASEURL = process.env.DRUPAL_BASEURL;
 
@@ -22,7 +34,7 @@ function flattenNode(node: DrupalJsonApiNode): Event {
   };
 }
 
-export async function getAllEvents(): Promise<Event[]> {
+async function main() {
   if (!DRUPAL_BASEURL) {
     throw new Error("DRUPAL_BASEURL environment variable is not set");
   }
@@ -41,23 +53,18 @@ export async function getAllEvents(): Promise<Event[]> {
     url = json.links.next?.href ?? null;
   }
 
-  return events;
-}
-
-export async function getEventById(id: string): Promise<Event | null> {
-  if (!DRUPAL_BASEURL) {
-    throw new Error("DRUPAL_BASEURL environment variable is not set");
-  }
-
-  const res = await fetch(
-    `${DRUPAL_BASEURL}/jsonapi/node/event/${id}`
+  events.sort(
+    (a, b) =>
+      new Date(b.field_starting_time).getTime() -
+      new Date(a.field_starting_time).getTime()
   );
 
-  if (!res.ok) {
-    if (res.status === 404) return null;
-    throw new Error(`Drupal API error: ${res.status} ${res.statusText}`);
-  }
-
-  const json: { data: DrupalJsonApiNode } = await res.json();
-  return flattenNode(json.data);
+  const out = path.join(process.cwd(), "data", "events.json");
+  writeFileSync(out, JSON.stringify(events, null, 1) + "\n");
+  console.log(`Wrote ${events.length} events to ${out}`);
 }
+
+main().catch((err) => {
+  console.error("Snapshot failed:", err);
+  process.exit(1);
+});
